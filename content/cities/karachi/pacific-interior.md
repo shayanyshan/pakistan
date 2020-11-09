@@ -1,0 +1,4 @@
+---
+title: "Pacific Interior"
+url: /karachi/pacific-interior/
+---

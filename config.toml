@@ -1,0 +1,15 @@
+baseURL = "https://pk.shoogle.net/pakistan"
+languageCode = "en"
+title = "Pakistan"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "pakistan"

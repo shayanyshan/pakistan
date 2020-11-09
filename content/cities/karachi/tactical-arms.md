@@ -1,0 +1,4 @@
+---
+title: "Tactical Arms"
+url: /karachi/tactical-arms/
+---

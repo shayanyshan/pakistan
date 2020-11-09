@@ -1,0 +1,4 @@
+---
+title: "Warsi Decoration"
+url: /karachi/warsi-decoration/
+---

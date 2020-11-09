@@ -1,0 +1,4 @@
+---
+title: "Rafi Mall"
+url: /karachi/rafi-mall/
+---

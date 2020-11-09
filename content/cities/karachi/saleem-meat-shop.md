@@ -1,0 +1,4 @@
+---
+title: "Saleem Meat Shop"
+url: /karachi/saleem-meat-shop/
+---

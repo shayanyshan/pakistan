@@ -1,0 +1,4 @@
+---
+title: "Yamaha Motor"
+url: /bahawalpur/yamaha-motor/
+---

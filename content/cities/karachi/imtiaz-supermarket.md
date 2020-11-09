@@ -1,0 +1,4 @@
+---
+title: "Imtiaz Supermarket"
+url: /karachi/imtiaz-supermarket/
+---
