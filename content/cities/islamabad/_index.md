@@ -1,5 +1,5 @@
 ---
-title: Islamabad
+title: islamabad
 url: /islamabad/
 latitude: 
 longitude: 

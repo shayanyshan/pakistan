@@ -1,4 +1,4 @@
 ---
-title: "Gul Ahmed Store"
+title: "Gul Ahmed store"
 url: /karachi/gul-ahmed-store/
 ---
