@@ -1,6 +1,5 @@
 id: 8311000223
 type: node
-shop: supermarket
 latitude: 31.4068213
 longitude: 73.08976100000001
 postcode: "38000"
@@ -9,4 +8,4 @@ street: "Samundari Road"
 housenumber: 197
 phone: ""
 opening_hours: ""
-website: "rabisastore.pk"
+website: "https://rabisastore.pk/"

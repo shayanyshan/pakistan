@@ -1,4 +1,5 @@
 ---
 title: "Abdul Sattar Sweets"
 url: /hyderabad/abdul-sattar-sweets/
+shop: bakery
 ---
