@@ -1,6 +1,6 @@
 ---
-title: Alipur
-url: /alipur/
+title: Vehari
+url: /vehari/
 latitude: 
 longitude: 
 ---

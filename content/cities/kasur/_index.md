@@ -1,6 +1,6 @@
 ---
-title: Alipur
-url: /alipur/
+title: Kasur
+url: /kasur/
 latitude: 
 longitude: 
 ---
