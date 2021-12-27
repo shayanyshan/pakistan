@@ -1,5 +1,5 @@
 ---
 title: "Outfitters"
 url: /hyderabad/outfitters-2/
-shop: clothes
+shop: Kleidung
 ---

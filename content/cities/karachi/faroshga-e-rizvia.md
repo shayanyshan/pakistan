@@ -1,5 +1,5 @@
 ---
 title: "Faroshga e Rizvia"
 url: /karachi/faroshga-e-rizvia/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kamoki
 url: /kamoki/
-latitude: 
-longitude: 
+latitude: 31.978
+longitude: 74.222
 ---

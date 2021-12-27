@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /mltn/choice/
-shop: convenience
+shop: Lebensmittel
 ---

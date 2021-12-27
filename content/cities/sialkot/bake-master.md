@@ -1,5 +1,5 @@
 ---
 title: "Bake Master"
 url: /sialkot/bake-master/
-shop: bakery
+shop: Bäckerei
 ---

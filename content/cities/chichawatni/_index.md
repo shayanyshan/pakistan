@@ -1,6 +1,6 @@
 ---
 title: Chichawatni
 url: /chichawatni/
-latitude: 
-longitude: 
+latitude: 30.53
+longitude: 72.69
 ---

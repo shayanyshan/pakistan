@@ -1,5 +1,5 @@
 ---
 title: "FK Technologies"
 url: /karachi/fk-technologies/
-shop: electronics
+shop: Elektronik
 ---

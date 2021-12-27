@@ -1,6 +1,6 @@
 ---
 title: Adda Maotra
 url: /adda-maotra/
-latitude: 
-longitude: 
+latitude: 32.383
+longitude: 74.424
 ---

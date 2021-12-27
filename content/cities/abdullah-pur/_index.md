@@ -1,6 +1,6 @@
 ---
 title: Abdullah Pur
 url: /abdullah-pur/
-latitude: 
-longitude: 
+latitude: 31.421
+longitude: 73.107
 ---

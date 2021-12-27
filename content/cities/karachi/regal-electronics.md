@@ -1,5 +1,5 @@
 ---
 title: "Regal Electronics"
 url: /karachi/regal-electronics/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Raiwind
 url: /raiwind/
-latitude: 
-longitude: 
+latitude: 31.24
+longitude: 74.224
 ---

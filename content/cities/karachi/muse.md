@@ -1,5 +1,5 @@
 ---
 title: "MUSE"
 url: /karachi/muse/
-shop: clothes
+shop: Kleidung
 ---

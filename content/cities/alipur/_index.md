@@ -1,6 +1,6 @@
 ---
 title: Alipur
 url: /alipur/
-latitude: 
-longitude: 
+latitude: 33.647
+longitude: 73.182
 ---

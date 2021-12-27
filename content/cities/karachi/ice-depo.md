@@ -1,5 +1,5 @@
 ---
 title: "Ice Depo"
 url: /karachi/ice-depo/
-shop: shop
+shop: Allgemein
 ---

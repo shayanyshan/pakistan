@@ -1,5 +1,5 @@
 ---
 title: "Muslim Book Palace"
 url: /karachi/muslim-book-palace/
-shop: books
+shop: Bücher
 ---

@@ -1,6 +1,6 @@
 ---
 title: Muzaffargarh
 url: /muzaffargarh/
-latitude: 
-longitude: 
+latitude: 29.856
+longitude: 70.92
 ---

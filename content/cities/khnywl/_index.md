@@ -1,6 +1,6 @@
 ---
 title: خانیوال
 url: /khnywl/
-latitude: 30.3022528
-longitude: 71.92789160000001
+latitude: 30.298
+longitude: 71.921
 ---

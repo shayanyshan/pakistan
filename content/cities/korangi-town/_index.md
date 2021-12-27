@@ -1,6 +1,6 @@
 ---
 title: Korangi Town
 url: /korangi-town/
-latitude: 
-longitude: 
+latitude: 24.809
+longitude: 67.122
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bhiki
 url: /bhiki/
-latitude: 
-longitude: 
+latitude: 31.635
+longitude: 73.921
 ---

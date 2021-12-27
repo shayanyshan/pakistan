@@ -1,5 +1,5 @@
 ---
 title: "Cantonment Plaza"
 url: /abbottabad/cantonment-plaza/
-shop: mall
+shop: Einkaufszentrum
 ---

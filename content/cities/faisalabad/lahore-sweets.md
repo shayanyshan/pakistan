@@ -1,5 +1,5 @@
 ---
 title: "Lahore Sweets"
 url: /faisalabad/lahore-sweets/
-shop: bakery
+shop: Bäckerei
 ---

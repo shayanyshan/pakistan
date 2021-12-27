@@ -1,5 +1,5 @@
 ---
 title: "Jan Motors"
 url: /karachi/jan-motors/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Talangang
 url: /talangang/
-latitude: 
-longitude: 
+latitude: 32.927
+longitude: 72.431
 ---

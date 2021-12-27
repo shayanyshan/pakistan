@@ -1,6 +1,6 @@
 ---
 title: Allai
 url: /allai/
-latitude: 
-longitude: 
+latitude: 34.819
+longitude: 73.075
 ---

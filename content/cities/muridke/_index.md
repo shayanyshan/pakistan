@@ -1,6 +1,6 @@
 ---
 title: Muridke
 url: /muridke/
-latitude: 
-longitude: 
+latitude: 31.811
+longitude: 74.254
 ---

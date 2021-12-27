@@ -1,6 +1,6 @@
 ---
 title: RAHU ABAD
 url: /rahu-abad/
-latitude: 
-longitude: 
+latitude: 25.35
+longitude: 69.389
 ---

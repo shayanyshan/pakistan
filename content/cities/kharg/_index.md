@@ -1,6 +1,6 @@
 ---
 title: Kharg
 url: /kharg/
-latitude: 
-longitude: 
+latitude: 34.831
+longitude: 73.055
 ---

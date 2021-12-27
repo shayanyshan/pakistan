@@ -1,5 +1,5 @@
 ---
 title: "Real Bakers"
 url: /karachi/real-bakers/
-shop: bakery
+shop: Bäckerei
 ---

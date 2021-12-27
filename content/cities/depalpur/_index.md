@@ -1,6 +1,6 @@
 ---
 title: Depalpur
 url: /depalpur/
-latitude: 
-longitude: 
+latitude: 30.668
+longitude: 73.644
 ---

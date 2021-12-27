@@ -1,6 +1,6 @@
 ---
 title: Sakrand
 url: /sakrand/
-latitude: 
-longitude: 
+latitude: 26.15
+longitude: 68.259
 ---

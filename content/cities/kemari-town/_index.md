@@ -1,6 +1,6 @@
 ---
 title: Kemari Town
 url: /kemari-town/
-latitude: 
-longitude: 
+latitude: 24.889
+longitude: 66.983
 ---

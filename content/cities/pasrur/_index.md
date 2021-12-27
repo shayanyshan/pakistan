@@ -1,6 +1,6 @@
 ---
 title: Pasrur
 url: /pasrur/
-latitude: 
-longitude: 
+latitude: 32.259
+longitude: 74.654
 ---

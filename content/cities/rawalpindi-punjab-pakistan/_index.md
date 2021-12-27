@@ -1,6 +1,6 @@
 ---
 title: Rawalpindi, Punjab, Pakistan
 url: /rawalpindi-punjab-pakistan/
-latitude: 
-longitude: 
+latitude: 33.584
+longitude: 73.073
 ---

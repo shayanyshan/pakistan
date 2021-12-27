@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Showroom"
 url: /faisalabad/suzuki-showroom/
-shop: car
+shop: Autohaus
 ---

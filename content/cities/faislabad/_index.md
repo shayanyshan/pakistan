@@ -1,6 +1,6 @@
 ---
 title: Faislabad
 url: /faislabad/
-latitude: 
-longitude: 
+latitude: 31.393
+longitude: 73.077
 ---

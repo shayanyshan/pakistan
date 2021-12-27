@@ -1,6 +1,6 @@
 ---
 title: Steel Town
 url: /steel-town/
-latitude: 
-longitude: 
+latitude: 24.86
+longitude: 67.337
 ---

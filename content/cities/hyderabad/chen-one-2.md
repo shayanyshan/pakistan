@@ -1,5 +1,5 @@
 ---
 title: "Chen One"
 url: /hyderabad/chen-one-2/
-shop: mall
+shop: Einkaufszentrum
 ---

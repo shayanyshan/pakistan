@@ -1,5 +1,5 @@
 ---
 title: "Amin Furnitures"
 url: /karachi/amin-furnitures/
-shop: furniture
+shop: Möbel
 ---

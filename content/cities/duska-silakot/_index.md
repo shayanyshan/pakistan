@@ -1,6 +1,6 @@
 ---
 title: Duska, Silakot
 url: /duska-silakot/
-latitude: 
-longitude: 
+latitude: 32.382
+longitude: 74.426
 ---

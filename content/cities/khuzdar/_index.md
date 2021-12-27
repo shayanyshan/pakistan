@@ -1,6 +1,6 @@
 ---
 title: Khuzdar
 url: /khuzdar/
-latitude: 
-longitude: 
+latitude: 27.805
+longitude: 66.611
 ---

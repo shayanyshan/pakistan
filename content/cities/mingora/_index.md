@@ -1,6 +1,6 @@
 ---
 title: Mingora
 url: /mingora/
-latitude: 
-longitude: 
+latitude: 34.767
+longitude: 72.36
 ---

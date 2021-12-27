@@ -1,5 +1,5 @@
 ---
 title: "Subkuchpk"
 url: /karachi/subkuchpk/
-shop: supermarket
+shop: Supermarkt
 ---

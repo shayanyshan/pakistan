@@ -1,6 +1,6 @@
 ---
 title: gulmit gojal
 url: /gulmit-gojal/
-latitude: 
-longitude: 
+latitude: 36.392
+longitude: 74.867
 ---

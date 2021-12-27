@@ -1,6 +1,6 @@
 ---
 title: Nooriabad
 url: /nooriabad/
-latitude: 
-longitude: 
+latitude: 25.175
+longitude: 67.8
 ---

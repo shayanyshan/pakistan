@@ -1,6 +1,6 @@
 ---
 title: Hassan Abdal
 url: /hassan-abdal/
-latitude: 
-longitude: 
+latitude: 33.826
+longitude: 72.699
 ---

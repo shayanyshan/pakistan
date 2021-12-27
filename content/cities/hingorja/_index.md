@@ -1,6 +1,6 @@
 ---
 title: Hingorja
 url: /hingorja/
-latitude: 
-longitude: 
+latitude: 27.211
+longitude: 68.413
 ---

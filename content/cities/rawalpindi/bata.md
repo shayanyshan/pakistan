@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /rawalpindi/bata/
-shop: shoes
+shop: Schuhe
 ---

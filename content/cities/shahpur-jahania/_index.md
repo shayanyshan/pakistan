@@ -1,6 +1,6 @@
 ---
 title: Shahpur Jahania
 url: /shahpur-jahania/
-latitude: 
-longitude: 
+latitude: 26.572
+longitude: 67.974
 ---

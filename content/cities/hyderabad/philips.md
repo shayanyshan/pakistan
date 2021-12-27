@@ -1,5 +1,5 @@
 ---
 title: "Philips"
 url: /hyderabad/philips/
-shop: electronics
+shop: Elektronik
 ---

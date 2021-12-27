@@ -1,6 +1,6 @@
 ---
 title: Punjab
 url: /punjab/
-latitude: 
-longitude: 
+latitude: 32.268
+longitude: 72.904
 ---

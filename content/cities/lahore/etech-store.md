@@ -1,5 +1,5 @@
 ---
 title: "Etech Store"
 url: /lahore/etech-store/
-shop: electronics
+shop: Elektronik
 ---

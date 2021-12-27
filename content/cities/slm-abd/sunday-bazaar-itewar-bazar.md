@@ -1,5 +1,5 @@
 ---
 title: "Sunday Bazaar (Itewar Bazar)"
 url: /slm-abd/sunday-bazaar-itewar-bazar/
-shop: supermarket
+shop: Supermarkt
 ---

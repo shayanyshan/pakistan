@@ -1,5 +1,5 @@
 ---
 title: "Bonanza"
 url: /hyderabad/bonanza/
-shop: clothes
+shop: Kleidung
 ---

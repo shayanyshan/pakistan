@@ -1,6 +1,6 @@
 ---
 title: Khomar
 url: /khomar/
-latitude: 
-longitude: 
+latitude: 35.907
+longitude: 74.342
 ---

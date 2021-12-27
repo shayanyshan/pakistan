@@ -1,5 +1,5 @@
 ---
 title: "Vintage Bakeshop"
 url: /karachi/vintage-bakeshop/
-shop: bakery
+shop: Bäckerei
 ---

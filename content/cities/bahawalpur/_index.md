@@ -1,6 +1,6 @@
 ---
 title: BAHAWALPUR
 url: /bahawalpur/
-latitude: 
-longitude: 
+latitude: 29.399
+longitude: 71.659
 ---

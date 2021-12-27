@@ -1,5 +1,5 @@
 ---
 title: "Nawaz Gold"
 url: /rawalpindi/nawaz-gold/
-shop: jewelry
+shop: Schmuck
 ---

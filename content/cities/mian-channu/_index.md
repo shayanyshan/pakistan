@@ -1,6 +1,6 @@
 ---
 title: Mian Channu
 url: /mian-channu/
-latitude: 
-longitude: 
+latitude: 30.436
+longitude: 72.345
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Times Medicos"
 url: /karachi/times-medicos/
-shop: shop
+shop: Allgemein
 ---

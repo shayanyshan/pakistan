@@ -1,5 +1,5 @@
 ---
 title: "Hareer"
 url: /lahore/hareer/
-shop: clothes
+shop: Kleidung
 ---

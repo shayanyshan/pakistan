@@ -1,6 +1,6 @@
 ---
 title: Shingli Bala
 url: /shingli-bala/
-latitude: 34.6781817
-longitude: 72.9848327
+latitude: 34.678
+longitude: 72.987
 ---

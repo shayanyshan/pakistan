@@ -1,6 +1,6 @@
 ---
 title: Gilgit
 url: /gilgit/
-latitude: 35.885891900000004
-longitude: 74.4693848
+latitude: 35.909
+longitude: 74.357
 ---

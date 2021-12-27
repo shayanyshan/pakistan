@@ -1,6 +1,6 @@
 ---
 title: Vehari
 url: /vehari/
-latitude: 
-longitude: 
+latitude: 30.04
+longitude: 72.348
 ---

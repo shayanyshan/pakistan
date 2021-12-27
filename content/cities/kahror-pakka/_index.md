@@ -1,6 +1,6 @@
 ---
 title: Kahror Pakka
 url: /kahror-pakka/
-latitude: 
-longitude: 
+latitude: 29.634
+longitude: 71.906
 ---

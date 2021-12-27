@@ -1,5 +1,5 @@
 ---
 title: "Urban Sole"
 url: /sukkur/urban-sole/
-shop: shop
+shop: Allgemein
 ---

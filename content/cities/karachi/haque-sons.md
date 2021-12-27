@@ -1,5 +1,5 @@
 ---
 title: "Haque Sons"
 url: /karachi/haque-sons/
-shop: clothes
+shop: Kleidung
 ---

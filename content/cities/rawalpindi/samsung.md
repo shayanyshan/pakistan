@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /rawalpindi/samsung/
-shop: electronics
+shop: Elektronik
 ---

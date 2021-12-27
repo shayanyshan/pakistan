@@ -1,6 +1,6 @@
 ---
 title: Gujar Khan
 url: /gujar-khan/
-latitude: 
-longitude: 
+latitude: 33.257
+longitude: 73.303
 ---

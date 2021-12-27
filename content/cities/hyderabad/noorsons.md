@@ -1,5 +1,5 @@
 ---
 title: "Noorsons"
 url: /hyderabad/noorsons/
-shop: video games
+shop: Videospiele
 ---

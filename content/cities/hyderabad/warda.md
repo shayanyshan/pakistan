@@ -1,5 +1,5 @@
 ---
 title: "Warda"
 url: /hyderabad/warda/
-shop: clothes
+shop: Kleidung
 ---

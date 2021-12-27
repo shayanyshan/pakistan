@@ -1,5 +1,5 @@
 ---
 title: "Peru's"
 url: /lahore/perus/
-shop: clothes
+shop: Kleidung
 ---

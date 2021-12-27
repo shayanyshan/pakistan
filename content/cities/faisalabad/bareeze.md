@@ -1,5 +1,5 @@
 ---
 title: "Bareeze"
 url: /faisalabad/bareeze/
-shop: mall
+shop: Einkaufszentrum
 ---

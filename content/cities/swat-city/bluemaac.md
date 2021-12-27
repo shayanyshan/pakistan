@@ -1,5 +1,5 @@
 ---
 title: "BLUEMAAC"
 url: /swat-city/bluemaac/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kurta Corner"
 url: /karachi/kurta-corner/
-shop: fabric
+shop: Textil
 ---

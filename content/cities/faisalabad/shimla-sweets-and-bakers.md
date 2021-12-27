@@ -1,5 +1,5 @@
 ---
 title: "Shimla Sweets and Bakers"
 url: /faisalabad/shimla-sweets-and-bakers/
-shop: bakery
+shop: Bäckerei
 ---

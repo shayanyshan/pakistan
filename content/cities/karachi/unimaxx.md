@@ -1,5 +1,5 @@
 ---
 title: "Unimaxx"
 url: /karachi/unimaxx/
-shop: clothes
+shop: Kleidung
 ---

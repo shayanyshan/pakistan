@@ -1,6 +1,6 @@
 ---
 title: Mitiari
 url: /mitiari/
-latitude: 
-longitude: 
+latitude: 25.591
+longitude: 68.44
 ---

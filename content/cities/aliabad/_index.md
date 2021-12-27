@@ -1,6 +1,6 @@
 ---
 title: Aliabad
 url: /aliabad/
-latitude: 
-longitude: 
+latitude: 26.429
+longitude: 68.018
 ---

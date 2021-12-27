@@ -1,5 +1,5 @@
 ---
 title: "ChenOne"
 url: /rawalpindi/chenone/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Halani
 url: /halani/
-latitude: 
-longitude: 
+latitude: 27.085
+longitude: 68.32
 ---

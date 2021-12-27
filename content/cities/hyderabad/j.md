@@ -1,5 +1,5 @@
 ---
 title: "J."
 url: /hyderabad/j/
-shop: clothes
+shop: Kleidung
 ---

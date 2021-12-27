@@ -1,6 +1,6 @@
 ---
 title: Sheikhupura
 url: /sheikhupura/
-latitude: 
-longitude: 
+latitude: 31.712
+longitude: 73.996
 ---

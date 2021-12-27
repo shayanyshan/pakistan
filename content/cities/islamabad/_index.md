@@ -1,6 +1,6 @@
 ---
 title: islamabad
 url: /islamabad/
-latitude: 
-longitude: 
+latitude: 33.64
+longitude: 73.026
 ---

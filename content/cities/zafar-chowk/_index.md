@@ -1,6 +1,6 @@
 ---
 title: Zafar Chowk
 url: /zafar-chowk/
-latitude: 
-longitude: 
+latitude: 30.923
+longitude: 72.846
 ---

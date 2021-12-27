@@ -1,5 +1,5 @@
 ---
 title: "Khaadi - Zamzama"
 url: /karachi/khaadi-zamzama/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abid Jewellers"
 url: /karachi/abid-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

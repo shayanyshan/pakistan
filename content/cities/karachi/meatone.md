@@ -1,5 +1,5 @@
 ---
 title: "Meatone"
 url: /karachi/meatone/
-shop: butcher
+shop: Metzgerei
 ---

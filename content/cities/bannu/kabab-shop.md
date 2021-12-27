@@ -1,5 +1,5 @@
 ---
 title: "Kabab Shop"
 url: /bannu/kabab-shop/
-shop: shop
+shop: Allgemein
 ---

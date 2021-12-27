@@ -1,6 +1,6 @@
 ---
 title: Sargodha
 url: /sargodha/
-latitude: 
-longitude: 
+latitude: 32.061
+longitude: 72.712
 ---

@@ -1,6 +1,6 @@
 ---
 title: Liaquatpur
 url: /liaquatpur/
-latitude: 
-longitude: 
+latitude: 28.932
+longitude: 70.935
 ---

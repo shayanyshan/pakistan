@@ -1,6 +1,6 @@
 ---
 title: Lalamusa
 url: /lalamusa/
-latitude: 
-longitude: 
+latitude: 32.696
+longitude: 73.956
 ---

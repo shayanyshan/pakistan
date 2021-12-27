@@ -1,5 +1,5 @@
 ---
 title: "Bonanza"
 url: /karachi/bonanza/
-shop: clothes
+shop: Kleidung
 ---

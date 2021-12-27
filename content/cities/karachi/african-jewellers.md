@@ -1,5 +1,5 @@
 ---
 title: "African Jewellers"
 url: /karachi/african-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seiko"
 url: /karachi/seiko/
-shop: electronics
+shop: Elektronik
 ---

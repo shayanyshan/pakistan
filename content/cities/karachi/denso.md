@@ -1,5 +1,5 @@
 ---
 title: "Denso"
 url: /karachi/denso/
-shop: car parts
+shop: Autoteile
 ---

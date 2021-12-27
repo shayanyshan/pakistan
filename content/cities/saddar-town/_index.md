@@ -1,6 +1,6 @@
 ---
 title: Saddar Town
 url: /saddar-town/
-latitude: 
-longitude: 
+latitude: 24.855
+longitude: 67.028
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Manpasand"
 url: /mandra/manpasand/
-shop: bakery
+shop: Bäckerei
 ---

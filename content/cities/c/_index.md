@@ -1,6 +1,6 @@
 ---
 title: c
 url: /c/
-latitude: 
-longitude: 
+latitude: 25.591
+longitude: 68.444
 ---

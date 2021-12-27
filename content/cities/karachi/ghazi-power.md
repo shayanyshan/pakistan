@@ -1,5 +1,5 @@
 ---
 title: "Ghazi Power"
 url: /karachi/ghazi-power/
-shop: shop
+shop: Allgemein
 ---

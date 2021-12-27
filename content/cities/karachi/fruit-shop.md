@@ -1,5 +1,5 @@
 ---
 title: "Fruit shop"
 url: /karachi/fruit-shop/
-shop: shop
+shop: Allgemein
 ---

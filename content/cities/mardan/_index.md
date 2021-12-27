@@ -1,6 +1,6 @@
 ---
 title: Mardan
 url: /mardan/
-latitude: 
-longitude: 
+latitude: 34.197
+longitude: 72.041
 ---

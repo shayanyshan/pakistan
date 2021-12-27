@@ -1,5 +1,5 @@
 ---
 title: "Chilli home"
 url: /karachi/chilli-home/
-shop: bookmaker
+shop: Wettbüro
 ---

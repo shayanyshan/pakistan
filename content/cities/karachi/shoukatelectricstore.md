@@ -1,5 +1,5 @@
 ---
 title: "ShoukatElectricStore"
 url: /karachi/shoukatelectricstore/
-shop: shop
+shop: Allgemein
 ---

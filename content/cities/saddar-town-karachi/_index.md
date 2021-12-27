@@ -1,6 +1,6 @@
 ---
 title: Saddar Town Karachi
 url: /saddar-town-karachi/
-latitude: 
-longitude: 
+latitude: 24.851
+longitude: 67.008
 ---

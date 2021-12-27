@@ -1,6 +1,6 @@
 ---
 title: Babarloi
 url: /babarloi/
-latitude: 
-longitude: 
+latitude: 27.655
+longitude: 68.843
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rawalpindi
 url: /rawalpindi/
-latitude: 
-longitude: 
+latitude: 33.588
+longitude: 73.089
 ---

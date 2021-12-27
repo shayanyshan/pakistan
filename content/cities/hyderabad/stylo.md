@@ -1,5 +1,5 @@
 ---
 title: "Stylo"
 url: /hyderabad/stylo/
-shop: shoes
+shop: Schuhe
 ---

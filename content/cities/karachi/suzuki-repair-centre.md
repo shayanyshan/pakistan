@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Repair Centre"
 url: /karachi/suzuki-repair-centre/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hassan Arcade"
 url: /mltn/hassan-arcade/
-shop: supermarket
+shop: Supermarkt
 ---

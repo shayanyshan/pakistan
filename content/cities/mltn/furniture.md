@@ -1,5 +1,5 @@
 ---
 title: "Furniture"
 url: /mltn/furniture/
-shop: shop
+shop: Allgemein
 ---

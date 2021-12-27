@@ -1,6 +1,6 @@
 ---
 title: Lahore
 url: /lahore/
-latitude: 
-longitude: 
+latitude: 31.524
+longitude: 74.346
 ---

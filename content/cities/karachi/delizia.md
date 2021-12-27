@@ -1,5 +1,5 @@
 ---
 title: "Delizia"
 url: /karachi/delizia/
-shop: bakery
+shop: Bäckerei
 ---

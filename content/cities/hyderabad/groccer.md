@@ -1,5 +1,5 @@
 ---
 title: "Groccer"
 url: /hyderabad/groccer/
-shop: bag
+shop: Taschen & Koffer
 ---

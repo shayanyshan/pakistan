@@ -1,6 +1,6 @@
 ---
 title: Abbottabad
 url: /abbottabad/
-latitude: 
-longitude: 
+latitude: 34.189
+longitude: 73.234
 ---

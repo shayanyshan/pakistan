@@ -1,6 +1,6 @@
 ---
 title: نوشہرہ
 url: /nwshhrh/
-latitude: 32.5675083
-longitude: 72.1523722
+latitude: 32.572
+longitude: 72.158
 ---

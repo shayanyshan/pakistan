@@ -1,6 +1,6 @@
 ---
 title: Kasur
 url: /kasur/
-latitude: 
-longitude: 
+latitude: 31.115
+longitude: 74.447
 ---

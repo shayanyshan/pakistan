@@ -1,6 +1,6 @@
 ---
 title: Khanewal
 url: /khanewal/
-latitude: 
-longitude: 
+latitude: 30.295
+longitude: 71.912
 ---

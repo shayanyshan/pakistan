@@ -1,6 +1,6 @@
 ---
 title: Gujranwala
 url: /gujranwala/
-latitude: 
-longitude: 
+latitude: 32.159
+longitude: 74.189
 ---

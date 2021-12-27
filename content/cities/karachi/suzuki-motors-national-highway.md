@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Motors - National Highway"
 url: /karachi/suzuki-motors-national-highway/
-shop: car
+shop: Autohaus
 ---

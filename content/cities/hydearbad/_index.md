@@ -1,6 +1,6 @@
 ---
 title: Hydearbad
 url: /hydearbad/
-latitude: 
-longitude: 
+latitude: 25.406
+longitude: 68.356
 ---

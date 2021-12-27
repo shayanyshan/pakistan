@@ -1,6 +1,6 @@
 ---
 title: Katlang
 url: /katlang/
-latitude: 
-longitude: 
+latitude: 34.363
+longitude: 72.075
 ---
