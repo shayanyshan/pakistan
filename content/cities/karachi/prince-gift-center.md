@@ -1,5 +1,5 @@
 ---
 title: "Prince Gift Center"
 url: /karachi/prince-gift-center/
-shop: Andenken
+shop: gift
 ---

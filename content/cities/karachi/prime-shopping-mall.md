@@ -1,5 +1,5 @@
 ---
 title: "Prime shopping Mall"
 url: /karachi/prime-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MissChic Studio"
 url: /karachi/misschic-studio/
-shop: Kleidung
+shop: clothes
 ---

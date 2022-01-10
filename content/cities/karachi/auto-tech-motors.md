@@ -1,5 +1,5 @@
 ---
 title: "Auto Tech Motors"
 url: /karachi/auto-tech-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

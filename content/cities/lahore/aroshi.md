@@ -1,5 +1,5 @@
 ---
 title: "AROSHI"
 url: /lahore/aroshi/
-shop: Kleidung
+shop: clothes
 ---

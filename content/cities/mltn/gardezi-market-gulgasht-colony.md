@@ -1,5 +1,5 @@
 ---
 title: "Gardezi Market Gulgasht Colony"
 url: /mltn/gardezi-market-gulgasht-colony/
-shop: Allgemein
+shop: shop
 ---

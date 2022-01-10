@@ -1,5 +1,5 @@
 ---
 title: "Naeem Electronics"
 url: /karachi/naeem-electronics/
-shop: Elektronik
+shop: electronics
 ---

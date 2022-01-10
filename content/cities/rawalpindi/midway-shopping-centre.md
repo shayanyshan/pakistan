@@ -1,5 +1,5 @@
 ---
 title: "MIDWAY SHOPPING CENTRE"
 url: /rawalpindi/midway-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

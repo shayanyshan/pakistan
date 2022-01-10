@@ -1,5 +1,5 @@
 ---
 title: "Burj Italiano - Official"
 url: /karachi/burj-italiano-official/
-shop: Möbel
+shop: furniture
 ---

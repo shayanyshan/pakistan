@@ -1,5 +1,5 @@
 ---
 title: "Equator"
 url: /faisalabad/equator/
-shop: Kleidung
+shop: clothes
 ---

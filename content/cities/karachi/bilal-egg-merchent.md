@@ -1,5 +1,5 @@
 ---
 title: "Bilal Egg Merchent"
 url: /karachi/bilal-egg-merchent/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zahra Stores"
 url: /faisalabad/zahra-stores/
-shop: Allgemein
+shop: shop
 ---

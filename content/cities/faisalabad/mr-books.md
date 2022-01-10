@@ -1,5 +1,5 @@
 ---
 title: "Mr. Books"
 url: /faisalabad/mr-books/
-shop: Schreibwaren
+shop: office supplies
 ---

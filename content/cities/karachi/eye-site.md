@@ -1,5 +1,5 @@
 ---
 title: "Eye Site"
 url: /karachi/eye-site/
-shop: Optiker
+shop: optician
 ---

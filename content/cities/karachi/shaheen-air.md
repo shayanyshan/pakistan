@@ -1,5 +1,5 @@
 ---
 title: "Shaheen Air"
 url: /karachi/shaheen-air/
-shop: Reisebüro
+shop: travel agency
 ---

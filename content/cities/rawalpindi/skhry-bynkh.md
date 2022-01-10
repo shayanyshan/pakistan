@@ -1,5 +1,5 @@
 ---
 title: "عسکری بینک"
 url: /rawalpindi/skhry-bynkh/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ateeq Electric Store"
 url: /karachi/ateeq-electric-store/
-shop: Elektronik
+shop: electronics
 ---

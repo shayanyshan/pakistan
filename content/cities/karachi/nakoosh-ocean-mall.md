@@ -1,5 +1,5 @@
 ---
 title: "Nakoosh - Ocean Mall"
 url: /karachi/nakoosh-ocean-mall/
-shop: Kleidung
+shop: clothes
 ---

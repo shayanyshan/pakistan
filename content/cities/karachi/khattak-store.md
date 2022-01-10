@@ -1,5 +1,5 @@
 ---
 title: "Khattak Store"
 url: /karachi/khattak-store/
-shop: Supermarkt
+shop: supermarket
 ---

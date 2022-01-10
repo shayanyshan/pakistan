@@ -1,5 +1,5 @@
 ---
 title: "Pace"
 url: /lahore/pace/
-shop: Warenhaus
+shop: department store
 ---

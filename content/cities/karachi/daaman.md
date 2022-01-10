@@ -1,5 +1,5 @@
 ---
 title: "Daaman"
 url: /karachi/daaman/
-shop: Kleidung
+shop: clothes
 ---

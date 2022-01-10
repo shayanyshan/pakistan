@@ -1,5 +1,5 @@
 ---
 title: "Khaas Meat"
 url: /karachi/khaas-meat/
-shop: Metzgerei
+shop: butcher
 ---

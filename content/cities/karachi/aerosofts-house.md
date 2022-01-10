@@ -1,5 +1,5 @@
 ---
 title: "Aerosoft's House"
 url: /karachi/aerosofts-house/
-shop: Schuhe
+shop: shoes
 ---

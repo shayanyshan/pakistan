@@ -1,5 +1,5 @@
 ---
 title: "Pinewood Shopping Mall"
 url: /karachi/pinewood-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

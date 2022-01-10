@@ -1,5 +1,5 @@
 ---
 title: "Data Autos"
 url: /karachi/data-autos/
-shop: Allgemein
+shop: shop
 ---

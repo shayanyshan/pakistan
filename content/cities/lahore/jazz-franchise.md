@@ -1,5 +1,5 @@
 ---
 title: "Jazz Franchise"
 url: /lahore/jazz-franchise/
-shop: Elektronik
+shop: electronics
 ---

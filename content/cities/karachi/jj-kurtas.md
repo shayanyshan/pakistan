@@ -1,5 +1,5 @@
 ---
 title: "JJ Kurtas"
 url: /karachi/jj-kurtas/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Graco Baby Shop"
 url: /karachi/graco-baby-shop/
-shop: Babysachen
+shop: baby goods
 ---

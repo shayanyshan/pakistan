@@ -1,5 +1,5 @@
 ---
 title: "Print Corner"
 url: /karachi/print-corner/
-shop: Allgemein
+shop: shop
 ---

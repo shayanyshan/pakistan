@@ -1,5 +1,5 @@
 ---
 title: "Quetta Pashen Hotel"
 url: /karachi/quetta-pashen-hotel/
-shop: Tee
+shop: tea
 ---

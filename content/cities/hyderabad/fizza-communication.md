@@ -1,5 +1,5 @@
 ---
 title: "Fizza Communication"
 url: /hyderabad/fizza-communication/
-shop: Elektronik
+shop: electronics
 ---

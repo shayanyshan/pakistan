@@ -1,5 +1,5 @@
 ---
 title: "Bissino"
 url: /faisalabad/bissino/
-shop: Kleidung
+shop: clothes
 ---

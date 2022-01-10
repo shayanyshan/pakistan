@@ -1,5 +1,5 @@
 ---
 title: "Shahzad General Store"
 url: /shahpur-jahania/shahzad-general-store/
-shop: Gardinen
+shop: curtain
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda Nazimabad"
 url: /karachi/honda-nazimabad/
-shop: Autohaus
+shop: car
 ---

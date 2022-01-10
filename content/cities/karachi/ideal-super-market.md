@@ -1,5 +1,5 @@
 ---
 title: "Ideal Super Market"
 url: /karachi/ideal-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

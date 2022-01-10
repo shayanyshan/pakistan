@@ -1,5 +1,5 @@
 ---
 title: "Ideal Meats"
 url: /karachi/ideal-meats/
-shop: Metzgerei
+shop: butcher
 ---

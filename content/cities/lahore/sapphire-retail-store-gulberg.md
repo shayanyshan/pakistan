@@ -1,5 +1,5 @@
 ---
 title: "Sapphire Retail Store Gulberg"
 url: /lahore/sapphire-retail-store-gulberg/
-shop: Kleidung
+shop: clothes
 ---

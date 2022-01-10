@@ -1,5 +1,5 @@
 ---
 title: "Bhatti Electrict Store"
 url: /mandra/bhatti-electrict-store/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Quetta Sadam Hotel"
 url: /karachi/new-quetta-sadam-hotel/
-shop: Tee
+shop: tea
 ---

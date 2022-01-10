@@ -1,5 +1,5 @@
 ---
 title: "Dastagir Motors"
 url: /karachi/dastagir-motors/
-shop: Autohaus
+shop: car
 ---

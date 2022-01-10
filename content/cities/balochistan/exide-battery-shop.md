@@ -1,5 +1,5 @@
 ---
 title: "Exide Battery Shop"
 url: /balochistan/exide-battery-shop/
-shop: Allgemein
+shop: shop
 ---

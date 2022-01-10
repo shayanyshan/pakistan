@@ -1,5 +1,5 @@
 ---
 title: "Cembre Pakistan"
 url: /karachi/cembre-pakistan/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Subhan Allah Stationary"
 url: /karachi/subhan-allah-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

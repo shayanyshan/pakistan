@@ -1,5 +1,5 @@
 ---
 title: "A.J Accessories"
 url: /karachi/a-j-accessories/
-shop: Elektronik
+shop: electronics
 ---

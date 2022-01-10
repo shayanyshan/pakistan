@@ -1,5 +1,5 @@
 ---
 title: "Shahrukh Jewellers"
 url: /karachi/shahrukh-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

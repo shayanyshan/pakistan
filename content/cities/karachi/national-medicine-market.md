@@ -1,5 +1,5 @@
 ---
 title: "National Medicine Market"
 url: /karachi/national-medicine-market/
-shop: Sanitätshaus
+shop: medical supply
 ---

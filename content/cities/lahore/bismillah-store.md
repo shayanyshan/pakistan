@@ -1,5 +1,5 @@
 ---
 title: "Bismillah Store"
 url: /lahore/bismillah-store/
-shop: Warenhaus
+shop: department store
 ---

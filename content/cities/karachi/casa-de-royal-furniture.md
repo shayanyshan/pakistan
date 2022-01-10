@@ -1,5 +1,5 @@
 ---
 title: "Casa De Royal Furniture"
 url: /karachi/casa-de-royal-furniture/
-shop: Möbel
+shop: furniture
 ---

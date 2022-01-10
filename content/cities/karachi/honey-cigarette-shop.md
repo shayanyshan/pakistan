@@ -1,5 +1,5 @@
 ---
 title: "Honey Cigarette shop"
 url: /karachi/honey-cigarette-shop/
-shop: Lebensmittel
+shop: convenience
 ---

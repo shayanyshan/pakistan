@@ -1,5 +1,5 @@
 ---
 title: "LMS Garage"
 url: /lahore/lms-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

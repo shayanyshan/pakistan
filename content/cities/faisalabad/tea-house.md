@@ -1,5 +1,5 @@
 ---
 title: "Tea House"
 url: /faisalabad/tea-house/
-shop: Tee
+shop: tea
 ---

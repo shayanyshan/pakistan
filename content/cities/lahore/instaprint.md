@@ -1,5 +1,5 @@
 ---
 title: "InstaPrint"
 url: /lahore/instaprint/
-shop: Kopieren
+shop: copyshop
 ---

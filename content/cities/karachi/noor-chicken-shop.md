@@ -1,5 +1,5 @@
 ---
 title: "Noor Chicken Shop"
 url: /karachi/noor-chicken-shop/
-shop: Allgemein
+shop: shop
 ---

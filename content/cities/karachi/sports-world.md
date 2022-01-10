@@ -1,5 +1,5 @@
 ---
 title: "Sports World"
 url: /karachi/sports-world/
-shop: Allgemein
+shop: shop
 ---

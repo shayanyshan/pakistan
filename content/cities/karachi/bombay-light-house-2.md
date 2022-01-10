@@ -1,5 +1,5 @@
 ---
 title: "Bombay Light House"
 url: /karachi/bombay-light-house-2/
-shop: Supermarkt
+shop: supermarket
 ---

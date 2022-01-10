@@ -1,5 +1,5 @@
 ---
 title: "Sabzi Mandi"
 url: /hyderabad/sabzi-mandi/
-shop: Supermarkt
+shop: supermarket
 ---

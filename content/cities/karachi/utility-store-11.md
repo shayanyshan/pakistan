@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /karachi/utility-store-11/
-shop: Supermarkt
+shop: supermarket
 ---

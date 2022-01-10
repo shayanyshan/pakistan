@@ -1,5 +1,5 @@
 ---
 title: "Brumano"
 url: /hyderabad/brumano/
-shop: Kleidung
+shop: clothes
 ---

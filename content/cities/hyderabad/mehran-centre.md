@@ -1,5 +1,5 @@
 ---
 title: "Mehran Centre"
 url: /hyderabad/mehran-centre/
-shop: Autoteile
+shop: car parts
 ---

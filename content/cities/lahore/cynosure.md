@@ -1,5 +1,5 @@
 ---
 title: "Cynosure"
 url: /lahore/cynosure/
-shop: Kleidung
+shop: clothes
 ---

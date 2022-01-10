@@ -1,5 +1,5 @@
 ---
 title: "EURO Store"
 url: /lahore/euro-store/
-shop: Supermarkt
+shop: supermarket
 ---

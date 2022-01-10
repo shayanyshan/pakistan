@@ -1,5 +1,5 @@
 ---
 title: "Servis"
 url: /rawalpindi/servis/
-shop: Schuhe
+shop: shoes
 ---

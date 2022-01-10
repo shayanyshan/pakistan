@@ -1,5 +1,5 @@
 ---
 title: "Honda Palace"
 url: /hyderabad/honda-palace/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elegant Shoes"
 url: /lahore/elegant-shoes/
-shop: Schuhe
+shop: shoes
 ---

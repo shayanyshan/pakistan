@@ -1,5 +1,5 @@
 ---
 title: "Dhaba Cafe"
 url: /karachi/dhaba-cafe/
-shop: Tee
+shop: tea
 ---

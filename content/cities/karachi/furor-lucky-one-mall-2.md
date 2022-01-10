@@ -1,5 +1,5 @@
 ---
 title: "Furor - Lucky One Mall"
 url: /karachi/furor-lucky-one-mall-2/
-shop: Kleidung
+shop: clothes
 ---

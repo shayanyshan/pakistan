@@ -1,5 +1,5 @@
 ---
 title: "The Larkana Bakery"
 url: /hyderabad/the-larkana-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Shirmal House"
 url: /hyderabad/super-shirmal-house/
-shop: Bäckerei
+shop: bakery
 ---

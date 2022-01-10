@@ -1,5 +1,5 @@
 ---
 title: "City Centre"
 url: /sialkot/city-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

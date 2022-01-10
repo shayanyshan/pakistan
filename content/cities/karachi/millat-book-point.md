@@ -1,5 +1,5 @@
 ---
 title: "Millat Book Point"
 url: /karachi/millat-book-point/
-shop: Bücher
+shop: books
 ---

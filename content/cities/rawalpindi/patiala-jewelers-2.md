@@ -1,5 +1,5 @@
 ---
 title: "Patiala Jewelers"
 url: /rawalpindi/patiala-jewelers-2/
-shop: Schmuck
+shop: jewelry
 ---

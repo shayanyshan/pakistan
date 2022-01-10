@@ -1,5 +1,5 @@
 ---
 title: "Makkah Communiction"
 url: /karachi/makkah-communiction/
-shop: Handy
+shop: mobile phone
 ---

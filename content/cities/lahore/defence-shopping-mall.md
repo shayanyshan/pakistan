@@ -1,5 +1,5 @@
 ---
 title: "Defence Shopping Mall"
 url: /lahore/defence-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

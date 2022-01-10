@@ -1,5 +1,5 @@
 ---
 title: "Sterling Stone"
 url: /karachi/sterling-stone/
-shop: Kleidung
+shop: clothes
 ---

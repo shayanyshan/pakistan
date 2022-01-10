@@ -1,5 +1,5 @@
 ---
 title: "Radio City"
 url: /slm-abd/radio-city/
-shop: Musik
+shop: music
 ---

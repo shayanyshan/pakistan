@@ -1,5 +1,5 @@
 ---
 title: "Shikarpur Sweets"
 url: /karachi/shikarpur-sweets/
-shop: Bäckerei
+shop: bakery
 ---

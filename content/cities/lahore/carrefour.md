@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /lahore/carrefour/
-shop: Supermarkt
+shop: supermarket
 ---

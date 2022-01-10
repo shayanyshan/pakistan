@@ -1,5 +1,5 @@
 ---
 title: "Techno Tyres"
 url: /karachi/techno-tyres/
-shop: Reifen
+shop: tyres
 ---

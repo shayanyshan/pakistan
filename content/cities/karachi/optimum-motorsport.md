@@ -1,5 +1,5 @@
 ---
 title: "Optimum Motorsport"
 url: /karachi/optimum-motorsport/
-shop: Autoteile
+shop: car parts
 ---

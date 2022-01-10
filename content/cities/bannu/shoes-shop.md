@@ -1,5 +1,5 @@
 ---
 title: "Shoes Shop"
 url: /bannu/shoes-shop/
-shop: Allgemein
+shop: shop
 ---

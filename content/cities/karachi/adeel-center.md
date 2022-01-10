@@ -1,5 +1,5 @@
 ---
 title: "Adeel Center"
 url: /karachi/adeel-center/
-shop: Einkaufszentrum
+shop: mall
 ---

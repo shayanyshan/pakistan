@@ -1,5 +1,5 @@
 ---
 title: "Hakeemi Steel Traders"
 url: /karachi/hakeemi-steel-traders/
-shop: Allgemein
+shop: shop
 ---

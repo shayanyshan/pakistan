@@ -1,5 +1,5 @@
 ---
 title: "Haji Rabri Shop"
 url: /hyderabad/haji-rabri-shop/
-shop: Allgemein
+shop: shop
 ---

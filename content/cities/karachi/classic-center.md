@@ -1,5 +1,5 @@
 ---
 title: "Classic Center"
 url: /karachi/classic-center/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waqar,s EMB"
 url: /karachi/waqar-s-emb/
-shop: Allgemein
+shop: shop
 ---

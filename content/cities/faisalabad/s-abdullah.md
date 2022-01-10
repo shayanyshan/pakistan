@@ -1,5 +1,5 @@
 ---
 title: "S Abdullah"
 url: /faisalabad/s-abdullah/
-shop: Eisenwaren
+shop: hardware
 ---

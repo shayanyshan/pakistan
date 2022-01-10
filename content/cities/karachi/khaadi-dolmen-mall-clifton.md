@@ -1,5 +1,5 @@
 ---
 title: "Khaadi - Dolmen Mall Clifton"
 url: /karachi/khaadi-dolmen-mall-clifton/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fine Computers"
 url: /karachi/fine-computers/
-shop: Computer
+shop: computer
 ---

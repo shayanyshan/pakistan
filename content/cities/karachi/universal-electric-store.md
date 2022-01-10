@@ -1,5 +1,5 @@
 ---
 title: "Universal Electric Store"
 url: /karachi/universal-electric-store/
-shop: Elektronik
+shop: electronics
 ---

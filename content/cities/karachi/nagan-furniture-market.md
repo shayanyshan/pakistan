@@ -1,5 +1,5 @@
 ---
 title: "Nagan Furniture Market"
 url: /karachi/nagan-furniture-market/
-shop: Möbel
+shop: furniture
 ---

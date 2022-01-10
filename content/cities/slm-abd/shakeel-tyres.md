@@ -1,5 +1,5 @@
 ---
 title: "Shakeel Tyres"
 url: /slm-abd/shakeel-tyres/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfalah Shopping Center"
 url: /lahore/alfalah-shopping-center/
-shop: Allgemein
+shop: shop
 ---

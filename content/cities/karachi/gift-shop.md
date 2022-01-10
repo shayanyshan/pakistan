@@ -1,5 +1,5 @@
 ---
 title: "Gift Shop"
 url: /karachi/gift-shop/
-shop: Andenken
+shop: gift
 ---

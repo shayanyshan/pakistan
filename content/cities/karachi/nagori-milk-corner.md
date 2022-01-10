@@ -1,5 +1,5 @@
 ---
 title: "Nagori Milk Corner"
 url: /karachi/nagori-milk-corner/
-shop: Milch
+shop: dairy
 ---

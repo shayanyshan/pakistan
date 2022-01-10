@@ -1,5 +1,5 @@
 ---
 title: "Reet Collection"
 url: /karachi/reet-collection/
-shop: Kleidung
+shop: clothes
 ---

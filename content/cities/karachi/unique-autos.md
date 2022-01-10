@@ -1,5 +1,5 @@
 ---
 title: "Unique Autos"
 url: /karachi/unique-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

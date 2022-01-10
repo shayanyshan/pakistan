@@ -1,5 +1,5 @@
 ---
 title: "New sindh communication Gambat"
 url: /gambat/new-sindh-communication-gambat/
-shop: Elektronik
+shop: electronics
 ---

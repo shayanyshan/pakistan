@@ -1,5 +1,5 @@
 ---
 title: "Sigma Motors"
 url: /lahore/sigma-motors/
-shop: Autohaus
+shop: car
 ---

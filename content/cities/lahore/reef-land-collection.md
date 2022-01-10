@@ -1,5 +1,5 @@
 ---
 title: "Reef Land Collection"
 url: /lahore/reef-land-collection/
-shop: Schuhe
+shop: shoes
 ---

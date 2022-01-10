@@ -1,5 +1,5 @@
 ---
 title: "Gandhara Nissan"
 url: /karachi/gandhara-nissan/
-shop: Autohaus
+shop: car
 ---

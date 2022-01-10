@@ -1,5 +1,5 @@
 ---
 title: "Tayyeba Super Store"
 url: /lahore/tayyeba-super-store/
-shop: Supermarkt
+shop: supermarket
 ---

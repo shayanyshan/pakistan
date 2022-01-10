@@ -1,5 +1,5 @@
 ---
 title: "Shaeen Market"
 url: /mltn/shaeen-market/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abid computers"
 url: /karachi/abid-computers/
-shop: Computer
+shop: computer
 ---

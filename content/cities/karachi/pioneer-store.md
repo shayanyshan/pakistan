@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Store"
 url: /karachi/pioneer-store/
-shop: Schreibwaren
+shop: office supplies
 ---

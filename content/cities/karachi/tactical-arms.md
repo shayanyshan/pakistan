@@ -1,5 +1,5 @@
 ---
 title: "Tactical Arms"
 url: /karachi/tactical-arms/
-shop: Waffen
+shop: weapons
 ---

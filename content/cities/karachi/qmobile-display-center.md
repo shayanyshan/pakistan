@@ -1,5 +1,5 @@
 ---
 title: "QMobile Display Center"
 url: /karachi/qmobile-display-center/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RCG"
 url: /faisalabad/rcg/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shandar Cloth House"
 url: /karachi/shandar-cloth-house/
-shop: Kleidung
+shop: clothes
 ---

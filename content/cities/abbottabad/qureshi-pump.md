@@ -1,5 +1,5 @@
 ---
 title: "Qureshi pump"
 url: /abbottabad/qureshi-pump/
-shop: Allgemein
+shop: shop
 ---

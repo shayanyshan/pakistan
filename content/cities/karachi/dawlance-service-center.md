@@ -1,5 +1,5 @@
 ---
 title: "Dawlance Service Center"
 url: /karachi/dawlance-service-center/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Q Mobile Customer Care Gambat"
 url: /gambat/q-mobile-customer-care-gambat/
-shop: Elektronik
+shop: electronics
 ---

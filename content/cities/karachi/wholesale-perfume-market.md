@@ -1,5 +1,5 @@
 ---
 title: "wholesale perfume market"
 url: /karachi/wholesale-perfume-market/
-shop: Allgemein
+shop: shop
 ---

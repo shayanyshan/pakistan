@@ -1,5 +1,5 @@
 ---
 title: "Al Makkah Motors"
 url: /karachi/al-makkah-motors/
-shop: Autohaus
+shop: car
 ---

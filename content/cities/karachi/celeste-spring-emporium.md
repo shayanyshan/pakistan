@@ -1,5 +1,5 @@
 ---
 title: "Celeste Spring Emporium"
 url: /karachi/celeste-spring-emporium/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khyber Jewelers"
 url: /rawalpindi/khyber-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

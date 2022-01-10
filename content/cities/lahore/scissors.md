@@ -1,5 +1,5 @@
 ---
 title: "Scissors"
 url: /lahore/scissors/
-shop: Friseur
+shop: hairdresser
 ---

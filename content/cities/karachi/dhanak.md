@@ -1,5 +1,5 @@
 ---
 title: "Dhanak"
 url: /karachi/dhanak/
-shop: Kleidung
+shop: clothes
 ---

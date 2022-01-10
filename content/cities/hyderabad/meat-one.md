@@ -1,5 +1,5 @@
 ---
 title: "Meat One"
 url: /hyderabad/meat-one/
-shop: Metzgerei
+shop: butcher
 ---

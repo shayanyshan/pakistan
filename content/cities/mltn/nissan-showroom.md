@@ -1,5 +1,5 @@
 ---
 title: "Nissan Showroom"
 url: /mltn/nissan-showroom/
-shop: Autowerkstatt
+shop: car repair
 ---

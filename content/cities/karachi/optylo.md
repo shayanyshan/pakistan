@@ -1,5 +1,5 @@
 ---
 title: "Optylo"
 url: /karachi/optylo/
-shop: Optiker
+shop: optician
 ---

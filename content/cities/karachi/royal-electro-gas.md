@@ -1,5 +1,5 @@
 ---
 title: "Royal Electro Gas"
 url: /karachi/royal-electro-gas/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BOBBY FURNITURE"
 url: /karachi/bobby-furniture/
-shop: Möbel
+shop: furniture
 ---

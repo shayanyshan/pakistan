@@ -1,5 +1,5 @@
 ---
 title: "Barkat Ullah Stationers"
 url: /karachi/barkat-ullah-stationers/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Black And Brown Bakers"
+title: "Black & Brown Bakers"
 url: /hyderabad/black-and-brown-bakers/
-shop: Bäckerei
+shop: bakery
 ---

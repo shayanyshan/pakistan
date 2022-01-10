@@ -1,5 +1,5 @@
 ---
 title: "Edenrobe"
 url: /faisalabad/edenrobe/
-shop: Kleidung
+shop: clothes
 ---

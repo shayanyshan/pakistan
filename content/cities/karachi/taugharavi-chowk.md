@@ -1,5 +1,5 @@
 ---
 title: "Taugharavi Chowk"
 url: /karachi/taugharavi-chowk/
-shop: Allgemein
+shop: shop
 ---

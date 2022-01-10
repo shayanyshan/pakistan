@@ -1,5 +1,5 @@
 ---
 title: "Delhi Darbar Caterers"
 url: /karachi/delhi-darbar-caterers/
-shop: Allgemein
+shop: shop
 ---

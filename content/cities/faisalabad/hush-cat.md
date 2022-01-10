@@ -1,5 +1,5 @@
 ---
 title: "Hush Cat"
 url: /faisalabad/hush-cat/
-shop: Schuhe
+shop: shoes
 ---

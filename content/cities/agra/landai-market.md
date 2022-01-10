@@ -1,5 +1,5 @@
 ---
 title: "Landai Market"
 url: /agra/landai-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madeeha's Shoping Mall"
 url: /karachi/madeehas-shoping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outfitters"
 url: /faisalabad/outfitters/
-shop: Kleidung
+shop: clothes
 ---

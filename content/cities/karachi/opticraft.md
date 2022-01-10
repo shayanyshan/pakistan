@@ -1,5 +1,5 @@
 ---
 title: "Opticraft"
 url: /karachi/opticraft/
-shop: Optiker
+shop: optician
 ---

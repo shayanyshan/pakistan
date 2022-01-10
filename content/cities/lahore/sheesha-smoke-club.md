@@ -1,5 +1,5 @@
 ---
 title: "Sheesha Smoke Club"
 url: /lahore/sheesha-smoke-club/
-shop: Tabak
+shop: tobacco
 ---

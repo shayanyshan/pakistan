@@ -1,5 +1,5 @@
 ---
 title: "Ameen Milk Shop"
 url: /karachi/ameen-milk-shop/
-shop: Milch
+shop: dairy
 ---

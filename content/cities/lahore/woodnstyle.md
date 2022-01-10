@@ -1,5 +1,5 @@
 ---
 title: "Woodnstyle"
 url: /lahore/woodnstyle/
-shop: Möbel
+shop: furniture
 ---

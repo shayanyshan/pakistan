@@ -1,5 +1,5 @@
 ---
 title: "Nishat Linen"
 url: /slm-abd/nishat-linen/
-shop: Kleidung
+shop: clothes
 ---

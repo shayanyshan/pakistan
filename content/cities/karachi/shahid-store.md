@@ -1,5 +1,5 @@
 ---
 title: "Shahid Store"
 url: /karachi/shahid-store/
-shop: Lebensmittel
+shop: convenience
 ---

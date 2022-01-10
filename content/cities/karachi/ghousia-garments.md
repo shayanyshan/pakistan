@@ -1,5 +1,5 @@
 ---
 title: "Ghousia Garments"
 url: /karachi/ghousia-garments/
-shop: Kleidung
+shop: clothes
 ---

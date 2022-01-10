@@ -1,5 +1,5 @@
 ---
 title: "Monga Corporation"
 url: /karachi/monga-corporation/
-shop: Uhren
+shop: watches
 ---

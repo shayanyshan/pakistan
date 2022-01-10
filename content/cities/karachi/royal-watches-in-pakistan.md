@@ -1,5 +1,5 @@
 ---
 title: "Royal Watches In Pakistan"
 url: /karachi/royal-watches-in-pakistan/
-shop: Uhren
+shop: watches
 ---

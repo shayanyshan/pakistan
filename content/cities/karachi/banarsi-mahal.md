@@ -1,5 +1,5 @@
 ---
 title: "Banarsi Mahal"
 url: /karachi/banarsi-mahal/
-shop: Kleidung
+shop: clothes
 ---

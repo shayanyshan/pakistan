@@ -1,5 +1,5 @@
 ---
 title: "Fahad Chemical Traders"
 url: /karachi/fahad-chemical-traders/
-shop: Allgemein
+shop: shop
 ---

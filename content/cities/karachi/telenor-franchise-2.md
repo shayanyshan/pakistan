@@ -1,5 +1,5 @@
 ---
 title: "Telenor Franchise"
 url: /karachi/telenor-franchise-2/
-shop: Allgemein
+shop: shop
 ---

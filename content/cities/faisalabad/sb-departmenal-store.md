@@ -1,5 +1,5 @@
 ---
 title: "SB Departmenal Store"
 url: /faisalabad/sb-departmenal-store/
-shop: Supermarkt
+shop: supermarket
 ---

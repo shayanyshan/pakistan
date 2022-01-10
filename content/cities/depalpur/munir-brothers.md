@@ -1,5 +1,5 @@
 ---
 title: "Munir Brothers"
 url: /depalpur/munir-brothers/
-shop: Autoteile
+shop: car parts
 ---

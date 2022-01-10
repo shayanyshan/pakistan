@@ -1,5 +1,5 @@
 ---
 title: "Carvan East"
 url: /karachi/carvan-east/
-shop: Kramladen
+shop: variety store
 ---

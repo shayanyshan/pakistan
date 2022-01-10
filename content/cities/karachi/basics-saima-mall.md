@@ -1,5 +1,5 @@
 ---
 title: "Basics - Saima Mall"
 url: /karachi/basics-saima-mall/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Western Tyre Shop"
 url: /karachi/western-tyre-shop/
-shop: Allgemein
+shop: shop
 ---

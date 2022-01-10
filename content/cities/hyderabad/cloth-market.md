@@ -1,5 +1,5 @@
 ---
 title: "Cloth Market"
 url: /hyderabad/cloth-market/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ChenOne"
 url: /faisalabad/chenone/
-shop: Kleidung
+shop: clothes
 ---

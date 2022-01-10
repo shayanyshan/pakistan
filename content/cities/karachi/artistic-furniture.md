@@ -1,5 +1,5 @@
 ---
 title: "ARTistic Furniture"
 url: /karachi/artistic-furniture/
-shop: Allgemein
+shop: shop
 ---

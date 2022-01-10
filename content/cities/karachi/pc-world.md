@@ -1,5 +1,5 @@
 ---
 title: "PC WORLD"
 url: /karachi/pc-world/
-shop: Allgemein
+shop: shop
 ---

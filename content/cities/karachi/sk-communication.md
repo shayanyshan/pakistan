@@ -1,5 +1,5 @@
 ---
 title: "SK Communication"
 url: /karachi/sk-communication/
-shop: Elektronik
+shop: electronics
 ---

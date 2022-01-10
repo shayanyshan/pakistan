@@ -1,5 +1,5 @@
 ---
 title: "Lyallpur Regency"
 url: /faisalabad/lyallpur-regency/
-shop: Einkaufszentrum
+shop: mall
 ---

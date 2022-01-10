@@ -1,5 +1,5 @@
 ---
 title: "Red Rose"
 url: /faisalabad/red-rose/
-shop: Supermarkt
+shop: supermarket
 ---

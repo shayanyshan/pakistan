@@ -1,5 +1,5 @@
 ---
 title: "TK Aluminium"
 url: /karachi/tk-aluminium/
-shop: Warenhaus
+shop: department store
 ---

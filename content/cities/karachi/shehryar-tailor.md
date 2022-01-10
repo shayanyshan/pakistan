@@ -1,5 +1,5 @@
 ---
 title: "Shehryar tailor"
 url: /karachi/shehryar-tailor/
-shop: Allgemein
+shop: shop
 ---

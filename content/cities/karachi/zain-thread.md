@@ -1,5 +1,5 @@
 ---
 title: "Zain Thread"
 url: /karachi/zain-thread/
-shop: Allgemein
+shop: shop
 ---

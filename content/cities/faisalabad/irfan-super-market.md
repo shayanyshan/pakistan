@@ -1,5 +1,5 @@
 ---
 title: "Irfan Super Market"
 url: /faisalabad/irfan-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

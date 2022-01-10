@@ -1,5 +1,5 @@
 ---
 title: "Qmobile"
 url: /abbottabad/qmobile/
-shop: Handy
+shop: mobile phone
 ---

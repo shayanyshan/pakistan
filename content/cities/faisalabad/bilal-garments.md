@@ -1,5 +1,5 @@
 ---
 title: "Bilal Garments"
 url: /faisalabad/bilal-garments/
-shop: Kleidung
+shop: clothes
 ---

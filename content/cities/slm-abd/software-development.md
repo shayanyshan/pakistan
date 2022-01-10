@@ -1,5 +1,5 @@
 ---
 title: "Software Development"
 url: /slm-abd/software-development/
-shop: Computer
+shop: computer
 ---

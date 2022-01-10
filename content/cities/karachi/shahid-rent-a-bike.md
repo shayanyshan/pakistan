@@ -1,5 +1,5 @@
 ---
 title: "Shahid Rent A Bike"
 url: /karachi/shahid-rent-a-bike/
-shop: Motorrad
+shop: motorcycle
 ---

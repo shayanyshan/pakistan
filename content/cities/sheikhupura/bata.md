@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /sheikhupura/bata/
-shop: Schuhe
+shop: shoes
 ---

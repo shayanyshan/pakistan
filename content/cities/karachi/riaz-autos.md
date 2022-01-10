@@ -1,5 +1,5 @@
 ---
 title: "Riaz Autos"
 url: /karachi/riaz-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

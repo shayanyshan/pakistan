@@ -1,5 +1,5 @@
 ---
 title: "Classic Photostat"
 url: /karachi/classic-photostat/
-shop: Allgemein
+shop: shop
 ---

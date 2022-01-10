@@ -1,5 +1,5 @@
 ---
 title: "Zong Franchise"
 url: /karachi/zong-franchise/
-shop: Allgemein
+shop: shop
 ---

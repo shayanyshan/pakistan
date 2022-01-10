@@ -1,5 +1,5 @@
 ---
 title: "Yasir Boutique"
 url: /karachi/yasir-boutique/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Power Traders"
 url: /karachi/power-traders/
-shop: Allgemein
+shop: shop
 ---

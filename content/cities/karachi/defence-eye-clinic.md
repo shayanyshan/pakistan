@@ -1,5 +1,5 @@
 ---
 title: "Defence Eye Clinic"
 url: /karachi/defence-eye-clinic/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thar Mega Mart"
 url: /hyderabad/thar-mega-mart/
-shop: Supermarkt
+shop: supermarket
 ---

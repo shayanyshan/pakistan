@@ -1,5 +1,5 @@
 ---
 title: "Casual Collection"
 url: /faisalabad/casual-collection/
-shop: Kleidung
+shop: clothes
 ---

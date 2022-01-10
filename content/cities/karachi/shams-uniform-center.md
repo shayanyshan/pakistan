@@ -1,5 +1,5 @@
 ---
 title: "Shams Uniform Center"
 url: /karachi/shams-uniform-center/
-shop: Kleidung
+shop: clothes
 ---

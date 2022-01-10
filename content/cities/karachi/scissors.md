@@ -1,5 +1,5 @@
 ---
 title: "Scissors"
 url: /karachi/scissors/
-shop: Friseur
+shop: hairdresser
 ---

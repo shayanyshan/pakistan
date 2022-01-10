@@ -1,5 +1,5 @@
 ---
 title: "Haly Tower DHA"
 url: /lahore/haly-tower-dha/
-shop: Einkaufszentrum
+shop: mall
 ---

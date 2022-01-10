@@ -1,5 +1,5 @@
 ---
 title: "Mehman Rice Shop"
 url: /karachi/mehman-rice-shop-2/
-shop: Allgemein
+shop: shop
 ---

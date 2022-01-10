@@ -1,5 +1,5 @@
 ---
 title: "Bihari Chicken shop"
 url: /karachi/bihari-chicken-shop/
-shop: Allgemein
+shop: shop
 ---

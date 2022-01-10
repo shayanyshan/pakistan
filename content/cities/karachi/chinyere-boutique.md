@@ -1,5 +1,5 @@
 ---
 title: "Chinyere Boutique"
 url: /karachi/chinyere-boutique/
-shop: Allgemein
+shop: shop
 ---

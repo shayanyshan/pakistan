@@ -1,5 +1,5 @@
 ---
 title: "Ehsan Ullah General"
 url: /karachi/ehsan-ullah-general/
-shop: Allgemein
+shop: shop
 ---

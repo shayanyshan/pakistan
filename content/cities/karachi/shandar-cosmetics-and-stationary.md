@@ -1,5 +1,5 @@
 ---
 title: "Shandar Cosmetics And Stationary"
 url: /karachi/shandar-cosmetics-and-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

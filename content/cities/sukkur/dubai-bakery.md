@@ -1,5 +1,5 @@
 ---
 title: "Dubai Bakery"
 url: /sukkur/dubai-bakery/
-shop: Bäckerei
+shop: bakery
 ---

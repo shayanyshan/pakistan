@@ -1,5 +1,5 @@
 ---
 title: "Awan Motors"
 url: /karachi/awan-motors/
-shop: Autohaus
+shop: car
 ---

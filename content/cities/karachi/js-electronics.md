@@ -1,5 +1,5 @@
 ---
 title: "JS Electronics"
 url: /karachi/js-electronics/
-shop: Elektronik
+shop: electronics
 ---

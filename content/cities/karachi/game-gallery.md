@@ -1,5 +1,5 @@
 ---
 title: "Game Gallery"
 url: /karachi/game-gallery/
-shop: Videospiele
+shop: video games
 ---

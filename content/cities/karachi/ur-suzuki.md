@@ -1,5 +1,5 @@
 ---
 title: "UR Suzuki"
 url: /karachi/ur-suzuki/
-shop: Motorrad
+shop: motorcycle
 ---

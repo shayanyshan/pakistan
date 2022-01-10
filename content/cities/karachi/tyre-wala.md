@@ -1,5 +1,5 @@
 ---
 title: "TYRE WALA"
 url: /karachi/tyre-wala/
-shop: Reifen
+shop: tyres
 ---

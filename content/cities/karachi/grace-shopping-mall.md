@@ -1,5 +1,5 @@
 ---
 title: "Grace Shopping Mall"
 url: /karachi/grace-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

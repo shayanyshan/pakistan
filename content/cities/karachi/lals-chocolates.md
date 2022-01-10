@@ -1,5 +1,5 @@
 ---
 title: "Lals Chocolates"
 url: /karachi/lals-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Wheelz Ovee Motorz"
 url: /karachi/city-wheelz-ovee-motorz/
-shop: Autowerkstatt
+shop: car repair
 ---

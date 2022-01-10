@@ -1,5 +1,5 @@
 ---
 title: "Shelter Shopping Mall"
 url: /hyderabad/shelter-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

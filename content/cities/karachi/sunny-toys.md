@@ -1,5 +1,5 @@
 ---
 title: "Sunny Toys"
 url: /karachi/sunny-toys/
-shop: Spielzeug
+shop: toys
 ---

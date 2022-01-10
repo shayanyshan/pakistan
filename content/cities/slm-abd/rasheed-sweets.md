@@ -1,5 +1,5 @@
 ---
 title: "Rasheed Sweets"
 url: /slm-abd/rasheed-sweets/
-shop: Bäckerei
+shop: bakery
 ---

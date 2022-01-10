@@ -1,5 +1,5 @@
 ---
 title: "Madina Flower House"
 url: /karachi/madina-flower-house/
-shop: Blumen
+shop: florist
 ---

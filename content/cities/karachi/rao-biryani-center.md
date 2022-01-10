@@ -1,5 +1,5 @@
 ---
 title: "Rao Biryani Center"
 url: /karachi/rao-biryani-center/
-shop: Allgemein
+shop: shop
 ---

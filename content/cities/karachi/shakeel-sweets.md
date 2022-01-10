@@ -1,5 +1,5 @@
 ---
 title: "Shakeel Sweets"
 url: /karachi/shakeel-sweets/
-shop: Allgemein
+shop: shop
 ---

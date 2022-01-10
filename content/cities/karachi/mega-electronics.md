@@ -1,5 +1,5 @@
 ---
 title: "Mega Electronics"
 url: /karachi/mega-electronics/
-shop: Elektronik
+shop: electronics
 ---

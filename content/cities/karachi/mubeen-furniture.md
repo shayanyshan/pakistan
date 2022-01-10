@@ -1,5 +1,5 @@
 ---
 title: "Mubeen Furniture"
 url: /karachi/mubeen-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro Jewellers"
 url: /karachi/metro-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

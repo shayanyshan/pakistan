@@ -1,5 +1,5 @@
 ---
 title: "Saleh Bhai Store"
 url: /karachi/saleh-bhai-store/
-shop: Supermarkt
+shop: supermarket
 ---

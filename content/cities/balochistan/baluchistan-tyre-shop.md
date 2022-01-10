@@ -1,5 +1,5 @@
 ---
 title: "Baluchistan Tyre Shop"
 url: /balochistan/baluchistan-tyre-shop/
-shop: Reifen
+shop: tyres
 ---

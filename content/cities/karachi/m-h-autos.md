@@ -1,5 +1,5 @@
 ---
 title: "M H Autos"
 url: /karachi/m-h-autos/
-shop: Autohaus
+shop: car
 ---

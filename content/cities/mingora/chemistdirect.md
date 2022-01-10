@@ -1,5 +1,5 @@
 ---
 title: "ChemistDirect"
 url: /mingora/chemistdirect/
-shop: Drogerie
+shop: chemist
 ---

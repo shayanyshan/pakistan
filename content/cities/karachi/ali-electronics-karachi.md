@@ -1,5 +1,5 @@
 ---
 title: "Ali Electronics Karachi"
 url: /karachi/ali-electronics-karachi/
-shop: Allgemein
+shop: shop
 ---

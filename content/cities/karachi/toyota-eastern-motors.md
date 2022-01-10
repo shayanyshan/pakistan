@@ -1,5 +1,5 @@
 ---
 title: "Toyota Eastern Motors"
 url: /karachi/toyota-eastern-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saad General Store"
 url: /karachi/saad-general-store/
-shop: Supermarkt
+shop: supermarket
 ---

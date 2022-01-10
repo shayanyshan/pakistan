@@ -1,5 +1,5 @@
 ---
 title: "Pantaloons"
 url: /karachi/pantaloons/
-shop: Kleidung
+shop: clothes
 ---

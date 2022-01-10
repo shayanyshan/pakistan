@@ -1,5 +1,5 @@
 ---
 title: "Al Razzak Jewellers"
 url: /karachi/al-razzak-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

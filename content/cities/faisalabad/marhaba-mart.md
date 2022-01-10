@@ -1,5 +1,5 @@
 ---
 title: "Marhaba Mart"
 url: /faisalabad/marhaba-mart/
-shop: Supermarkt
+shop: supermarket
 ---

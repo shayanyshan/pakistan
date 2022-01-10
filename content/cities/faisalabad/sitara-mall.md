@@ -1,5 +1,5 @@
 ---
 title: "Sitara Mall"
 url: /faisalabad/sitara-mall/
-shop: Allgemein
+shop: shop
 ---

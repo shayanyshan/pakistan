@@ -1,5 +1,5 @@
 ---
 title: "Multi Decor"
 url: /karachi/multi-decor/
-shop: Möbel
+shop: furniture
 ---

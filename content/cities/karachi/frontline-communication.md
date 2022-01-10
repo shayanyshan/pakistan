@@ -1,5 +1,5 @@
 ---
 title: "Frontline Communication"
 url: /karachi/frontline-communication/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goraya Shopping Center"
 url: /faisalabad/goraya-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

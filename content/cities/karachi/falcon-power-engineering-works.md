@@ -1,5 +1,5 @@
 ---
 title: "Falcon Power Engineering Works"
 url: /karachi/falcon-power-engineering-works/
-shop: Allgemein
+shop: shop
 ---

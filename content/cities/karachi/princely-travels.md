@@ -1,5 +1,5 @@
 ---
 title: "Princely Travels"
 url: /karachi/princely-travels/
-shop: Reisebüro
+shop: travel agency
 ---

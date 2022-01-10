@@ -1,5 +1,5 @@
 ---
 title: "Royal Mega Mart"
 url: /sukkur/royal-mega-mart/
-shop: Lebensmittel
+shop: convenience
 ---

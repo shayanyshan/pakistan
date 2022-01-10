@@ -1,5 +1,5 @@
 ---
 title: "Usman Sanitary Store"
 url: /slm-abd/usman-sanitary-store/
-shop: Eisenwaren
+shop: hardware
 ---

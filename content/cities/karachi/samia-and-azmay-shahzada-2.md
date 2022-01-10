@@ -1,5 +1,5 @@
 ---
 title: "Samia And Azmay Shahzada"
 url: /karachi/samia-and-azmay-shahzada-2/
-shop: Modehaus
+shop: boutique
 ---

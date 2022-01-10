@@ -1,5 +1,5 @@
 ---
 title: "Huda SILK"
 url: /karachi/huda-silk/
-shop: Kleidung
+shop: clothes
 ---

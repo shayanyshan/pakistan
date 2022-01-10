@@ -1,5 +1,5 @@
 ---
 title: "Gujjar Mobile zone"
 url: /khrchy/gujjar-mobile-zone/
-shop: Handy
+shop: mobile phone
 ---

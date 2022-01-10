@@ -1,5 +1,5 @@
 ---
 title: "Zia Fancy Shoes"
 url: /maotra/zia-fancy-shoes/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gulistan Fresh Bakers"
 url: /karachi/gulistan-fresh-bakers/
-shop: Bäckerei
+shop: bakery
 ---

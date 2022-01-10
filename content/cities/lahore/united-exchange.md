@@ -1,5 +1,5 @@
 ---
 title: "United Exchange"
 url: /lahore/united-exchange/
-shop: Leiher
+shop: pawnbroker
 ---

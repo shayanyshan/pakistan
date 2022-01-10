@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /slm-abd/bata/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harware Store"
 url: /slm-abd/harware-store/
-shop: Eisenwaren
+shop: hardware
 ---

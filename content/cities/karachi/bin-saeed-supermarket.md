@@ -1,5 +1,5 @@
 ---
 title: "Bin Saeed Supermarket"
 url: /karachi/bin-saeed-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

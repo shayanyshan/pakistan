@@ -1,5 +1,5 @@
 ---
 title: "shaheen sports"
 url: /karachi/shaheen-sports/
-shop: Sport
+shop: sports
 ---

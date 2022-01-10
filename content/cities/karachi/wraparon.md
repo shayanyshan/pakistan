@@ -1,5 +1,5 @@
 ---
 title: "Wraparon"
 url: /karachi/wraparon/
-shop: Kramladen
+shop: variety store
 ---

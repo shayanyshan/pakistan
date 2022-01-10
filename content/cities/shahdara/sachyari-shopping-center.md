@@ -1,5 +1,5 @@
 ---
 title: "Sachyari Shopping Center"
 url: /shahdara/sachyari-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

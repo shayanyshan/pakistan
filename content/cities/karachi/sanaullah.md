@@ -1,5 +1,5 @@
 ---
 title: "Sanaullah"
 url: /karachi/sanaullah/
-shop: Kleidung
+shop: clothes
 ---

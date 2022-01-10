@@ -1,5 +1,5 @@
 ---
 title: "Mughal Jewelers"
 url: /rawalpindi/mughal-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

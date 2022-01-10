@@ -1,5 +1,5 @@
 ---
 title: "Insignia"
 url: /faisalabad/insignia/
-shop: Schuhe
+shop: shoes
 ---

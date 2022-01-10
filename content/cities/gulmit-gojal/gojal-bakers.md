@@ -1,5 +1,5 @@
 ---
 title: "Gojal Bakers"
 url: /gulmit-gojal/gojal-bakers/
-shop: Bäckerei
+shop: bakery
 ---

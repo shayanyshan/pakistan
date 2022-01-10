@@ -1,5 +1,5 @@
 ---
 title: "EGO"
 url: /hyderabad/ego/
-shop: Kleidung
+shop: clothes
 ---

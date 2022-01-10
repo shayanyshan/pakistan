@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /karachi/genesis/
-shop: Friseur
+shop: hairdresser
 ---

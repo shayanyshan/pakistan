@@ -1,5 +1,5 @@
 ---
 title: "Panasonic"
 url: /lahore/panasonic/
-shop: Allgemein
+shop: shop
 ---

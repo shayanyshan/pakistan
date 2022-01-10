@@ -1,5 +1,5 @@
 ---
 title: "Elle Rouge Parlor"
 url: /karachi/elle-rouge-parlor/
-shop: Kosmetik
+shop: beauty
 ---

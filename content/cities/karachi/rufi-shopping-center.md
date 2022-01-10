@@ -1,5 +1,5 @@
 ---
 title: "Rufi Shopping Center"
 url: /karachi/rufi-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

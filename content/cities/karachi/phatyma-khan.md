@@ -1,5 +1,5 @@
 ---
 title: "Phatyma Khan"
 url: /karachi/phatyma-khan/
-shop: Kleidung
+shop: clothes
 ---

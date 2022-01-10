@@ -1,5 +1,5 @@
 ---
 title: "Gul Ahmed Outlet"
 url: /karachi/gul-ahmed-outlet/
-shop: Kleidung
+shop: clothes
 ---

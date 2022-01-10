@@ -1,5 +1,5 @@
 ---
 title: "hajveri jewellers"
 url: /rawalpindi/hajveri-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

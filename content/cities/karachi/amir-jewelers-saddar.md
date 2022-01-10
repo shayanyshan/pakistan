@@ -1,5 +1,5 @@
 ---
 title: "Amir Jewelers Saddar"
 url: /karachi/amir-jewelers-saddar/
-shop: Schmuck
+shop: jewelry
 ---

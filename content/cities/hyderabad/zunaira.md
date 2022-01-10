@@ -1,5 +1,5 @@
 ---
 title: "Zunaira"
 url: /hyderabad/zunaira/
-shop: Kleidung
+shop: clothes
 ---

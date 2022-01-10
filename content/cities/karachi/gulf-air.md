@@ -1,5 +1,5 @@
 ---
 title: "Gulf Air"
 url: /karachi/gulf-air/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saeed Ghani"
 url: /karachi/saeed-ghani-3/
-shop: Parfümerie
+shop: perfumery
 ---

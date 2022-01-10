@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /sheikhupura/toyota/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CSD Complex"
 url: /mltn/csd-complex/
-shop: Allgemein
+shop: shop
 ---

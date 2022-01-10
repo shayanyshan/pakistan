@@ -1,5 +1,5 @@
 ---
 title: "City Estate"
 url: /karachi/city-estate/
-shop: Autohaus
+shop: car
 ---

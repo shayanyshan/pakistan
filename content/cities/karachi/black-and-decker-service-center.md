@@ -1,5 +1,5 @@
 ---
 title: "Black and Decker Service Center"
 url: /karachi/black-and-decker-service-center/
-shop: Elektronik
+shop: electronics
 ---

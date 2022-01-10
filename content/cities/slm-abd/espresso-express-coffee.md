@@ -1,5 +1,5 @@
 ---
 title: "Espresso Express Coffee"
 url: /slm-abd/espresso-express-coffee/
-shop: Kaffee
+shop: coffee
 ---

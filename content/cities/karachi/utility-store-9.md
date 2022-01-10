@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /karachi/utility-store-9/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /bahawalpur/bata/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roshni"
 url: /faisalabad/roshni/
-shop: Eisenwaren
+shop: hardware
 ---

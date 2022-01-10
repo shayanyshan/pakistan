@@ -1,5 +1,5 @@
 ---
 title: "Farhat Jewellers"
 url: /karachi/farhat-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fresco Sweets"
 url: /slm-abd/fresco-sweets/
-shop: Bäckerei
+shop: bakery
 ---

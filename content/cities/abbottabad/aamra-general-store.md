@@ -1,5 +1,5 @@
 ---
 title: "Aamra General Store"
 url: /abbottabad/aamra-general-store/
-shop: Dorfladen
+shop: general
 ---

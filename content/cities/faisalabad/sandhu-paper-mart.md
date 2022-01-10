@@ -1,5 +1,5 @@
 ---
 title: "Sandhu Paper Mart"
 url: /faisalabad/sandhu-paper-mart/
-shop: Supermarkt
+shop: supermarket
 ---

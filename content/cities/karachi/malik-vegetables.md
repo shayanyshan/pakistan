@@ -1,5 +1,5 @@
 ---
 title: "Malik Vegetables"
 url: /karachi/malik-vegetables/
-shop: Allgemein
+shop: shop
 ---

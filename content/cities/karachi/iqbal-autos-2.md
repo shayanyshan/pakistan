@@ -1,5 +1,5 @@
 ---
 title: "Iqbal Autos"
 url: /karachi/iqbal-autos-2/
-shop: Autoteile
+shop: car parts
 ---

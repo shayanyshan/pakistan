@@ -1,5 +1,5 @@
 ---
 title: "Selecto Mobile"
 url: /faisalabad/selecto-mobile/
-shop: Handy
+shop: mobile phone
 ---

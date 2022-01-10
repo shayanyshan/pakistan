@@ -1,5 +1,5 @@
 ---
 title: "Al usman Electric"
 url: /karachi/al-usman-electric/
-shop: Elektronik
+shop: electronics
 ---

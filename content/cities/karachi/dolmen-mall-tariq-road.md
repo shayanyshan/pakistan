@@ -1,5 +1,5 @@
 ---
 title: "Dolmen Mall Tariq Road"
 url: /karachi/dolmen-mall-tariq-road/
-shop: Einkaufszentrum
+shop: mall
 ---

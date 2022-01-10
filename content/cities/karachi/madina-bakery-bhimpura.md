@@ -1,5 +1,5 @@
 ---
 title: "Madina Bakery - Bhimpura"
 url: /karachi/madina-bakery-bhimpura/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nipa Wine Shop"
 url: /karachi/nipa-wine-shop/
-shop: Wein
+shop: wine
 ---

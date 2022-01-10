@@ -1,5 +1,5 @@
 ---
 title: "Sharjah Shopping Mall"
 url: /karachi/sharjah-shopping-mall/
-shop: Kleidung
+shop: clothes
 ---

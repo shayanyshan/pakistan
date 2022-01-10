@@ -1,5 +1,5 @@
 ---
 title: "Compu Tech"
 url: /karachi/compu-tech/
-shop: Elektronik
+shop: electronics
 ---

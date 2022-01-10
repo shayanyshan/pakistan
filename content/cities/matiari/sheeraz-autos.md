@@ -1,5 +1,5 @@
 ---
 title: "Sheeraz Autos"
 url: /matiari/sheeraz-autos/
-shop: Autoteile
+shop: car parts
 ---

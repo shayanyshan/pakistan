@@ -1,5 +1,5 @@
 ---
 title: "Popular Style"
 url: /karachi/popular-style/
-shop: Kleidung
+shop: clothes
 ---

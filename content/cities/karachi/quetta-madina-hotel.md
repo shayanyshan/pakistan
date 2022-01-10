@@ -1,5 +1,5 @@
 ---
 title: "Quetta Madina Hotel"
 url: /karachi/quetta-madina-hotel/
-shop: Tee
+shop: tea
 ---

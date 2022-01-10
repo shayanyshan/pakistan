@@ -1,5 +1,5 @@
 ---
 title: "Kiddy Stylez"
 url: /karachi/kiddy-stylez/
-shop: Kleidung
+shop: clothes
 ---

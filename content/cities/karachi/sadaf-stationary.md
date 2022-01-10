@@ -1,5 +1,5 @@
 ---
 title: "Sadaf Stationary"
 url: /karachi/sadaf-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

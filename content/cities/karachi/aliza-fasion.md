@@ -1,5 +1,5 @@
 ---
 title: "Aliza Fasion"
 url: /karachi/aliza-fasion/
-shop: Modehaus
+shop: boutique
 ---

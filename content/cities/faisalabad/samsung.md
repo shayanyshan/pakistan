@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /faisalabad/samsung/
-shop: Elektronik
+shop: electronics
 ---

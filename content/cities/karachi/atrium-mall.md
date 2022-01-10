@@ -1,5 +1,5 @@
 ---
 title: "Atrium Mall"
 url: /karachi/atrium-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

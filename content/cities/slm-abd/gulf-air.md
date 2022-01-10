@@ -1,5 +1,5 @@
 ---
 title: "Gulf Air"
 url: /slm-abd/gulf-air/
-shop: Reisebüro
+shop: travel agency
 ---

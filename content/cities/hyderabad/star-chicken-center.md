@@ -1,5 +1,5 @@
 ---
 title: "Star Chicken Center"
 url: /hyderabad/star-chicken-center/
-shop: Allgemein
+shop: shop
 ---

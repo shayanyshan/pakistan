@@ -1,5 +1,5 @@
 ---
 title: "Birds Shop"
 url: /karachi/birds-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Babys Emporium"
 url: /karachi/babys-emporium/
-shop: Babysachen
+shop: baby goods
 ---

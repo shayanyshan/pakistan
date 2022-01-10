@@ -1,5 +1,5 @@
 ---
 title: "Craft Bazar"
 url: /mltn/craft-bazar/
-shop: Supermarkt
+shop: supermarket
 ---

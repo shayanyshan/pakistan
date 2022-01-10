@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /hyderabad/utility-store-2/
-shop: Supermarkt
+shop: supermarket
 ---

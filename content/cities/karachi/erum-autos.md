@@ -1,5 +1,5 @@
 ---
 title: "Erum Autos"
 url: /karachi/erum-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

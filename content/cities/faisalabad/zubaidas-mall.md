@@ -1,5 +1,5 @@
 ---
 title: "Zubaidas Mall"
 url: /faisalabad/zubaidas-mall/
-shop: Kleidung
+shop: clothes
 ---

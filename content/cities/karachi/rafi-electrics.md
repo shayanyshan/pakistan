@@ -1,5 +1,5 @@
 ---
 title: "Rafi Electrics"
 url: /karachi/rafi-electrics/
-shop: Allgemein
+shop: shop
 ---

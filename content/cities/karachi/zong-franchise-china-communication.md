@@ -1,5 +1,5 @@
 ---
 title: "Zong Franchise - China Communication"
 url: /karachi/zong-franchise-china-communication/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Choc-O-Licious"
 url: /karachi/choc-o-licious/
-shop: Bäckerei
+shop: bakery
 ---

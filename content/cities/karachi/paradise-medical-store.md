@@ -1,5 +1,5 @@
 ---
 title: "Paradise Medical Store"
 url: /karachi/paradise-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

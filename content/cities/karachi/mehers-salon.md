@@ -1,5 +1,5 @@
 ---
 title: "Mehers Salon"
 url: /karachi/mehers-salon/
-shop: Kosmetik
+shop: beauty
 ---

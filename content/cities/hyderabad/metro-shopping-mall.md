@@ -1,5 +1,5 @@
 ---
 title: "Metro Shopping Mall"
 url: /hyderabad/metro-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

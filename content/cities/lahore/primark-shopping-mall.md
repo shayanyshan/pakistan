@@ -1,5 +1,5 @@
 ---
 title: "Primark Shopping Mall"
 url: /lahore/primark-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

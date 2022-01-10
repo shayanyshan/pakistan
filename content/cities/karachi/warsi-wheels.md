@@ -1,5 +1,5 @@
 ---
 title: "Warsi Wheels"
 url: /karachi/warsi-wheels/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gateway International"
 url: /karachi/gateway-international/
-shop: Reisebüro
+shop: travel agency
 ---

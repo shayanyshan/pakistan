@@ -1,5 +1,5 @@
 ---
 title: "Xelent Karachi"
 url: /karachi/xelent-karachi/
-shop: Elektronik
+shop: electronics
 ---

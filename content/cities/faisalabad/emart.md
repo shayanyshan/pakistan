@@ -1,5 +1,5 @@
 ---
 title: "EMart"
 url: /faisalabad/emart/
-shop: Warenhaus
+shop: department store
 ---

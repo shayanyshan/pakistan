@@ -1,5 +1,5 @@
 ---
 title: "Zubair Interior Decor"
 url: /karachi/zubair-interior-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

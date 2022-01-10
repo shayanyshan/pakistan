@@ -1,5 +1,5 @@
 ---
 title: "NEW IQRA MOTORS"
 url: /karachi/new-iqra-motors/
-shop: Autohaus
+shop: car
 ---

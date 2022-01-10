@@ -1,5 +1,5 @@
 ---
 title: "Chicoo Baby -Saima Paari Mall"
 url: /karachi/chicoo-baby-saima-paari-mall/
-shop: Kleidung
+shop: clothes
 ---

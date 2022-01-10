@@ -1,5 +1,5 @@
 ---
 title: "Kamaliyaat - Saima Mall"
 url: /karachi/kamaliyaat-saima-mall/
-shop: Kleidung
+shop: clothes
 ---

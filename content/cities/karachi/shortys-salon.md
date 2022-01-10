@@ -1,5 +1,5 @@
 ---
 title: "Shorty's Salon"
 url: /karachi/shortys-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nishat Electric Store"
 url: /karachi/nishat-electric-store/
-shop: Elektronik
+shop: electronics
 ---

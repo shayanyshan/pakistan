@@ -1,5 +1,5 @@
 ---
 title: "Kunash"
 url: /karachi/kunash/
-shop: Kleidung
+shop: clothes
 ---

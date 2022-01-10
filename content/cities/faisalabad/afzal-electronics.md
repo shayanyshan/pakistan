@@ -1,5 +1,5 @@
 ---
 title: "Afzal Electronics"
 url: /faisalabad/afzal-electronics/
-shop: Elektronik
+shop: electronics
 ---

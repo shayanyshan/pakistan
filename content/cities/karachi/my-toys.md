@@ -1,5 +1,5 @@
 ---
 title: "My Toys"
 url: /karachi/my-toys/
-shop: Spielzeug
+shop: toys
 ---

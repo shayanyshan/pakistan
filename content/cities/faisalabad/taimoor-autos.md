@@ -1,5 +1,5 @@
 ---
 title: "Taimoor Autos"
 url: /faisalabad/taimoor-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

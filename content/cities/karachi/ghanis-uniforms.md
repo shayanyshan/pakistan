@@ -1,5 +1,5 @@
 ---
 title: "Ghani's Uniforms"
 url: /karachi/ghanis-uniforms/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RK Gaming Zone"
 url: /karachi/rk-gaming-zone/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "King Electronics"
 url: /karachi/king-electronics/
-shop: Allgemein
+shop: shop
 ---

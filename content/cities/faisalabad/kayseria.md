@@ -1,5 +1,5 @@
 ---
 title: "Kayseria"
 url: /faisalabad/kayseria/
-shop: Kleidung
+shop: clothes
 ---

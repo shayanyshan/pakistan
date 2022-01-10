@@ -1,5 +1,5 @@
 ---
 title: "Al Wardah Supermarket"
 url: /karachi/al-wardah-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

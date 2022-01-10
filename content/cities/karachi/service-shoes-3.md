@@ -1,5 +1,5 @@
 ---
 title: "Service Shoes"
 url: /karachi/service-shoes-3/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Farine Bakery"
 url: /karachi/la-farine-bakery-3/
-shop: Bäckerei
+shop: bakery
 ---

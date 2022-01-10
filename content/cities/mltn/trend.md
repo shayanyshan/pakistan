@@ -1,5 +1,5 @@
 ---
 title: "Trend"
 url: /mltn/trend/
-shop: Lebensmittel
+shop: convenience
 ---

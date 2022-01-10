@@ -1,5 +1,5 @@
 ---
 title: "Skiandar Store"
 url: /lahore/skiandar-store/
-shop: Tee
+shop: tea
 ---

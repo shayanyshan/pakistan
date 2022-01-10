@@ -1,5 +1,5 @@
 ---
 title: "Rasheed Battery Service"
 url: /ranipur-riyast/rasheed-battery-service/
-shop: Autoteile
+shop: car parts
 ---

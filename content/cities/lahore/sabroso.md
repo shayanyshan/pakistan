@@ -1,5 +1,5 @@
 ---
 title: "Sabroso"
 url: /lahore/sabroso/
-shop: Tiefkühl
+shop: frozen food
 ---

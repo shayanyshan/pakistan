@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /abbottabad/utility-store/
-shop: Warenhaus
+shop: department store
 ---

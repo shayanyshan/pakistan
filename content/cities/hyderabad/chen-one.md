@@ -1,5 +1,5 @@
 ---
 title: "Chen One"
 url: /hyderabad/chen-one/
-shop: Kleidung
+shop: clothes
 ---

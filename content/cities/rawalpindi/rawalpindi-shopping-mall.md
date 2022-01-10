@@ -1,5 +1,5 @@
 ---
 title: "Rawalpindi Shopping Mall"
 url: /rawalpindi/rawalpindi-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

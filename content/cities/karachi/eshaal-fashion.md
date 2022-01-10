@@ -1,5 +1,5 @@
 ---
 title: "Eshaal Fashion"
 url: /karachi/eshaal-fashion/
-shop: Kleidung
+shop: clothes
 ---

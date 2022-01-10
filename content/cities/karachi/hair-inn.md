@@ -1,5 +1,5 @@
 ---
 title: "HAIR INN"
 url: /karachi/hair-inn/
-shop: Friseur
+shop: hairdresser
 ---

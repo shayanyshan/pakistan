@@ -1,5 +1,5 @@
 ---
 title: "Intezar Store"
 url: /karachi/intezar-store/
-shop: Supermarkt
+shop: supermarket
 ---

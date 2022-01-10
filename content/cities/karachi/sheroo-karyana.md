@@ -1,5 +1,5 @@
 ---
 title: "Sheroo Karyana"
 url: /karachi/sheroo-karyana/
-shop: Supermarkt
+shop: supermarket
 ---

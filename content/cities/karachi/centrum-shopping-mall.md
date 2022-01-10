@@ -1,5 +1,5 @@
 ---
 title: "Centrum Shopping Mall"
 url: /karachi/centrum-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

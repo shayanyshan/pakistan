@@ -1,5 +1,5 @@
 ---
 title: "Smart Mart"
 url: /karachi/smart-mart/
-shop: Supermarkt
+shop: supermarket
 ---
