@@ -1,5 +1,5 @@
 ---
-title: "Metro Cash & Carry"
+title: "METRO Cash & Carry"
 url: /lahore/metro-cash-and-carry-2/
-shop: supermarket
+shop: wholesale
 ---
