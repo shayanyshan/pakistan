@@ -1,4 +1,4 @@
-baseURL = "https://pk.shoogle.net/pakistan"
+baseURL = "https://pk.shoogle.net/pakistan/"
 languageCode = "en"
 title = "Pakistan"
 theme = "ln-base"
