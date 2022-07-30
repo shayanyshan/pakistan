@@ -1,5 +1,5 @@
 ---
 title: copyshop
 url: /copyshop/
-icon: other
+icon: copyshop
 ---
