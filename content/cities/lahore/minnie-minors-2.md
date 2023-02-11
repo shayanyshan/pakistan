@@ -1,5 +1,5 @@
 ---
 title: "Minnie Minors"
-url: /lahore/minnie-minors-2/
+url: /lahore/minnie-minors/
 shop: clothes
 ---

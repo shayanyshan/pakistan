@@ -1,5 +1,5 @@
 ---
 title: "Ideal Bakers"
-url: /karachi/ideal-bakers-2/
+url: /karachi/ideal-bakers/
 shop: bakery
 ---

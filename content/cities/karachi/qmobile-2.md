@@ -1,5 +1,5 @@
 ---
 title: "QMobile"
-url: /karachi/qmobile-2/
+url: /karachi/qmobile/
 shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chase"
-url: /karachi/chase-2/
+url: /karachi/chase/
 shop: department store
 ---
