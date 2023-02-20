@@ -1,5 +1,5 @@
 ---
-title: "K&Ns Chicken Store"
+title: "K&N's Chicken Store"
 url: /hyderabad/kandns-chicken-store/
-shop: butcher
+shop: shop
 ---
