@@ -1,5 +1,5 @@
 ---
-title: "Hobnob Bakery"
+title: "HobNob Bakery"
 url: /karachi/hobnob-bakery/
 shop: bakery
 ---

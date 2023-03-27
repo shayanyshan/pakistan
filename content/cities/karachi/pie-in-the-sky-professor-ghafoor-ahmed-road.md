@@ -1,5 +1,5 @@
 ---
-title: "Pie In the Sky"
+title: "Pie in the Sky"
 url: /karachi/pie-in-the-sky/
 shop: bakery
 ---
