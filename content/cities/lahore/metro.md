@@ -1,5 +1,5 @@
 ---
 title: "METRO"
-url: /karachi/metro/
+url: /lahore/metro/
 shop: wholesale
 ---

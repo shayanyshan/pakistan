@@ -1,6 +1,6 @@
 ---
 title: Naushahro Feroze
 url: /naushahro-feroze/
-latitude: 26.838
-longitude: 68.123
+latitude: 26.843
+longitude: 68.122
 ---
