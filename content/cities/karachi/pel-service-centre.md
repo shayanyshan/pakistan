@@ -1,5 +1,5 @@
 ---
-title: "Pel Service Centre"
+title: "PEL Service Centre"
 url: /karachi/pel-service-centre/
 shop: electronics
 ---
