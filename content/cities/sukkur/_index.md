@@ -1,6 +1,6 @@
 ---
 title: Sukkur
 url: /sukkur/
-latitude: 27.688
-longitude: 68.855
+latitude: 27.706
+longitude: 68.842
 ---
