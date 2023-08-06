@@ -1,6 +1,6 @@
 ---
 title: کراچی
 url: /khrchy/
-latitude: 24.833
-longitude: 67.034
+latitude: 25.014
+longitude: 67.128
 ---
