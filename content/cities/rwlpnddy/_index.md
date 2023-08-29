@@ -1,6 +1,6 @@
 ---
 title: راولپنڈی
 url: /rwlpnddy/
-latitude: 33.541
-longitude: 73.108
+latitude: 33.588
+longitude: 73.089
 ---
