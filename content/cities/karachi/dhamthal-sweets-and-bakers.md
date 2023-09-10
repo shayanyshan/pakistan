@@ -1,5 +1,5 @@
 ---
-title: "Dhamthal Sweets & Bakers"
+title: "Dhamthal Sweets and Bakers"
 url: /karachi/dhamthal-sweets-and-bakers/
-shop: confectionery
+shop: bakery
 ---
