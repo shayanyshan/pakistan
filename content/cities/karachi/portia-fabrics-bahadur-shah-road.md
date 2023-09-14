@@ -1,5 +1,5 @@
 ---
 title: "Portia Fabrics"
-url: /karachi/portia-fabrics/
+url: /karachi/portia-fabrics-bahadur-shah-road/
 shop: shop
 ---

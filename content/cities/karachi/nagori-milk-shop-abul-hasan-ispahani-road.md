@@ -1,5 +1,5 @@
 ---
 title: "Nagori Milk Shop"
-url: /karachi/nagori-milk-shop/
+url: /karachi/nagori-milk-shop-abul-hasan-ispahani-road/
 shop: dairy
 ---

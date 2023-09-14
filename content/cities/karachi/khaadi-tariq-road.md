@@ -1,5 +1,5 @@
 ---
 title: "Khaadi"
-url: /karachi/khaadi/
+url: /karachi/khaadi-tariq-road/
 shop: clothes
 ---

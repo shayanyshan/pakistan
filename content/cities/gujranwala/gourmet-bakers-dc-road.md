@@ -1,5 +1,5 @@
 ---
 title: "Gourmet Bakers"
-url: /gujranwala/gourmet-bakers/
+url: /gujranwala/gourmet-bakers-dc-road/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sabroso"
-url: /lahore/sabroso/
+url: /lahore/sabroso-ghazi-road/
 shop: shop
 ---

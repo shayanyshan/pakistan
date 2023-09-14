@@ -1,5 +1,5 @@
 ---
 title: "Liberty Uniforms"
-url: /karachi/liberty-uniforms/
+url: /karachi/liberty-uniforms-jamaluddin-afghani-road/
 shop: shop
 ---

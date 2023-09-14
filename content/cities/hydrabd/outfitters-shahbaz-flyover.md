@@ -1,5 +1,5 @@
 ---
 title: "Outfitters"
-url: /hydrabd/outfitters/
+url: /hydrabd/outfitters-shahbaz-flyover/
 shop: clothes
 ---

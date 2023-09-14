@@ -1,5 +1,5 @@
 ---
 title: "Bonanza"
-url: /karachi/bonanza/
+url: /karachi/bonanza-sarwar-shaheed-rd/
 shop: clothes
 ---

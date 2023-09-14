@@ -1,5 +1,5 @@
 ---
 title: "Hobnob"
-url: /karachi/hobnob/
+url: /karachi/hobnob-shahrah-e-humayun/
 shop: bakery
 ---

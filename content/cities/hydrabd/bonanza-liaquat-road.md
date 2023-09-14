@@ -1,5 +1,5 @@
 ---
 title: "Bonanza"
-url: /hydrabd/bonanza/
+url: /hydrabd/bonanza-liaquat-road/
 shop: clothes
 ---

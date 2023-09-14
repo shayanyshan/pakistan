@@ -1,5 +1,5 @@
 ---
 title: "English Boot House"
-url: /karachi/english-boot-house/
+url: /karachi/english-boot-house-tariq-road/
 shop: shoes
 ---

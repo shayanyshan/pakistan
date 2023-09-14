@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /karachi/bata/
+url: /karachi/bata-khayaban-e-ittehad/
 shop: shoes
 ---

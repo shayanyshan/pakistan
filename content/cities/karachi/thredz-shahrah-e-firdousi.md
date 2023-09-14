@@ -1,5 +1,5 @@
 ---
 title: "Thredz"
-url: /karachi/thredz/
+url: /karachi/thredz-shahrah-e-firdousi/
 shop: clothes
 ---

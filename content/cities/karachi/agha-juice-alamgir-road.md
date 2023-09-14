@@ -1,5 +1,5 @@
 ---
 title: "Agha Juice"
-url: /karachi/agha-juice/
+url: /karachi/agha-juice-alamgir-road/
 shop: shop
 ---

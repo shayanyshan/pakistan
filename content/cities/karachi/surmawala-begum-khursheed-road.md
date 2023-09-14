@@ -1,5 +1,5 @@
 ---
 title: "Surmawala"
-url: /karachi/surmawala/
+url: /karachi/surmawala-begum-khursheed-road/
 shop: appliance
 ---

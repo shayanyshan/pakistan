@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /karachi/bata/
+url: /karachi/bata-bahadurabad-chowrangi/
 shop: shoes
 ---

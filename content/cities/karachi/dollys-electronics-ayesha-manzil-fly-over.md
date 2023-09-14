@@ -1,5 +1,5 @@
 ---
 title: "Dolly's Electronics"
-url: /karachi/dollys-electronics/
+url: /karachi/dollys-electronics-ayesha-manzil-fly-over/
 shop: electronics
 ---

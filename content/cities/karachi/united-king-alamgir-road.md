@@ -1,5 +1,5 @@
 ---
 title: "United King"
-url: /karachi/united-king/
+url: /karachi/united-king-alamgir-road/
 shop: bakery
 ---

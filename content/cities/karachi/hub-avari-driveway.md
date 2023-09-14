@@ -1,5 +1,5 @@
 ---
 title: "HUB"
-url: /karachi/hub/
+url: /karachi/hub-avari-driveway/
 shop: leather
 ---

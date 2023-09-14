@@ -1,5 +1,5 @@
 ---
 title: "Timex"
-url: /karachi/timex/
+url: /karachi/timex-fatima-jinnah-road/
 shop: mall
 ---

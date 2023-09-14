@@ -1,5 +1,5 @@
 ---
 title: "Servis Shoes"
-url: /karachi/servis-shoes/
+url: /karachi/servis-shoes-zaibunnisa-street/
 shop: shoes
 ---

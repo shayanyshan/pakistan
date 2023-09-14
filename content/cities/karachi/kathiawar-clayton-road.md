@@ -1,5 +1,5 @@
 ---
 title: "Kathiawar"
-url: /karachi/kathiawar/
+url: /karachi/kathiawar-clayton-road/
 shop: car
 ---
