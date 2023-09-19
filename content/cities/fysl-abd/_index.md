@@ -1,6 +1,6 @@
 ---
 title: فیصل آباد
 url: /fysl-abd/
-latitude: 31.403
-longitude: 73.105
+latitude: 31.412
+longitude: 73.116
 ---
