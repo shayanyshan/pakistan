@@ -1,6 +1,6 @@
 ---
 title: Peshawar
 url: /peshawar/
-latitude: 34.003
-longitude: 71.545
+latitude: 34
+longitude: 71.537
 ---
