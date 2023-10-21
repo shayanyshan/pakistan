@@ -1,5 +1,5 @@
 ---
-title: "My toys"
+title: "My Toys"
 url: /karachi/my-toys/
-shop: gift
+shop: toys
 ---
