@@ -1,5 +1,5 @@
 ---
 title: "Prince Bakery"
-url: /karachi/prince-bakery-nazimabad-1/
+url: /karachi/prince-bakery-mioz-street/
 shop: bakery
 ---

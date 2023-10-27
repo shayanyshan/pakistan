@@ -1,5 +1,5 @@
 ---
 title: "Expo City"
-url: /karachi/expo-city-tariq-road/
+url: /karachi/expo-city-alamgir-road/
 shop: clothes
 ---
