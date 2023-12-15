@@ -1,5 +1,5 @@
 ---
 title: "Nagori Milk Shop"
 url: /karachi/nagori-milk-shop/
-shop: shop
+shop: dairy
 ---
