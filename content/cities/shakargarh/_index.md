@@ -1,6 +1,6 @@
 ---
 title: Shakargarh
 url: /shakargarh/
-latitude: 32.267
-longitude: 75.152
+latitude: 32.265
+longitude: 75.158
 ---
