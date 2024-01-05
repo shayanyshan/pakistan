@@ -1,6 +1,6 @@
 ---
 title: Balochistan
 url: /balochistan/
-latitude: 25.383
-longitude: 66.664
+latitude: 24.915
+longitude: 66.698
 ---
