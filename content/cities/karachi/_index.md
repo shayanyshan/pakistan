@@ -1,6 +1,6 @@
 ---
 title: Karachi
 url: /karachi/
-latitude: 25.388
-longitude: 68.363
+latitude: 24.938
+longitude: 67.042
 ---
