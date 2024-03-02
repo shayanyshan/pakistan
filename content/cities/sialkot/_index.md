@@ -1,6 +1,6 @@
 ---
 title: Sialkot
 url: /sialkot/
-latitude: 32.491
-longitude: 74.525
+latitude: 32.495
+longitude: 74.55
 ---

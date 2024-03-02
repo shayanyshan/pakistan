@@ -1,5 +1,5 @@
 ---
-title: "K&Ns Chicken Store"
+title: "K&N's Chicken Store"
 url: /hydrabd/kandns-chicken-store/
-shop: butcher
+shop: shop
 ---
