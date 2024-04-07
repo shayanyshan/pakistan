@@ -1,5 +1,5 @@
 ---
-title: "Maazjee Mens Wear"
+title: "Maazjee Men's Wear"
 url: /karachi/maazjee-mens-wear/
-shop: shop
+shop: clothes
 ---
