@@ -1,5 +1,5 @@
 ---
-title: "Soghat e Sheerin"
+title: "Soghat-e-Sheerin"
 url: /hydrabd/soghat-e-sheerin/
 shop: bakery
 ---
