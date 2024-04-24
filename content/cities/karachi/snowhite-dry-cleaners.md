@@ -1,5 +1,5 @@
 ---
-title: "Snowhite dry cleaners"
+title: "Snowhite Dry Cleaners"
 url: /karachi/snowhite-dry-cleaners/
-shop: clothes
+shop: laundry
 ---
