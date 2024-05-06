@@ -1,6 +1,6 @@
 ---
 title: مرزا آباد
 url: /mrz-abd/
-latitude: 32.687
-longitude: 73.347
+latitude: 32.688
+longitude: 73.346
 ---
