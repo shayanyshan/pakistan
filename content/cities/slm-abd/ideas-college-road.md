@@ -1,5 +1,5 @@
 ---
 title: "Ideas"
-url: /slm-abd/ideas-street-54/
+url: /slm-abd/ideas-college-road/
 shop: clothes
 ---
