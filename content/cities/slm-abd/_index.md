@@ -1,6 +1,6 @@
 ---
 title: اسلام آباد
 url: /slm-abd/
-latitude: 33.682
-longitude: 72.98
+latitude: 33.713
+longitude: 73.041
 ---
