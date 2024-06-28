@@ -1,5 +1,5 @@
 ---
 title: "Habitt - Dolmen Mall Clifton"
 url: /karachi/habitt-dolmen-mall-clifton/
-shop: furniture
+shop: interior decoration
 ---
