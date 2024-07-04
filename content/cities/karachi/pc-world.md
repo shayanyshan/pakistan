@@ -1,5 +1,5 @@
 ---
-title: "PC WORLD"
+title: "PC World"
 url: /karachi/pc-world/
 shop: shop
 ---

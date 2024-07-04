@@ -1,5 +1,5 @@
 ---
-title: "DECENT BALLOONS"
+title: "Decent Balloons"
 url: /karachi/decent-balloons/
 shop: shop
 ---
