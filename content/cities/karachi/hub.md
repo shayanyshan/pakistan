@@ -1,5 +1,5 @@
 ---
 title: "HUB"
 url: /karachi/hub/
-shop: clothes
+shop: leather
 ---
