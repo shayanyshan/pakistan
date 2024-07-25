@@ -1,5 +1,5 @@
 ---
 title: "Gourmet"
-url: /fysl-abd/gourmet-jail-road/
+url: /fysl-abd/gourmet-chenone-road/
 shop: bakery
 ---
