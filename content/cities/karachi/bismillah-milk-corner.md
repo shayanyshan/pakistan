@@ -1,5 +1,5 @@
 ---
 title: "Bismillah Milk Corner"
 url: /karachi/bismillah-milk-corner/
-shop: shop
+shop: dairy
 ---
