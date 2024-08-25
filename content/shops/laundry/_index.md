@@ -1,5 +1,5 @@
 ---
 title: laundry
 url: /laundry/
-icon: other
+icon: laundry
 ---
