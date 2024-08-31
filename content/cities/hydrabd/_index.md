@@ -1,6 +1,6 @@
 ---
 title: حیدرآباد
 url: /hydrabd/
-latitude: 25.384
-longitude: 68.35
+latitude: 25.375
+longitude: 68.357
 ---
