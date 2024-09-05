@@ -1,5 +1,5 @@
 ---
 title: "Ibla Autos"
 url: /karachi/ibla-autos/
-shop: motorcycle
+shop: Motorrad
 ---

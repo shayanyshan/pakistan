@@ -1,5 +1,5 @@
 ---
 title: "Amaancrockery"
 url: /karachi/amaancrockery/
-shop: gift
+shop: Andenken
 ---

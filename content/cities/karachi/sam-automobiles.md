@@ -1,5 +1,5 @@
 ---
 title: "SAM Automobiles"
 url: /karachi/sam-automobiles/
-shop: car
+shop: Autohaus
 ---

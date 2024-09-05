@@ -1,5 +1,5 @@
 ---
 title: "Pistachio Chocolatier"
 url: /karachi/pistachio-chocolatier/
-shop: chocolate
+shop: Schokolade
 ---

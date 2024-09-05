@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /karachi/metro-university-road/
-shop: wholesale
+shop: Großhandel
 ---

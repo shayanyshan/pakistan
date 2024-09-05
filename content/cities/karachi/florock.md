@@ -1,5 +1,5 @@
 ---
 title: "Florock"
 url: /karachi/florock/
-shop: shop
+shop: Allgemein
 ---

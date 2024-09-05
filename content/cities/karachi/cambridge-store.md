@@ -1,5 +1,5 @@
 ---
 title: "Cambridge Store"
 url: /karachi/cambridge-store/
-shop: clothes
+shop: Kleidung
 ---

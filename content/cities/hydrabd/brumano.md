@@ -1,5 +1,5 @@
 ---
 title: "Brumano"
 url: /hydrabd/brumano/
-shop: clothes
+shop: Kleidung
 ---

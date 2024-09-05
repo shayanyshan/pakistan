@@ -1,5 +1,5 @@
 ---
 title: "Mottas"
 url: /karachi/mottas/
-shop: supermarket
+shop: Supermarkt
 ---

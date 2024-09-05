@@ -1,5 +1,5 @@
 ---
 title: "YUSRA CURTAIN"
 url: /karachi/yusra-curtain/
-shop: curtain
+shop: Gardinen
 ---

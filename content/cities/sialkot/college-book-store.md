@@ -1,5 +1,5 @@
 ---
 title: "College Book Store"
 url: /sialkot/college-book-store/
-shop: books
+shop: Bücher
 ---

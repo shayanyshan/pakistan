@@ -1,5 +1,5 @@
 ---
 title: "O'Shoot"
 url: /karachi/oshoot/
-shop: photo
+shop: Foto
 ---

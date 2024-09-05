@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /karachi/levis/
-shop: clothes
+shop: Kleidung
 ---

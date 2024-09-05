@@ -1,5 +1,5 @@
 ---
 title: "Uzair Communication"
 url: /karachi/uzair-communication/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floorissa"
 url: /karachi/floorissa/
-shop: shop
+shop: Allgemein
 ---

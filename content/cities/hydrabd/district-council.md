@@ -1,5 +1,5 @@
 ---
 title: "District Council"
 url: /hydrabd/district-council/
-shop: mall
+shop: Einkaufszentrum
 ---

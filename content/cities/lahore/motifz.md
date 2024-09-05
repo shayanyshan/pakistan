@@ -1,5 +1,5 @@
 ---
 title: "Motifz"
 url: /lahore/motifz/
-shop: clothes
+shop: Kleidung
 ---

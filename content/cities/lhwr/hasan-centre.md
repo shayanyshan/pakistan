@@ -1,5 +1,5 @@
 ---
 title: "Hasan Centre"
 url: /lhwr/hasan-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

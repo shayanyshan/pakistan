@@ -1,5 +1,5 @@
 ---
 title: "Amna Boutique"
 url: /karachi/amna-boutique/
-shop: clothes
+shop: Kleidung
 ---

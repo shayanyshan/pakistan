@@ -1,5 +1,5 @@
 ---
 title: "Irshad Autos"
 url: /khrchy/irshad-autos/
-shop: car parts
+shop: Autoteile
 ---

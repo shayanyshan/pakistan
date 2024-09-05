@@ -1,5 +1,5 @@
 ---
 title: "Raza"
 url: /mandra/raza/
-shop: bakery
+shop: Bäckerei
 ---

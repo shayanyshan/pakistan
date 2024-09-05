@@ -1,5 +1,5 @@
 ---
 title: "Gold Star"
 url: /karachi/gold-star/
-shop: jewelry
+shop: Schmuck
 ---

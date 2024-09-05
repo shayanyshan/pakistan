@@ -1,5 +1,5 @@
 ---
 title: "statenaoiry shop"
 url: /karachi/statenaoiry-shop/
-shop: gift
+shop: Andenken
 ---

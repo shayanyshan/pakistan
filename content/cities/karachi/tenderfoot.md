@@ -1,5 +1,5 @@
 ---
 title: "Tenderfoot"
 url: /karachi/tenderfoot/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rana Babar Sweets"
 url: /fysl-abd/rana-babar-sweets/
-shop: bakery
+shop: Bäckerei
 ---

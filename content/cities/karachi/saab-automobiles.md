@@ -1,5 +1,5 @@
 ---
 title: "Saab Automobiles"
 url: /karachi/saab-automobiles/
-shop: car
+shop: Autohaus
 ---

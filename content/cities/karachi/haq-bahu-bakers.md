@@ -1,5 +1,5 @@
 ---
 title: "Haq Bahu Bakers"
 url: /karachi/haq-bahu-bakers/
-shop: bakery
+shop: Bäckerei
 ---

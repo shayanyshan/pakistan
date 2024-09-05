@@ -1,5 +1,5 @@
 ---
 title: "Sheheryar Drycleaners"
 url: /karachi/sheheryar-drycleaners/
-shop: laundry
+shop: Wäscherei
 ---

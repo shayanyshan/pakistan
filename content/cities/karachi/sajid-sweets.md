@@ -1,5 +1,5 @@
 ---
 title: "Sajid Sweets"
 url: /karachi/sajid-sweets/
-shop: bakery
+shop: Bäckerei
 ---

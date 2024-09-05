@@ -1,5 +1,5 @@
 ---
 title: "Adventurer"
 url: /karachi/adventurer/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DecoEra"
 url: /karachi/decoera/
-shop: furniture
+shop: Möbel
 ---

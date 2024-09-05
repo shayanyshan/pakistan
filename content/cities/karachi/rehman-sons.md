@@ -1,5 +1,5 @@
 ---
 title: "Rehman Sons"
 url: /karachi/rehman-sons/
-shop: tailor
+shop: Schneiderei
 ---

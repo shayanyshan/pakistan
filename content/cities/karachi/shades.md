@@ -1,5 +1,5 @@
 ---
 title: "Shades"
 url: /karachi/shades/
-shop: beauty
+shop: Kosmetik
 ---

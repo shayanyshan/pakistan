@@ -1,5 +1,5 @@
 ---
 title: "Bissino"
 url: /fysl-abd/bissino/
-shop: clothes
+shop: Kleidung
 ---

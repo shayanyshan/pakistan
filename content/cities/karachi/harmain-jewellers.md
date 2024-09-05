@@ -1,5 +1,5 @@
 ---
 title: "Harmain Jewellers"
 url: /karachi/harmain-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

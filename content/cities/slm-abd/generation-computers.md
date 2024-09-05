@@ -1,5 +1,5 @@
 ---
 title: "Generation Computers"
 url: /slm-abd/generation-computers/
-shop: computer
+shop: Computer
 ---

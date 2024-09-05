@@ -1,5 +1,5 @@
 ---
 title: "Khatri Store"
 url: /karachi/khatri-store/
-shop: shop
+shop: Allgemein
 ---

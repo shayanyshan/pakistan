@@ -1,5 +1,5 @@
 ---
 title: "Groccer"
 url: /hydrabd/groccer/
-shop: bag
+shop: Taschen & Koffer
 ---

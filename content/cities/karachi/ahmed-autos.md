@@ -1,5 +1,5 @@
 ---
 title: "Ahmed Autos"
 url: /karachi/ahmed-autos/
-shop: shop
+shop: Allgemein
 ---

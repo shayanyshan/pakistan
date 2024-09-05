@@ -1,5 +1,5 @@
 ---
 title: "Habitt"
 url: /karachi/habitt/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SMK COMMUNICATION"
 url: /karachi/smk-communication/
-shop: mobile phone
+shop: Handy
 ---

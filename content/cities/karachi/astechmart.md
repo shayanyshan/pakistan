@@ -1,5 +1,5 @@
 ---
 title: "astechmart"
 url: /karachi/astechmart/
-shop: appliance
+shop: Haushaltsgeräte
 ---

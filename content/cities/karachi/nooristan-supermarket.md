@@ -1,5 +1,5 @@
 ---
 title: "Nooristan Supermarket"
 url: /karachi/nooristan-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

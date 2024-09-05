@@ -1,5 +1,5 @@
 ---
 title: "Saffron Bakers"
 url: /karachi/saffron-bakers/
-shop: bakery
+shop: Bäckerei
 ---

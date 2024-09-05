@@ -1,5 +1,5 @@
 ---
 title: "Bareeze"
 url: /karachi/bareeze/
-shop: fabric
+shop: Textil
 ---

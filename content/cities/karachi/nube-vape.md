@@ -1,5 +1,5 @@
 ---
 title: "Nube Vape"
 url: /karachi/nube-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

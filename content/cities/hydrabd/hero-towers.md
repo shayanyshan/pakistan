@@ -1,5 +1,5 @@
 ---
 title: "Hero Towers"
 url: /hydrabd/hero-towers/
-shop: mall
+shop: Einkaufszentrum
 ---

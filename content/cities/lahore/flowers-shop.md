@@ -1,5 +1,5 @@
 ---
 title: "Flowers Shop"
 url: /lahore/flowers-shop/
-shop: shop
+shop: Allgemein
 ---

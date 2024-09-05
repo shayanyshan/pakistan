@@ -1,5 +1,5 @@
 ---
 title: "Cementation"
 url: /karachi/cementation/
-shop: hardware
+shop: Eisenwaren
 ---

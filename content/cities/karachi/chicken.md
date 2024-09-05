@@ -1,5 +1,5 @@
 ---
 title: "Chicken"
 url: /karachi/chicken/
-shop: butcher
+shop: Metzgerei
 ---

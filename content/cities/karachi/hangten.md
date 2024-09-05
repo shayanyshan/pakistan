@@ -1,5 +1,5 @@
 ---
 title: "Hangten"
 url: /karachi/hangten/
-shop: sports
+shop: Sport
 ---

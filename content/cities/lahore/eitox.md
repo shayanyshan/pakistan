@@ -1,5 +1,5 @@
 ---
 title: "EITOX"
 url: /lahore/eitox/
-shop: shop
+shop: Allgemein
 ---

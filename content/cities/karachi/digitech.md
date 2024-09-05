@@ -1,5 +1,5 @@
 ---
 title: "Digitech"
 url: /karachi/digitech/
-shop: computer
+shop: Computer
 ---

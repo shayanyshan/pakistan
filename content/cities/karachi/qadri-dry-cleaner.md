@@ -1,5 +1,5 @@
 ---
 title: "Qadri Dry Cleaner"
 url: /karachi/qadri-dry-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

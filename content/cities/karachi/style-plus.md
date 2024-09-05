@@ -1,5 +1,5 @@
 ---
 title: "Style Plus"
 url: /karachi/style-plus/
-shop: clothes
+shop: Kleidung
 ---

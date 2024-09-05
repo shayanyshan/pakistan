@@ -1,5 +1,5 @@
 ---
 title: "Mama Bakery"
 url: /karachi/mama-bakery/
-shop: bakery
+shop: Bäckerei
 ---

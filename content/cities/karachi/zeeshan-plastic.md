@@ -1,5 +1,5 @@
 ---
 title: "Zeeshan Plastic"
 url: /karachi/zeeshan-plastic/
-shop: swimming pool
+shop: Pool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unlimit it"
 url: /karachi/unlimit-it/
-shop: furniture
+shop: Möbel
 ---

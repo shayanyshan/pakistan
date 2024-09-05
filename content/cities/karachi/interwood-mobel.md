@@ -1,5 +1,5 @@
 ---
 title: "Interwood Mobel"
 url: /karachi/interwood-mobel/
-shop: furniture
+shop: Möbel
 ---

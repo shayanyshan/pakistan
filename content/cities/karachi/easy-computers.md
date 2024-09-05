@@ -1,5 +1,5 @@
 ---
 title: "Easy computers"
 url: /karachi/easy-computers/
-shop: computer
+shop: Computer
 ---

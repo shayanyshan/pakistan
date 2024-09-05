@@ -1,5 +1,5 @@
 ---
 title: "Photo Majic"
 url: /karachi/photo-majic/
-shop: photo
+shop: Foto
 ---

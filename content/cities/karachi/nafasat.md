@@ -1,5 +1,5 @@
 ---
 title: "Nafasat"
 url: /karachi/nafasat/
-shop: clothes
+shop: Kleidung
 ---

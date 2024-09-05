@@ -1,5 +1,5 @@
 ---
 title: "Taloo Associates"
 url: /karachi/taloo-associates/
-shop: shop
+shop: Allgemein
 ---

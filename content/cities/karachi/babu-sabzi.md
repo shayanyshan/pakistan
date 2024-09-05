@@ -1,5 +1,5 @@
 ---
 title: "BABU SABZI"
 url: /karachi/babu-sabzi/
-shop: wholesale
+shop: Großhandel
 ---

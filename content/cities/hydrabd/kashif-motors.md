@@ -1,5 +1,5 @@
 ---
 title: "Kashif Motors"
 url: /hydrabd/kashif-motors/
-shop: car
+shop: Autohaus
 ---

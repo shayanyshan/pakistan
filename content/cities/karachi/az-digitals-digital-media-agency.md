@@ -1,5 +1,5 @@
 ---
 title: "AZ Digitals - Digital Media Agency"
 url: /karachi/az-digitals-digital-media-agency/
-shop: travel agency
+shop: Reisebüro
 ---

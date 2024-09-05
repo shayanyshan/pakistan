@@ -1,5 +1,5 @@
 ---
 title: "Equator"
 url: /fysl-abd/equator/
-shop: clothes
+shop: Kleidung
 ---

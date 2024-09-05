@@ -1,5 +1,5 @@
 ---
 title: "Taibani Optical"
 url: /karachi/taibani-optical/
-shop: optician
+shop: Optiker
 ---

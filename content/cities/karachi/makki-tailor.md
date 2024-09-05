@@ -1,5 +1,5 @@
 ---
 title: "Makki Tailor"
 url: /karachi/makki-tailor/
-shop: tailor
+shop: Schneiderei
 ---

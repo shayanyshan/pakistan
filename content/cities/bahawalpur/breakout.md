@@ -1,5 +1,5 @@
 ---
 title: "Breakout"
 url: /bahawalpur/breakout/
-shop: clothes
+shop: Kleidung
 ---

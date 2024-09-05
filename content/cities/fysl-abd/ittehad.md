@@ -1,5 +1,5 @@
 ---
 title: "Ittehad"
 url: /fysl-abd/ittehad/
-shop: clothes
+shop: Kleidung
 ---

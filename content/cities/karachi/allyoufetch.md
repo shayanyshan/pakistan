@@ -1,5 +1,5 @@
 ---
 title: "AllYouFetch"
 url: /karachi/allyoufetch/
-shop: doityourself
+shop: Baumarkt
 ---

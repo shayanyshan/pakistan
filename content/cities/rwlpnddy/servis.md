@@ -1,5 +1,5 @@
 ---
 title: "Servis"
 url: /rwlpnddy/servis/
-shop: shoes
+shop: Schuhe
 ---

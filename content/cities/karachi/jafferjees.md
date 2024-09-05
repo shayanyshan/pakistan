@@ -1,5 +1,5 @@
 ---
 title: "Jafferjees"
 url: /karachi/jafferjees/
-shop: clothes
+shop: Kleidung
 ---

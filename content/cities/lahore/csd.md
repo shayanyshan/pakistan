@@ -1,5 +1,5 @@
 ---
 title: "CSD"
 url: /lahore/csd/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karigar"
 url: /karachi/karigar/
-shop: furniture
+shop: Möbel
 ---

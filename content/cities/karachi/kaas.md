@@ -1,5 +1,5 @@
 ---
 title: "Kaas"
 url: /karachi/kaas/
-shop: gift
+shop: Andenken
 ---

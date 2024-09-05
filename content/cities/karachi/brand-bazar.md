@@ -1,5 +1,5 @@
 ---
 title: "Brand Bazar"
 url: /karachi/brand-bazar/
-shop: interior decoration
+shop: Raumausstattung
 ---

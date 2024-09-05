@@ -1,5 +1,5 @@
 ---
 title: "MIDS Sports"
 url: /karachi/mids-sports/
-shop: shop
+shop: Allgemein
 ---

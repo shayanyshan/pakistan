@@ -1,5 +1,5 @@
 ---
 title: "Optic Way"
 url: /karachi/optic-way/
-shop: optician
+shop: Optiker
 ---

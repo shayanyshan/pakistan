@@ -1,5 +1,5 @@
 ---
 title: "Ismails"
 url: /fysl-abd/ismails/
-shop: clothes
+shop: Kleidung
 ---

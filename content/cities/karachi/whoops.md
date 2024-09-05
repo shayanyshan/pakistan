@@ -1,5 +1,5 @@
 ---
 title: "Whoops"
 url: /karachi/whoops/
-shop: kiosk
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COMPANION"
 url: /karachi/companion/
-shop: bag
+shop: Taschen & Koffer
 ---

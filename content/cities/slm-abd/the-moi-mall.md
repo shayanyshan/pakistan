@@ -1,5 +1,5 @@
 ---
 title: "The MOI Mall"
 url: /slm-abd/the-moi-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

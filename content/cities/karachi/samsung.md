@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /karachi/samsung/
-shop: electronics
+shop: Elektronik
 ---
