@@ -1,5 +1,5 @@
 ---
 title: "S.K Lube"
 url: /karachi/s-k-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

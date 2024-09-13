@@ -1,5 +1,5 @@
 ---
 title: "Park Towers Supermarket"
 url: /karachi/park-towers-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

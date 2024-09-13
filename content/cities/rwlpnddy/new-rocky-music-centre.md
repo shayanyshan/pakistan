@@ -1,5 +1,5 @@
 ---
 title: "New Rocky Music Centre"
 url: /rwlpnddy/new-rocky-music-centre/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Umar Store"
 url: /karachi/umar-store/
-shop: Allgemein
+shop: shop
 ---

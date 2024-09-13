@@ -1,5 +1,5 @@
 ---
 title: "Amina Motors"
 url: /karachi/amina-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motiwala Travels"
 url: /karachi/motiwala-travels/
-shop: Reisebüro
+shop: travel agency
 ---

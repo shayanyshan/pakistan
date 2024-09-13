@@ -1,5 +1,5 @@
 ---
 title: "Mid City Mall"
 url: /rwlpnddy/mid-city-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

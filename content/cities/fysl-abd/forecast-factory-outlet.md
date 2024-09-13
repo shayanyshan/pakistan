@@ -1,5 +1,5 @@
 ---
 title: "Forecast Factory Outlet"
 url: /fysl-abd/forecast-factory-outlet/
-shop: Kleidung
+shop: clothes
 ---

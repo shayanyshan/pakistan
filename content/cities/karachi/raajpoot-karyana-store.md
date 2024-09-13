@@ -1,5 +1,5 @@
 ---
 title: "Raajpoot Karyana Store"
 url: /karachi/raajpoot-karyana-store/
-shop: Allgemein
+shop: shop
 ---

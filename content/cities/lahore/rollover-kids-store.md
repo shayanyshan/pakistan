@@ -1,5 +1,5 @@
 ---
 title: "Rollover Kids Store"
 url: /lahore/rollover-kids-store/
-shop: Babysachen
+shop: baby goods
 ---

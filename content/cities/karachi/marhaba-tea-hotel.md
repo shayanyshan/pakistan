@@ -1,5 +1,5 @@
 ---
 title: "Marhaba Tea Hotel"
 url: /karachi/marhaba-tea-hotel/
-shop: Tee
+shop: tea
 ---

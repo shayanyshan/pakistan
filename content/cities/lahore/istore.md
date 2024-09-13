@@ -1,5 +1,5 @@
 ---
 title: "iStore"
 url: /lahore/istore/
-shop: Computer
+shop: computer
 ---

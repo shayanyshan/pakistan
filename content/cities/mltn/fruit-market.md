@@ -1,5 +1,5 @@
 ---
 title: "Fruit Market"
 url: /mltn/fruit-market/
-shop: Supermarkt
+shop: supermarket
 ---

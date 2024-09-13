@@ -1,5 +1,5 @@
 ---
 title: "Bismilah Bakery"
 url: /karachi/bismilah-bakery/
-shop: Bäckerei
+shop: bakery
 ---

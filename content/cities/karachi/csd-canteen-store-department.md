@@ -1,5 +1,5 @@
 ---
 title: "CSD (Canteen store department)"
 url: /karachi/csd-canteen-store-department/
-shop: Supermarkt
+shop: supermarket
 ---

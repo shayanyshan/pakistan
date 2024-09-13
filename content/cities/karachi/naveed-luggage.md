@@ -1,5 +1,5 @@
 ---
 title: "Naveed Luggage"
 url: /karachi/naveed-luggage/
-shop: Allgemein
+shop: shop
 ---

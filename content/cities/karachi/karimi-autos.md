@@ -1,5 +1,5 @@
 ---
 title: "Karimi Autos"
 url: /karachi/karimi-autos/
-shop: Autohaus
+shop: car
 ---

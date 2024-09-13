@@ -1,5 +1,5 @@
 ---
 title: "Tayaba Paint Store"
 url: /karachi/tayaba-paint-store/
-shop: Farben
+shop: paint
 ---

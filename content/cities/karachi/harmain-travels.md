@@ -1,5 +1,5 @@
 ---
 title: "Harmain Travels"
 url: /karachi/harmain-travels/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VIP Stationers"
 url: /karachi/vip-stationers/
-shop: Schreibwaren
+shop: office supplies
 ---

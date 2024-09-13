@@ -1,5 +1,5 @@
 ---
 title: "NEW KOHINOOR"
 url: /karachi/new-kohinoor/
-shop: Autowerkstatt
+shop: car repair
 ---

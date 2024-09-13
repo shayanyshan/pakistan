@@ -1,5 +1,5 @@
 ---
 title: "Fareed Motors"
 url: /fysl-abd/fareed-motors/
-shop: Motorrad
+shop: motorcycle
 ---

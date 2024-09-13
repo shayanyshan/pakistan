@@ -1,5 +1,5 @@
 ---
 title: "M sajid majeed"
 url: /karachi/m-sajid-majeed/
-shop: Allgemein
+shop: shop
 ---

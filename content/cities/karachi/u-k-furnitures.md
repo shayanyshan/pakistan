@@ -1,5 +1,5 @@
 ---
 title: "U.K Furnitures"
 url: /karachi/u-k-furnitures/
-shop: Möbel
+shop: furniture
 ---

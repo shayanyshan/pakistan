@@ -1,5 +1,5 @@
 ---
 title: "PlayStation Games"
 url: /karachi/playstation-games/
-shop: Videospiele
+shop: video games
 ---

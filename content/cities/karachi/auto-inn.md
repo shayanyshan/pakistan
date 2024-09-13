@@ -1,5 +1,5 @@
 ---
 title: "Auto Inn"
 url: /karachi/auto-inn/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Memon Paan Shop"
 url: /karachi/memon-paan-shop/
-shop: Allgemein
+shop: shop
 ---

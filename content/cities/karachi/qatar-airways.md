@@ -1,5 +1,5 @@
 ---
 title: "Qatar Airways"
 url: /karachi/qatar-airways/
-shop: Reisebüro
+shop: travel agency
 ---

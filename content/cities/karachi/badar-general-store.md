@@ -1,5 +1,5 @@
 ---
 title: "Badar General Store"
 url: /karachi/badar-general-store/
-shop: Dorfladen
+shop: general
 ---

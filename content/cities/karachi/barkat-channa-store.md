@@ -1,5 +1,5 @@
 ---
 title: "Barkat Channa Store"
 url: /karachi/barkat-channa-store/
-shop: Dorfladen
+shop: general
 ---

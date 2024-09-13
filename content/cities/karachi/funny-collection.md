@@ -1,5 +1,5 @@
 ---
 title: "Funny Collection"
 url: /karachi/funny-collection/
-shop: Spielzeug
+shop: toys
 ---

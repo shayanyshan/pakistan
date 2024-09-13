@@ -1,5 +1,5 @@
 ---
 title: "Shahid Timber Mart"
 url: /karachi/shahid-timber-mart/
-shop: Dorfladen
+shop: general
 ---

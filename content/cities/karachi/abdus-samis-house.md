@@ -1,5 +1,5 @@
 ---
 title: "Abdus Sami's House"
 url: /karachi/abdus-samis-house/
-shop: Elektronik
+shop: electronics
 ---

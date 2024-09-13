@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /gujar-khan/utility-store/
-shop: Lebensmittel
+shop: convenience
 ---

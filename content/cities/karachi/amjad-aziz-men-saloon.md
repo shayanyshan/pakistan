@@ -1,5 +1,5 @@
 ---
 title: "Amjad Aziz Men Saloon"
 url: /karachi/amjad-aziz-men-saloon/
-shop: Friseur
+shop: hairdresser
 ---

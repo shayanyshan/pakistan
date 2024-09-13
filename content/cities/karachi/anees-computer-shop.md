@@ -1,5 +1,5 @@
 ---
 title: "Anees Computer Shop"
 url: /karachi/anees-computer-shop/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zahid Pan Shop"
 url: /karachi/zahid-pan-shop/
-shop: Supermarkt
+shop: supermarket
 ---

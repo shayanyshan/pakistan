@@ -1,5 +1,5 @@
 ---
 title: "Khan Autos"
 url: /karachi/khan-autos/
-shop: Motorrad
+shop: motorcycle
 ---

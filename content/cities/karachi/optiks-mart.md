@@ -1,5 +1,5 @@
 ---
 title: "Optiks Mart"
 url: /karachi/optiks-mart/
-shop: Optiker
+shop: optician
 ---

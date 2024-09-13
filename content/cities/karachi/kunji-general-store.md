@@ -1,5 +1,5 @@
 ---
 title: "Kunji general store"
 url: /karachi/kunji-general-store/
-shop: Dorfladen
+shop: general
 ---

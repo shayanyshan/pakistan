@@ -1,5 +1,5 @@
 ---
 title: "Prince Mart"
 url: /bahawalpur/prince-mart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Grand Affairs"
 url: /karachi/the-grand-affairs/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servis Shoes"
 url: /slm-abd/servis-shoes-khayaban-e-suhrwardy/
-shop: Schuhe
+shop: shoes
 ---

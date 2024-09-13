@@ -1,5 +1,5 @@
 ---
 title: "Pak Turk International"
 url: /slm-abd/pak-turk-international/
-shop: Reisebüro
+shop: travel agency
 ---

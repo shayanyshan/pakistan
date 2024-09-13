@@ -1,5 +1,5 @@
 ---
 title: "Shell Tyre Shop"
 url: /slm-abd/shell-tyre-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

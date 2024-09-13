@@ -1,5 +1,5 @@
 ---
 title: "Ideal Pan Shop"
 url: /karachi/ideal-pan-shop/
-shop: Allgemein
+shop: shop
 ---

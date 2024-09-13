@@ -1,5 +1,5 @@
 ---
 title: "Junaid Jamshed Garments"
 url: /hydrabd/junaid-jamshed-garments/
-shop: Kleidung
+shop: clothes
 ---

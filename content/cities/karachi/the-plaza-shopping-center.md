@@ -1,5 +1,5 @@
 ---
 title: "The Plaza Shopping Center"
 url: /karachi/the-plaza-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

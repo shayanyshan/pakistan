@@ -1,5 +1,5 @@
 ---
 title: "ڈنکن ڈونٹس"
 url: /karachi/ddnkhn-ddwntts/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orbit Communications"
 url: /karachi/orbit-communications/
-shop: Handy
+shop: mobile phone
 ---

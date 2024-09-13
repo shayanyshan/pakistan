@@ -1,5 +1,5 @@
 ---
 title: "Madni Milk Shop"
 url: /karachi/madni-milk-shop/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HSN Pakistan- Zamzama"
 url: /karachi/hsn-pakistan-zamzama/
-shop: Elektronik
+shop: electronics
 ---

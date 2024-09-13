@@ -1,5 +1,5 @@
 ---
 title: "Suzuki ALKhair Agencies"
 url: /hydrabd/suzuki-alkhair-agencies/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shiwani dress mekerz"
 url: /karachi/shiwani-dress-mekerz/
-shop: Schneiderei
+shop: tailor
 ---

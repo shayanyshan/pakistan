@@ -1,5 +1,5 @@
 ---
 title: "AGHA AUTOS"
 url: /khrchy/agha-autos/
-shop: Autoteile
+shop: car parts
 ---

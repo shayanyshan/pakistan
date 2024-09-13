@@ -1,5 +1,5 @@
 ---
 title: "Tehzib Bakers"
 url: /rwlpnddy/tehzib-bakers/
-shop: Bäckerei
+shop: bakery
 ---

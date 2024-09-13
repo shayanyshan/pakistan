@@ -1,5 +1,5 @@
 ---
 title: "Jewel Art"
 url: /karachi/jewel-art/
-shop: Schmuck
+shop: jewelry
 ---

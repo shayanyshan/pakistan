@@ -1,5 +1,5 @@
 ---
 title: "Paracha Exchange"
 url: /lahore/paracha-exchange/
-shop: Leiher
+shop: pawnbroker
 ---

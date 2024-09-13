@@ -1,5 +1,5 @@
 ---
 title: "Rehmat Rice Store"
 url: /karachi/rehmat-rice-store/
-shop: Allgemein
+shop: shop
 ---

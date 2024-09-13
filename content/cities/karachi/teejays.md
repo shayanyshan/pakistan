@@ -1,5 +1,5 @@
 ---
 title: "Teejays"
 url: /karachi/teejays/
-shop: Modehaus
+shop: boutique
 ---

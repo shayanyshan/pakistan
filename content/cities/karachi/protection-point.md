@@ -1,5 +1,5 @@
 ---
 title: "Protection Point"
 url: /karachi/protection-point/
-shop: Kleidung
+shop: clothes
 ---

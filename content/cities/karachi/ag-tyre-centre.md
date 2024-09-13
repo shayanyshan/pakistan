@@ -1,5 +1,5 @@
 ---
 title: "AG Tyre Centre"
 url: /karachi/ag-tyre-centre/
-shop: Reifen
+shop: tyres
 ---

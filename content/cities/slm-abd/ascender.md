@@ -1,5 +1,5 @@
 ---
 title: "Ascender"
 url: /slm-abd/ascender/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Japanwala Wheels"
 url: /karachi/japanwala-wheels/
-shop: Reifen
+shop: tyres
 ---

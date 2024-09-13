@@ -1,5 +1,5 @@
 ---
 title: "Mr. Soda"
 url: /karachi/mr-soda/
-shop: Allgemein
+shop: shop
 ---

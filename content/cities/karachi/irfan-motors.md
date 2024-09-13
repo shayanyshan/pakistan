@@ -1,5 +1,5 @@
 ---
 title: "Irfan Motors"
 url: /karachi/irfan-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

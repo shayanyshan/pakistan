@@ -1,5 +1,5 @@
 ---
 title: "Fish Point"
 url: /karachi/fish-point/
-shop: Fisch
+shop: seafood
 ---

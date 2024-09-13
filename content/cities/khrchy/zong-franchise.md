@@ -1,5 +1,5 @@
 ---
 title: "Zong Franchise"
 url: /khrchy/zong-franchise/
-shop: Handy
+shop: mobile phone
 ---

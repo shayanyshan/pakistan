@@ -1,5 +1,5 @@
 ---
 title: "Bilal store"
 url: /karachi/bilal-store/
-shop: Dorfladen
+shop: general
 ---

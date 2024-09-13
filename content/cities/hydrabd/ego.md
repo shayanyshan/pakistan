@@ -1,5 +1,5 @@
 ---
 title: "EGO"
 url: /hydrabd/ego/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AL Samad Furniture"
 url: /karachi/al-samad-furniture/
-shop: Möbel
+shop: furniture
 ---

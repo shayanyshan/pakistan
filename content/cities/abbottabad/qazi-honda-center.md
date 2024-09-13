@@ -1,5 +1,5 @@
 ---
 title: "Qazi Honda Center"
 url: /abbottabad/qazi-honda-center/
-shop: Motorrad
+shop: motorcycle
 ---

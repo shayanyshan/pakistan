@@ -1,5 +1,5 @@
 ---
 title: "Saveway Super Market"
 url: /karachi/saveway-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

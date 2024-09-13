@@ -1,5 +1,5 @@
 ---
 title: "Delta Ejaz Autos"
 url: /karachi/delta-ejaz-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curtains Interior"
 url: /karachi/curtains-interior/
-shop: Raumausstattung
+shop: interior decoration
 ---

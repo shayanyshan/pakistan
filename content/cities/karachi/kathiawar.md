@@ -1,5 +1,5 @@
 ---
 title: "Kathiawar"
 url: /karachi/kathiawar/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imtiaz Stationery. امتیاز اسٹیشنری"
 url: /karachi/imtiaz-stationery-mtyz-sttyshnry/
-shop: Schreibwaren
+shop: office supplies
 ---

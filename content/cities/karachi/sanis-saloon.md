@@ -1,5 +1,5 @@
 ---
 title: "Sanis Saloon"
 url: /karachi/sanis-saloon/
-shop: Allgemein
+shop: shop
 ---

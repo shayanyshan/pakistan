@@ -1,5 +1,5 @@
 ---
 title: "Akram Fish Point"
 url: /karachi/akram-fish-point/
-shop: Allgemein
+shop: shop
 ---

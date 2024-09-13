@@ -1,5 +1,5 @@
 ---
 title: "Hydrabad"
 url: /karachi/hydrabad/
-shop: Bäckerei
+shop: bakery
 ---

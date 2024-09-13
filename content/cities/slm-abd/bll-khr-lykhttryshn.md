@@ -1,5 +1,5 @@
 ---
 title: "بلال کار الیکٹریشن"
 url: /slm-abd/bll-khr-lykhttryshn/
-shop: Autowerkstatt
+shop: car repair
 ---

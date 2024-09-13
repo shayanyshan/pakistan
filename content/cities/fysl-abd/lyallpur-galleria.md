@@ -1,5 +1,5 @@
 ---
 title: "Lyallpur Galleria"
 url: /fysl-abd/lyallpur-galleria/
-shop: Einkaufszentrum
+shop: mall
 ---

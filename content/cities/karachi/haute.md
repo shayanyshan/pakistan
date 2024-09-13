@@ -1,5 +1,5 @@
 ---
 title: "Haute"
 url: /karachi/haute/
-shop: Möbel
+shop: furniture
 ---

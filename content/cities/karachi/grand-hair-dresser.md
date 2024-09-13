@@ -1,5 +1,5 @@
 ---
 title: "Grand Hair Dresser"
 url: /karachi/grand-hair-dresser/
-shop: Friseur
+shop: hairdresser
 ---

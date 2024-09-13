@@ -1,5 +1,5 @@
 ---
 title: "Arshad Plaza"
 url: /fysl-abd/arshad-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

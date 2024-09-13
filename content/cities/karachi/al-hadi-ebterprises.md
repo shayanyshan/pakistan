@@ -1,5 +1,5 @@
 ---
 title: "AL HADI Ebterprises"
 url: /karachi/al-hadi-ebterprises/
-shop: Großhandel
+shop: wholesale
 ---

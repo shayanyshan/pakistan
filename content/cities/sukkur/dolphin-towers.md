@@ -1,5 +1,5 @@
 ---
 title: "Dolphin Towers"
 url: /sukkur/dolphin-towers/
-shop: Einkaufszentrum
+shop: mall
 ---

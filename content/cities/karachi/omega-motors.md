@@ -1,5 +1,5 @@
 ---
 title: "Omega Motors"
 url: /karachi/omega-motors/
-shop: Autohaus
+shop: car
 ---

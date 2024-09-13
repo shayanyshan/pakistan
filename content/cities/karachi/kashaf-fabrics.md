@@ -1,5 +1,5 @@
 ---
 title: "Kashaf Fabrics"
 url: /karachi/kashaf-fabrics/
-shop: Kleidung
+shop: clothes
 ---

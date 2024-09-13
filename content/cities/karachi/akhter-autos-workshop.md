@@ -1,5 +1,5 @@
 ---
 title: "Akhter Autos Workshop"
 url: /karachi/akhter-autos-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

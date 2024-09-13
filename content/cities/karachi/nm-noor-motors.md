@@ -1,5 +1,5 @@
 ---
 title: "NM Noor Motors"
 url: /karachi/nm-noor-motors/
-shop: Motorrad
+shop: motorcycle
 ---

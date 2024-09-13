@@ -1,5 +1,5 @@
 ---
 title: "General Store"
 url: /bala-gujran/general-store/
-shop: Dorfladen
+shop: general
 ---

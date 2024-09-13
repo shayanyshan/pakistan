@@ -1,5 +1,5 @@
 ---
 title: "Ajwa Mart"
 url: /fysl-abd/ajwa-mart/
-shop: Supermarkt
+shop: supermarket
 ---

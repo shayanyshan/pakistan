@@ -1,5 +1,5 @@
 ---
 title: "Sams Cake Factory"
 url: /karachi/sams-cake-factory-mallir-cantt-road/
-shop: Bäckerei
+shop: bakery
 ---

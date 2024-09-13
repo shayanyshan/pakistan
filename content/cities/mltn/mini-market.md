@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /mltn/mini-market/
-shop: Allgemein
+shop: shop
 ---

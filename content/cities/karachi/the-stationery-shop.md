@@ -1,5 +1,5 @@
 ---
 title: "The Stationery Shop"
 url: /karachi/the-stationery-shop/
-shop: Schreibwaren
+shop: office supplies
 ---

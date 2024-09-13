@@ -1,5 +1,5 @@
 ---
 title: "Madni Fabrics Madina Market"
 url: /lahore/madni-fabrics-madina-market/
-shop: Textil
+shop: fabric
 ---

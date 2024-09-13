@@ -1,5 +1,5 @@
 ---
 title: "Gulahan Chicken Center G1"
 url: /karachi/gulahan-chicken-center-g1/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agha Carpets"
 url: /karachi/agha-carpets/
-shop: Teppiche
+shop: carpet
 ---

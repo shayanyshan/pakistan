@@ -1,5 +1,5 @@
 ---
 title: "Star Communication"
 url: /karachi/star-communication/
-shop: Handy
+shop: mobile phone
 ---

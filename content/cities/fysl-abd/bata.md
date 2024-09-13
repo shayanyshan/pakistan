@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /fysl-abd/bata/
-shop: Schuhe
+shop: shoes
 ---

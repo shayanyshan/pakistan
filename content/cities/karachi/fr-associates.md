@@ -1,5 +1,5 @@
 ---
 title: "FR Associates"
 url: /karachi/fr-associates/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DetailingXperts"
 url: /karachi/detailingxperts/
-shop: Autowerkstatt
+shop: car repair
 ---

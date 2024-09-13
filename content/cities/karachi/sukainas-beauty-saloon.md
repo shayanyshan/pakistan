@@ -1,5 +1,5 @@
 ---
 title: "Sukaina's Beauty Saloon"
 url: /karachi/sukainas-beauty-saloon/
-shop: Kosmetik
+shop: beauty
 ---

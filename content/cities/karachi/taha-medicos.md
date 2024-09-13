@@ -1,5 +1,5 @@
 ---
 title: "Taha medicos"
 url: /karachi/taha-medicos/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One day stitch"
 url: /karachi/one-day-stitch/
-shop: Schneiderei
+shop: tailor
 ---

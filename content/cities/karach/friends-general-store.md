@@ -1,5 +1,5 @@
 ---
 title: "Friends General Store"
 url: /karach/friends-general-store/
-shop: Dorfladen
+shop: general
 ---

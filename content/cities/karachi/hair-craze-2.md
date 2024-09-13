@@ -1,5 +1,5 @@
 ---
 title: "Hair Craze 2"
 url: /karachi/hair-craze-2/
-shop: Friseur
+shop: hairdresser
 ---

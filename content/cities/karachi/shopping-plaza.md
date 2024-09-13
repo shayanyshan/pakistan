@@ -1,5 +1,5 @@
 ---
 title: "Shopping Plaza"
 url: /karachi/shopping-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

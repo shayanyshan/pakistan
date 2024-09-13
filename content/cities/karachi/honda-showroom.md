@@ -1,5 +1,5 @@
 ---
 title: "Honda Showroom"
 url: /karachi/honda-showroom/
-shop: Autohaus
+shop: car
 ---

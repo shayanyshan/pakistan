@@ -1,5 +1,5 @@
 ---
 title: "Samba"
 url: /lahore/samba/
-shop: Allgemein
+shop: shop
 ---

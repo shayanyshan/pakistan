@@ -1,5 +1,5 @@
 ---
 title: "Decor"
 url: /karachi/decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

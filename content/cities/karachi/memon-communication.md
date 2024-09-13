@@ -1,5 +1,5 @@
 ---
-title: "Memon Communication"
+title: "Memon communication"
 url: /karachi/memon-communication/
-shop: Allgemein
+shop: shop
 ---

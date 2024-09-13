@@ -1,5 +1,5 @@
 ---
 title: "TagLao Head Quarters"
 url: /bahawalpur/taglao-head-quarters/
-shop: Supermarkt
+shop: supermarket
 ---

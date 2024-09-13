@@ -1,5 +1,5 @@
 ---
 title: "Sha Posh"
 url: /karachi/sha-posh/
-shop: Kleidung
+shop: clothes
 ---

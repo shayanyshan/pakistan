@@ -1,5 +1,5 @@
 ---
 title: "Yaseen Fries"
 url: /karachi/yaseen-fries/
-shop: Allgemein
+shop: shop
 ---

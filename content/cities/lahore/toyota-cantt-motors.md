@@ -1,5 +1,5 @@
 ---
 title: "Toyota Cantt Motors"
 url: /lahore/toyota-cantt-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Gadget City"
 url: /karachi/the-gadget-city/
-shop: Elektronik
+shop: electronics
 ---

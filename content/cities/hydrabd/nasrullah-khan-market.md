@@ -1,5 +1,5 @@
 ---
 title: "Nasrullah Khan Market"
 url: /hydrabd/nasrullah-khan-market/
-shop: Autoteile
+shop: car parts
 ---

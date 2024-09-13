@@ -1,5 +1,5 @@
 ---
 title: "BATA SHOES"
 url: /karachi/bata-shoes-abul-hasan-ispahani-road/
-shop: Schuhe
+shop: shoes
 ---

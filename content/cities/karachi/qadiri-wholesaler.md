@@ -1,5 +1,5 @@
 ---
 title: "Qadiri Wholesaler"
 url: /karachi/qadiri-wholesaler/
-shop: Supermarkt
+shop: supermarket
 ---

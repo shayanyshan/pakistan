@@ -1,5 +1,5 @@
 ---
 title: "Memon Optics"
 url: /karachi/memon-optics/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meena Jewellers"
 url: /khrchy/meena-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

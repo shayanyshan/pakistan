@@ -1,5 +1,5 @@
 ---
 title: "NETKOM"
 url: /slm-abd/netkom/
-shop: Autowerkstatt
+shop: car repair
 ---

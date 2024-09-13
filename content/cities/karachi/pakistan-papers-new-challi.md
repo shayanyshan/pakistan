@@ -1,5 +1,5 @@
 ---
 title: "Pakistan Papers New Challi"
 url: /karachi/pakistan-papers-new-challi/
-shop: Allgemein
+shop: shop
 ---

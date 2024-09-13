@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /slm-abd/utility-store/
-shop: Supermarkt
+shop: supermarket
 ---

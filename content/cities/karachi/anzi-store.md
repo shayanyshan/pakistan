@@ -1,5 +1,5 @@
 ---
 title: "Anzi Store"
 url: /karachi/anzi-store/
-shop: Schmuck
+shop: jewelry
 ---

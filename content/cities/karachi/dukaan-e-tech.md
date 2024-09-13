@@ -1,5 +1,5 @@
 ---
 title: "Dukaan E Tech"
 url: /karachi/dukaan-e-tech/
-shop: Elektronik
+shop: electronics
 ---

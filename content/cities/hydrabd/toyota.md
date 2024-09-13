@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /hydrabd/toyota/
-shop: Autohaus
+shop: car
 ---

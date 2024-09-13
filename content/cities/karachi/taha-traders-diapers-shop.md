@@ -1,5 +1,5 @@
 ---
 title: "Taha Traders (Diapers Shop)"
 url: /karachi/taha-traders-diapers-shop/
-shop: Babysachen
+shop: baby goods
 ---

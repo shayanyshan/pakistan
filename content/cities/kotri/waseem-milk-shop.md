@@ -1,5 +1,5 @@
 ---
 title: "Waseem Milk Shop"
 url: /kotri/waseem-milk-shop/
-shop: Milch
+shop: dairy
 ---

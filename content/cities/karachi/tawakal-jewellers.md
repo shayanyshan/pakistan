@@ -1,5 +1,5 @@
 ---
 title: "Tawakal Jewellers"
 url: /karachi/tawakal-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

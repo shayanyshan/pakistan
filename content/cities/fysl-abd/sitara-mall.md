@@ -1,5 +1,5 @@
 ---
 title: "Sitara Mall"
 url: /fysl-abd/sitara-mall/
-shop: Allgemein
+shop: shop
 ---

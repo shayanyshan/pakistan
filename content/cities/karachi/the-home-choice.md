@@ -1,5 +1,5 @@
 ---
 title: "The Home Choice"
 url: /karachi/the-home-choice/
-shop: Haushaltsartikel
+shop: houseware
 ---

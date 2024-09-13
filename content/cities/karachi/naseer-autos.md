@@ -1,5 +1,5 @@
 ---
 title: "Naseer Autos"
 url: /karachi/naseer-autos/
-shop: Autohaus
+shop: car
 ---

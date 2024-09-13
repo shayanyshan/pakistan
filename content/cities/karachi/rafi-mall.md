@@ -1,5 +1,5 @@
 ---
 title: "Rafi Mall"
 url: /karachi/rafi-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

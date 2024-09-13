@@ -1,5 +1,5 @@
 ---
 title: "Fair Deal Furniture"
 url: /karachi/fair-deal-furniture/
-shop: Möbel
+shop: furniture
 ---

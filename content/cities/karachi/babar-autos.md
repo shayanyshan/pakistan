@@ -1,5 +1,5 @@
 ---
 title: "Babar Autos"
 url: /karachi/babar-autos/
-shop: Autoteile
+shop: car parts
 ---

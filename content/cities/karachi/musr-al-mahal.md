@@ -1,5 +1,5 @@
 ---
 title: "Musr Al Mahal"
 url: /karachi/musr-al-mahal/
-shop: Parfümerie
+shop: perfumery
 ---

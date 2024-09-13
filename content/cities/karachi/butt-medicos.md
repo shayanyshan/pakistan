@@ -1,5 +1,5 @@
 ---
 title: "BUTT MEDICOS"
 url: /karachi/butt-medicos/
-shop: Sanitätshaus
+shop: medical supply
 ---

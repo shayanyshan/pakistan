@@ -1,5 +1,5 @@
 ---
 title: "Dandy Designs"
 url: /lahore/dandy-designs/
-shop: Kleidung
+shop: clothes
 ---

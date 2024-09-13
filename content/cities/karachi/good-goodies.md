@@ -1,5 +1,5 @@
 ---
 title: "Good Goodies"
 url: /karachi/good-goodies/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matrix Car Parts (Matrix Trading)"
 url: /karachi/matrix-car-parts-matrix-trading/
-shop: Autoteile
+shop: car parts
 ---

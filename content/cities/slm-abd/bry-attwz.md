@@ -1,5 +1,5 @@
 ---
 title: "باری آٹوز"
 url: /slm-abd/bry-attwz/
-shop: Autohaus
+shop: car
 ---

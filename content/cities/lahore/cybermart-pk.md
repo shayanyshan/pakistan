@@ -1,5 +1,5 @@
 ---
 title: "CyberMart PK"
 url: /lahore/cybermart-pk/
-shop: Supermarkt
+shop: supermarket
 ---

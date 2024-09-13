@@ -1,5 +1,5 @@
 ---
 title: "گلوریا جینز"
 url: /slm-abd/glwry-jynz/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HS Car Towing Services"
 url: /karachi/hs-car-towing-services/
-shop: Autowerkstatt
+shop: car repair
 ---

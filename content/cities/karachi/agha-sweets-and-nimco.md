@@ -1,5 +1,5 @@
 ---
 title: "Agha Sweets and Nimco"
 url: /karachi/agha-sweets-and-nimco/
-shop: Allgemein
+shop: shop
 ---

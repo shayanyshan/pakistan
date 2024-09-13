@@ -1,5 +1,5 @@
 ---
 title: "ANB shop online"
 url: /karachi/anb-shop-online/
-shop: Haushaltsartikel
+shop: houseware
 ---

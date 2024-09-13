@@ -1,5 +1,5 @@
 ---
 title: "Real medical"
 url: /karachi/real-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

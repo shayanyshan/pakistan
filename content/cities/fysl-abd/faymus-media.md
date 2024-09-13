@@ -1,5 +1,5 @@
 ---
 title: "Faymus Media"
 url: /fysl-abd/faymus-media/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwani Motors"
 url: /karachi/sherwani-motors/
-shop: Autohaus
+shop: car
 ---

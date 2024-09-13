@@ -1,5 +1,5 @@
 ---
 title: "Splash"
 url: /karachi/splash/
-shop: Kleidung
+shop: clothes
 ---

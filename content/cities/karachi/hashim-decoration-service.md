@@ -1,5 +1,5 @@
 ---
 title: "Hashim Decoration Service"
 url: /karachi/hashim-decoration-service/
-shop: Raumausstattung
+shop: interior decoration
 ---

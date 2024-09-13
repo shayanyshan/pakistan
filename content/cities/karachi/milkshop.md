@@ -1,5 +1,5 @@
 ---
 title: "Milkshop"
 url: /karachi/milkshop/
-shop: Milch
+shop: dairy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sequins"
 url: /karachi/sequins/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paradise Supermarket"
 url: /karachi/paradise-supermarket-korangi-road/
-shop: Supermarkt
+shop: supermarket
 ---

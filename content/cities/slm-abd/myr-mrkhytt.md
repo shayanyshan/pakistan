@@ -1,5 +1,5 @@
 ---
 title: "امیر مارکیٹ"
 url: /slm-abd/myr-mrkhytt/
-shop: Supermarkt
+shop: supermarket
 ---

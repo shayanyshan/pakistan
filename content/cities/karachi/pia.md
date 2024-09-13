@@ -1,5 +1,5 @@
 ---
 title: "PIA"
 url: /karachi/pia/
-shop: Reisebüro
+shop: travel agency
 ---

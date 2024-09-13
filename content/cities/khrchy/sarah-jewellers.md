@@ -1,5 +1,5 @@
 ---
 title: "Sarah Jeweller’s"
 url: /khrchy/sarah-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

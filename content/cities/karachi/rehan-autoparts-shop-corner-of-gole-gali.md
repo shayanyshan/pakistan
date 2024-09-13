@@ -1,5 +1,5 @@
 ---
 title: "Rehan Autoparts Shop Corner Of Gole Gali"
 url: /karachi/rehan-autoparts-shop-corner-of-gole-gali/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "General Engineering Industries"
 url: /karachi/general-engineering-industries/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobile Plus"
 url: /karachi/mobile-plus/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shama Shopping Center"
 url: /karachi/shama-shopping-center/
-shop: Supermarkt
+shop: supermarket
 ---

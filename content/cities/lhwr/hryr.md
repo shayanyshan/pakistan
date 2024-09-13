@@ -1,5 +1,5 @@
 ---
 title: "ہریر"
 url: /lhwr/hryr/
-shop: Kleidung
+shop: clothes
 ---

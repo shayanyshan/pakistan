@@ -1,5 +1,5 @@
 ---
 title: "M A Sweets"
 url: /karachi/m-a-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

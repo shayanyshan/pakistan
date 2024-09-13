@@ -1,5 +1,5 @@
 ---
 title: "Al Inam Watch"
 url: /karachi/al-inam-watch/
-shop: Uhren
+shop: watches
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Friends Mart"
 url: /karachi/friends-mart/
-shop: Supermarkt
+shop: supermarket
 ---

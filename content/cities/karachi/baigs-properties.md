@@ -1,5 +1,5 @@
 ---
 title: "Baigs Properties"
 url: /karachi/baigs-properties/
-shop: Reisebüro
+shop: travel agency
 ---

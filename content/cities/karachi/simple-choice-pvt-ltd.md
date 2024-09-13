@@ -1,5 +1,5 @@
 ---
 title: "Simple Choice Pvt Ltd"
 url: /karachi/simple-choice-pvt-ltd/
-shop: Bioladen
+shop: health food
 ---

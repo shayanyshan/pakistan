@@ -1,5 +1,5 @@
 ---
 title: "Imtiaz Super Market - DHA"
 url: /lahore/imtiaz-super-market-dha/
-shop: Supermarkt
+shop: supermarket
 ---

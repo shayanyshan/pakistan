@@ -1,5 +1,5 @@
 ---
 title: "Al Madni Trader"
 url: /karachi/al-madni-trader/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahrose Beauty Parlour"
 url: /karachi/mahrose-beauty-parlour-university-road/
-shop: Kosmetik
+shop: beauty
 ---

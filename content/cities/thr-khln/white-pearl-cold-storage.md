@@ -1,5 +1,5 @@
 ---
 title: "White Pearl Cold Storage"
 url: /thr-khln/white-pearl-cold-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regency Plaza"
 url: /fysl-abd/regency-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

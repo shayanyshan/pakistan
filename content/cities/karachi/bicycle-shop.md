@@ -1,5 +1,5 @@
 ---
 title: "Bicycle shop"
 url: /karachi/bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

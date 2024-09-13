@@ -1,5 +1,5 @@
 ---
 title: "alkaram Studio"
 url: /hydrabd/alkaram-studio-autobhan-road/
-shop: Kleidung
+shop: clothes
 ---

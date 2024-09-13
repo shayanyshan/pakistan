@@ -1,5 +1,5 @@
 ---
 title: "Specx Time"
 url: /karachi/specx-time/
-shop: Optiker
+shop: optician
 ---

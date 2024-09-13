@@ -1,5 +1,5 @@
 ---
 title: "Desert Eagle"
 url: /karachi/desert-eagle/
-shop: Allgemein
+shop: shop
 ---

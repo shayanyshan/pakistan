@@ -1,5 +1,5 @@
 ---
 title: "Hadri stitching point"
 url: /karachi/hadri-stitching-point/
-shop: Schneiderei
+shop: tailor
 ---

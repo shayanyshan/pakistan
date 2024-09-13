@@ -1,5 +1,5 @@
 ---
 title: "UrbanGentswear"
 url: /karachi/urbangentswear/
-shop: Kleidung
+shop: clothes
 ---

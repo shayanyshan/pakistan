@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /karachi/hyundai/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "عبداللہ مارکیٹ"
 url: /khrchy/bdllh-mrkhytt/
-shop: Supermarkt
+shop: supermarket
 ---

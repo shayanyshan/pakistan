@@ -1,5 +1,5 @@
 ---
 title: "INDUS ELECTRONICS"
 url: /karachi/indus-electronics/
-shop: Elektronik
+shop: electronics
 ---

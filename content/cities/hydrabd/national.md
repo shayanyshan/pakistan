@@ -1,5 +1,5 @@
 ---
 title: "National"
 url: /hydrabd/national/
-shop: Bäckerei
+shop: bakery
 ---

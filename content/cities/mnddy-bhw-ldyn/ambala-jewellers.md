@@ -1,5 +1,5 @@
 ---
 title: "Ambala Jewellers"
 url: /mnddy-bhw-ldyn/ambala-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

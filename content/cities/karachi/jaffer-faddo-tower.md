@@ -1,5 +1,5 @@
 ---
 title: "Jaffer Faddo Tower"
 url: /karachi/jaffer-faddo-tower/
-shop: Einkaufszentrum
+shop: mall
 ---

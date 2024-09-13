@@ -1,5 +1,5 @@
 ---
 title: "A.S General Store"
 url: /karachi/a-s-general-store/
-shop: Dorfladen
+shop: general
 ---

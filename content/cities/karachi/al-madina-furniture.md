@@ -1,5 +1,5 @@
 ---
 title: "AL-MADINA FURNITURE"
 url: /karachi/al-madina-furniture/
-shop: Möbel
+shop: furniture
 ---

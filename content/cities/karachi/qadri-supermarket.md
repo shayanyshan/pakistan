@@ -1,5 +1,5 @@
 ---
 title: "Qadri Supermarket"
 url: /karachi/qadri-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

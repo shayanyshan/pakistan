@@ -1,5 +1,5 @@
 ---
 title: "Quick Travels"
 url: /karachi/quick-travels/
-shop: Reisebüro
+shop: travel agency
 ---

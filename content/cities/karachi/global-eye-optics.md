@@ -1,5 +1,5 @@
 ---
 title: "Global Eye Optics"
 url: /karachi/global-eye-optics/
-shop: Optiker
+shop: optician
 ---

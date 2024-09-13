@@ -1,5 +1,5 @@
 ---
 title: "AAIMS Mart"
 url: /abbottabad/aaims-mart/
-shop: Lebensmittel
+shop: convenience
 ---

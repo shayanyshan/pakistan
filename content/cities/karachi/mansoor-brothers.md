@@ -1,5 +1,5 @@
 ---
 title: "Mansoor Brothers"
 url: /karachi/mansoor-brothers/
-shop: Schreibwaren
+shop: office supplies
 ---

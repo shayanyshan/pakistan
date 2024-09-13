@@ -1,5 +1,5 @@
 ---
 title: "Global Denim"
 url: /karachi/global-denim/
-shop: Warenhaus
+shop: department store
 ---

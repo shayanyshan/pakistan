@@ -1,5 +1,5 @@
 ---
 title: "OPPO Franchise Qasimabad"
 url: /hydrabd/oppo-franchise-qasimabad/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wardrobe Desire"
 url: /karachi/wardrobe-desire/
-shop: Kleidung
+shop: clothes
 ---

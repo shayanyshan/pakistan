@@ -1,5 +1,5 @@
 ---
 title: "Minto Pan Shop"
 url: /karachi/minto-pan-shop/
-shop: Tabak
+shop: tobacco
 ---

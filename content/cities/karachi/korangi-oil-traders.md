@@ -1,5 +1,5 @@
 ---
 title: "Korangi Oil Traders"
 url: /karachi/korangi-oil-traders/
-shop: Autowerkstatt
+shop: car repair
 ---

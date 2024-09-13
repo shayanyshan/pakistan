@@ -1,5 +1,5 @@
 ---
 title: "Prince Book Centre"
 url: /karachi/prince-book-centre/
-shop: Allgemein
+shop: shop
 ---

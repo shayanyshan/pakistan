@@ -1,5 +1,5 @@
 ---
 title: "Edenrobe"
 url: /fysl-abd/edenrobe/
-shop: Kleidung
+shop: clothes
 ---

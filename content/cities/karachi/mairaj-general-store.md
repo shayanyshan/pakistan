@@ -1,5 +1,5 @@
 ---
 title: "Mairaj General Store"
 url: /karachi/mairaj-general-store/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ULINT POWER LAB"
 url: /karachi/ulint-power-lab/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shaji Auto Parts"
 url: /karachi/shaji-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

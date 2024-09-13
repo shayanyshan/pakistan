@@ -1,5 +1,5 @@
 ---
 title: "Noman autos"
 url: /karachi/noman-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

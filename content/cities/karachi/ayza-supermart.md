@@ -1,5 +1,5 @@
 ---
 title: "Ayza Supermart"
 url: /karachi/ayza-supermart/
-shop: Supermarkt
+shop: supermarket
 ---

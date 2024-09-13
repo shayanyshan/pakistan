@@ -1,5 +1,5 @@
 ---
 title: "AK Diaper Store"
 url: /karachi/ak-diaper-store/
-shop: Babysachen
+shop: baby goods
 ---

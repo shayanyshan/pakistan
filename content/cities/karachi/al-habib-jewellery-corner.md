@@ -1,5 +1,5 @@
 ---
 title: "Al Habib Jewellery Corner"
 url: /karachi/al-habib-jewellery-corner/
-shop: Schmuck
+shop: jewelry
 ---

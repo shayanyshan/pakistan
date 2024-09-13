@@ -1,5 +1,5 @@
 ---
 title: "Al M Ahram"
 url: /karachi/al-m-ahram/
-shop: Elektronik
+shop: electronics
 ---

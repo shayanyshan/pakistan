@@ -1,5 +1,5 @@
 ---
 title: "Mini MAX Solutions"
 url: /karachi/mini-max-solutions/
-shop: Allgemein
+shop: shop
 ---

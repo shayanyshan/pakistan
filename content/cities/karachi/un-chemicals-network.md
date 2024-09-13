@@ -1,5 +1,5 @@
 ---
 title: "UN Chemicals Network"
 url: /karachi/un-chemicals-network/
-shop: Allgemein
+shop: shop
 ---

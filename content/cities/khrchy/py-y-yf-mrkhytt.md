@@ -1,5 +1,5 @@
 ---
 title: "پی اے ایف مارکیٹ"
 url: /khrchy/py-y-yf-mrkhytt/
-shop: Supermarkt
+shop: supermarket
 ---

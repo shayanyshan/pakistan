@@ -1,5 +1,5 @@
 ---
 title: "Shameem Enterprises Outlet"
 url: /khrchy/shameem-enterprises-outlet/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taqi Electric Co"
 url: /karachi/taqi-electric-co/
-shop: Elektronik
+shop: electronics
 ---

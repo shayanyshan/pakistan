@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Western Motors"
 url: /karachi/suzuki-western-motors/
-shop: Autohaus
+shop: car
 ---

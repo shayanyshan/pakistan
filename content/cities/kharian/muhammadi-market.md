@@ -1,5 +1,5 @@
 ---
 title: "Muhammadi market"
 url: /kharian/muhammadi-market/
-shop: Supermarkt
+shop: supermarket
 ---

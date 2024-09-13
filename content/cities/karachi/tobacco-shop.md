@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Shop"
 url: /karachi/tobacco-shop/
-shop: Tabak
+shop: tobacco
 ---

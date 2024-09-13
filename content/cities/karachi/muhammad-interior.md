@@ -1,5 +1,5 @@
 ---
 title: "Muhammad Interior"
 url: /karachi/muhammad-interior/
-shop: Möbel
+shop: furniture
 ---

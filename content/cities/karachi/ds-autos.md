@@ -1,5 +1,5 @@
 ---
 title: "DS Autos"
 url: /karachi/ds-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

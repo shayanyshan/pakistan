@@ -1,5 +1,5 @@
 ---
 title: "Reboot Computer"
 url: /karachi/reboot-computer/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7Heaven Tours"
 url: /karachi/7heaven-tours/
-shop: Reisebüro
+shop: travel agency
 ---

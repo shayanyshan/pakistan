@@ -1,5 +1,5 @@
 ---
 title: "Mansha Auto Workshop"
 url: /gujranwala/mansha-auto-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "جنجوعہ سپر اسٹور"
 url: /chnb-ngr/jnjw-h-spr-sttwr/
-shop: Kramladen
+shop: variety store
 ---

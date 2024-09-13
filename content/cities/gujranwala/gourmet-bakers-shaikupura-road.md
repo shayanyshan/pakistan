@@ -1,5 +1,5 @@
 ---
 title: "Gourmet Bakers"
 url: /gujranwala/gourmet-bakers-shaikupura-road/
-shop: Bäckerei
+shop: bakery
 ---

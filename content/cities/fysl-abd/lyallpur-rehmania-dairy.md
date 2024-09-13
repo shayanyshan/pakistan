@@ -1,5 +1,5 @@
 ---
 title: "Lyallpur Rehmania Dairy"
 url: /fysl-abd/lyallpur-rehmania-dairy/
-shop: Bäckerei
+shop: bakery
 ---

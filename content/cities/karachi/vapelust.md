@@ -1,5 +1,5 @@
 ---
 title: "Vapelust"
 url: /karachi/vapelust/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

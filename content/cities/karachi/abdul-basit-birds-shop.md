@@ -1,5 +1,5 @@
 ---
 title: "Abdul Basit Birds Shop"
 url: /karachi/abdul-basit-birds-shop/
-shop: Tiere
+shop: pet
 ---

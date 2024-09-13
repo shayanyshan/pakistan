@@ -1,5 +1,5 @@
 ---
 title: "Hafiz Milk Center"
 url: /karachi/hafiz-milk-center/
-shop: Milch
+shop: dairy
 ---

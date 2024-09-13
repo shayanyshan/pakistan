@@ -1,5 +1,5 @@
 ---
 title: "Adcorp"
 url: /karachi/adcorp/
-shop: Computer
+shop: computer
 ---

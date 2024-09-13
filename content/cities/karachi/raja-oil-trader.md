@@ -1,5 +1,5 @@
 ---
 title: "Raja oil trader"
 url: /karachi/raja-oil-trader/
-shop: Baustoffe
+shop: trade
 ---

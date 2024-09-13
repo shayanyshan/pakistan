@@ -1,5 +1,5 @@
 ---
 title: "PakWash"
 url: /karachi/pakwash/
-shop: Wäscherei
+shop: laundry
 ---

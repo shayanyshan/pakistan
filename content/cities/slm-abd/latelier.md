@@ -1,5 +1,5 @@
 ---
 title: "Latelier"
 url: /slm-abd/latelier/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oasis Nursery and Horticulture"
 url: /karachi/oasis-nursery-and-horticulture/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gola Wala Autos"
 url: /karachi/gola-wala-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

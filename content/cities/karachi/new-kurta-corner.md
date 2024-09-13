@@ -1,5 +1,5 @@
 ---
 title: "New Kurta Corner"
 url: /karachi/new-kurta-corner/
-shop: Kleidung
+shop: clothes
 ---

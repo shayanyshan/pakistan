@@ -1,5 +1,5 @@
 ---
 title: "Meat One"
 url: /hydrabd/meat-one/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prince Cosmetics"
 url: /karachi/prince-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

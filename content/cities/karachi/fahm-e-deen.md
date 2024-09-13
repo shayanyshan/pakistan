@@ -1,5 +1,5 @@
 ---
 title: "Fahm E Deen"
 url: /karachi/fahm-e-deen/
-shop: Kleidung
+shop: clothes
 ---

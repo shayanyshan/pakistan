@@ -1,5 +1,5 @@
 ---
 title: "Madina Moterway Auto Work shop"
 url: /fysl-abd/madina-moterway-auto-work-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

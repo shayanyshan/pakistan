@@ -1,5 +1,5 @@
 ---
 title: "Hush Puppies"
 url: /hydrabd/hush-puppies/
-shop: Schuhe
+shop: shoes
 ---

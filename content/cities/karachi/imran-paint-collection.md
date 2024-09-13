@@ -1,5 +1,5 @@
 ---
 title: "IMRAN PAINT COLLECTION"
 url: /karachi/imran-paint-collection/
-shop: Farben
+shop: paint
 ---

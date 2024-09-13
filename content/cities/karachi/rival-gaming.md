@@ -1,5 +1,5 @@
 ---
 title: "Rival Gaming"
 url: /karachi/rival-gaming/
-shop: Videospiele
+shop: video games
 ---

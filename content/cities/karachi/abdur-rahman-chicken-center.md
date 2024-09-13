@@ -1,5 +1,5 @@
 ---
 title: "Abdur Rahman Chicken Center"
 url: /karachi/abdur-rahman-chicken-center/
-shop: Metzgerei
+shop: butcher
 ---

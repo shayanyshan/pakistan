@@ -1,5 +1,5 @@
 ---
 title: "Outfitters"
 url: /hydrabd/outfitters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Al Madina Plastic"
 url: /karachi/al-madina-plastic/
-shop: Allgemein
+shop: shop
 ---

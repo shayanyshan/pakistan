@@ -1,5 +1,5 @@
 ---
 title: "Hush Puppies"
 url: /karachi/hush-puppies-ghazi-salahuddin-rd/
-shop: Schuhe
+shop: shoes
 ---

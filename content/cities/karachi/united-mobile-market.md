@@ -1,5 +1,5 @@
 ---
 title: "United Mobile Market"
 url: /karachi/united-mobile-market/
-shop: Handy
+shop: mobile phone
 ---

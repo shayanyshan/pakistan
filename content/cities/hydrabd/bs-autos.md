@@ -1,5 +1,5 @@
 ---
 title: "BS Autos"
 url: /hydrabd/bs-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

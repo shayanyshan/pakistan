@@ -1,5 +1,5 @@
 ---
 title: "Wall Boutique"
 url: /karachi/wall-boutique/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dealmart"
 url: /karachi/dealmart/
-shop: Warenhaus
+shop: department store
 ---

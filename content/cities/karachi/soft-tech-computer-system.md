@@ -1,5 +1,5 @@
 ---
 title: "Soft Tech Computer System"
 url: /karachi/soft-tech-computer-system/
-shop: Computer
+shop: computer
 ---

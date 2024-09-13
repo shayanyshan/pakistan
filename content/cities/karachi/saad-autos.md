@@ -1,5 +1,5 @@
 ---
 title: "Saad autos"
 url: /karachi/saad-autos/
-shop: Autoteile
+shop: car parts
 ---

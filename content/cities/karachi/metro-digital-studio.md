@@ -1,5 +1,5 @@
 ---
 title: "Metro Digital Studio"
 url: /karachi/metro-digital-studio/
-shop: Foto
+shop: photo
 ---

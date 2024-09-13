@@ -1,5 +1,5 @@
 ---
 title: "M K Autos"
 url: /karachi/m-k-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

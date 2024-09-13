@@ -1,5 +1,5 @@
 ---
 title: "Isarity Interiors"
 url: /karachi/isarity-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

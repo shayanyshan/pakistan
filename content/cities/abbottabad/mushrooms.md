@@ -1,5 +1,5 @@
 ---
 title: "Mushrooms"
 url: /abbottabad/mushrooms/
-shop: Kleidung
+shop: clothes
 ---

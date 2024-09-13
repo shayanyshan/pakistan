@@ -1,5 +1,5 @@
 ---
 title: "Khan Plaza"
 url: /mltn/khan-plaza/
-shop: Supermarkt
+shop: supermarket
 ---

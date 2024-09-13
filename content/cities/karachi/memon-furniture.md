@@ -1,5 +1,5 @@
 ---
 title: "Memon furniture"
 url: /karachi/memon-furniture/
-shop: Möbel
+shop: furniture
 ---

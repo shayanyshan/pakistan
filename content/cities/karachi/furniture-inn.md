@@ -1,5 +1,5 @@
 ---
 title: "Furniture Inn"
 url: /karachi/furniture-inn/
-shop: Möbel
+shop: furniture
 ---

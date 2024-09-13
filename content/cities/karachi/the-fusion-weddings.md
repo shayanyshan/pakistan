@@ -1,5 +1,5 @@
 ---
 title: "The Fusion Weddings"
 url: /karachi/the-fusion-weddings/
-shop: Allgemein
+shop: shop
 ---

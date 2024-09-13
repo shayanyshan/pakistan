@@ -1,5 +1,5 @@
 ---
 title: "Al Khyber Jewels"
 url: /rwlpnddy/al-khyber-jewels/
-shop: Schmuck
+shop: jewelry
 ---

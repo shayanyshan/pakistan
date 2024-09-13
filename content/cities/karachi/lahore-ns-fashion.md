@@ -1,5 +1,5 @@
 ---
 title: "Lahore NS Fashion"
 url: /karachi/lahore-ns-fashion/
-shop: Kleidung
+shop: clothes
 ---

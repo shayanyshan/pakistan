@@ -1,5 +1,5 @@
 ---
 title: "Deemas"
 url: /abbottabad/deemas/
-shop: Warenhaus
+shop: department store
 ---

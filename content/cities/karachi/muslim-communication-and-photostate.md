@@ -1,5 +1,5 @@
 ---
 title: "Muslim Communication and photostate"
 url: /karachi/muslim-communication-and-photostate/
-shop: Handy
+shop: mobile phone
 ---

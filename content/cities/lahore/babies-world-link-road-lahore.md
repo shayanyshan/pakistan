@@ -1,5 +1,5 @@
 ---
 title: "Babies World - Link Road Lahore"
 url: /lahore/babies-world-link-road-lahore/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "N M COLLECTIONS.pk"
 url: /karachi/n-m-collections-pk/
-shop: Allgemein
+shop: shop
 ---

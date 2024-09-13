@@ -1,5 +1,5 @@
 ---
 title: "MK TECHNOLOGIES"
 url: /karachi/mk-technologies/
-shop: Elektronik
+shop: electronics
 ---

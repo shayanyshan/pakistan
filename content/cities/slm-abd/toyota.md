@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /slm-abd/toyota/
-shop: Autohaus
+shop: car
 ---

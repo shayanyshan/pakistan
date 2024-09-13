@@ -1,5 +1,5 @@
 ---
 title: "شاہین مارکیٹ"
 url: /mltn/shhyn-mrkhytt/
-shop: Allgemein
+shop: shop
 ---

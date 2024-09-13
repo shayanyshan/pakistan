@@ -1,5 +1,5 @@
 ---
 title: "Al asif electronic"
 url: /karachi/al-asif-electronic/
-shop: Elektronik
+shop: electronics
 ---

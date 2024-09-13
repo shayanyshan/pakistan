@@ -1,5 +1,5 @@
 ---
 title: "Pen World"
 url: /karachi/pen-world/
-shop: Schreibwaren
+shop: office supplies
 ---

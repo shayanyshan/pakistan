@@ -1,5 +1,5 @@
 ---
 title: "Choco Bakers"
 url: /karachi/choco-bakers/
-shop: Bäckerei
+shop: bakery
 ---

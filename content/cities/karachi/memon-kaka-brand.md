@@ -1,5 +1,5 @@
 ---
 title: "Memon Kaka brand"
 url: /karachi/memon-kaka-brand/
-shop: Kleidung
+shop: clothes
 ---

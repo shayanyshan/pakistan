@@ -1,5 +1,5 @@
 ---
 title: "Bilal Garments"
 url: /fysl-abd/bilal-garments/
-shop: Kleidung
+shop: clothes
 ---

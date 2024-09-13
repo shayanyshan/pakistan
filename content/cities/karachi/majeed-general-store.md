@@ -1,5 +1,5 @@
 ---
 title: "Majeed General Store"
 url: /karachi/majeed-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

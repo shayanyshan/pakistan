@@ -1,5 +1,5 @@
 ---
 title: "Salman Electronics SAM SFB"
 url: /karachi/salman-electronics-sam-sfb/
-shop: Elektronik
+shop: electronics
 ---

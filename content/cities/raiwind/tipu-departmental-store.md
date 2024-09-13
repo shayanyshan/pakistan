@@ -1,5 +1,5 @@
 ---
 title: "Tipu Departmental Store"
 url: /raiwind/tipu-departmental-store/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shafiq Collection"
 url: /karachi/shafiq-collection/
-shop: Schmuck
+shop: jewelry
 ---

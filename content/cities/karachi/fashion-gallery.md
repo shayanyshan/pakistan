@@ -1,5 +1,5 @@
 ---
 title: "Fashion Gallery"
 url: /karachi/fashion-gallery/
-shop: Modehaus
+shop: boutique
 ---

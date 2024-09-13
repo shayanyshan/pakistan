@@ -1,5 +1,5 @@
 ---
 title: "Agha Noor"
 url: /lahore/agha-noor/
-shop: Kleidung
+shop: clothes
 ---

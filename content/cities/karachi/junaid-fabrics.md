@@ -1,5 +1,5 @@
 ---
 title: "Junaid Fabrics"
 url: /karachi/junaid-fabrics/
-shop: Allgemein
+shop: shop
 ---

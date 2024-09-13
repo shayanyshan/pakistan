@@ -1,5 +1,5 @@
 ---
 title: "Haw Bhaoo Bakers"
 url: /karachi/haw-bhaoo-bakers/
-shop: Bäckerei
+shop: bakery
 ---

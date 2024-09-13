@@ -1,5 +1,5 @@
 ---
 title: "Seven Star Printers"
 url: /hydrabd/seven-star-printers/
-shop: Kopieren
+shop: copyshop
 ---

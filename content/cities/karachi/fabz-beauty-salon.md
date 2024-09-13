@@ -1,5 +1,5 @@
 ---
 title: "FABZ BEAUTY SALON"
 url: /karachi/fabz-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

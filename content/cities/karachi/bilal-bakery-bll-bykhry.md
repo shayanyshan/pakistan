@@ -1,5 +1,5 @@
 ---
 title: "Bilal bakery۔ بلال بیکری"
 url: /karachi/bilal-bakery-bll-bykhry/
-shop: Bäckerei
+shop: bakery
 ---

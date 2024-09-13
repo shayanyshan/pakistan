@@ -1,5 +1,5 @@
 ---
 title: "MRB STATIONERS"
 url: /karachi/mrb-stationers/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda Palace"
 url: /hydrabd/honda-palace/
-shop: Autohaus
+shop: car
 ---

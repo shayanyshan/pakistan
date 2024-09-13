@@ -1,5 +1,5 @@
 ---
 title: "Freightliner"
 url: /khrchy/freightliner/
-shop: Autohaus
+shop: car
 ---

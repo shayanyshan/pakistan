@@ -1,5 +1,5 @@
 ---
 title: "Sindh Store"
 url: /karachi/sindh-store/
-shop: Lebensmittel
+shop: convenience
 ---

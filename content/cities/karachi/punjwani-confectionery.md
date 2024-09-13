@@ -1,5 +1,5 @@
 ---
 title: "Punjwani Confectionery"
 url: /karachi/punjwani-confectionery/
-shop: Allgemein
+shop: shop
 ---

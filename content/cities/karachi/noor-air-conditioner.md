@@ -1,5 +1,5 @@
 ---
 title: "NOOR AIR CONDITIONER"
 url: /karachi/noor-air-conditioner/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bey Noghor"
 url: /karachi/bey-noghor/
-shop: Dorfladen
+shop: general
 ---

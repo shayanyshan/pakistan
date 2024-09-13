@@ -1,5 +1,5 @@
 ---
 title: "Anabiya Auto Spare Parts"
 url: /karachi/anabiya-auto-spare-parts/
-shop: Autoteile
+shop: car parts
 ---

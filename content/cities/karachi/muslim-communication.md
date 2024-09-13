@@ -1,5 +1,5 @@
 ---
 title: "Muslim Communication"
 url: /karachi/muslim-communication/
-shop: Handy
+shop: mobile phone
 ---

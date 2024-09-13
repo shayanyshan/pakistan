@@ -1,5 +1,5 @@
 ---
 title: "Deans Shopping Mall"
 url: /karachi/deans-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

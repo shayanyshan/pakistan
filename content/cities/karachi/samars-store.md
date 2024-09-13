@@ -1,5 +1,5 @@
 ---
 title: "Samar's Store"
 url: /karachi/samars-store/
-shop: Dorfladen
+shop: general
 ---

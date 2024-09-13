@@ -1,5 +1,5 @@
 ---
 title: "FM Auto Mechanic"
 url: /karachi/fm-auto-mechanic/
-shop: Motorrad
+shop: motorcycle
 ---

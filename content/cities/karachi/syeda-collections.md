@@ -1,5 +1,5 @@
 ---
 title: "Syeda Collections"
 url: /karachi/syeda-collections/
-shop: Kleidung
+shop: clothes
 ---

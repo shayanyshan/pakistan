@@ -1,5 +1,5 @@
 ---
 title: "Darwaiz"
 url: /karachi/darwaiz/
-shop: Allgemein
+shop: shop
 ---

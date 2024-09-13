@@ -1,5 +1,5 @@
 ---
 title: "Khana Ghar Kaa"
 url: /karachi/khana-ghar-kaa/
-shop: Bioladen
+shop: health food
 ---

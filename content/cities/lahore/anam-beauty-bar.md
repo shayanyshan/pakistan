@@ -1,5 +1,5 @@
 ---
 title: "Anam Beauty Bar"
 url: /lahore/anam-beauty-bar/
-shop: Kosmetik
+shop: beauty
 ---

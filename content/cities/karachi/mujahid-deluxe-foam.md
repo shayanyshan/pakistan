@@ -1,5 +1,5 @@
 ---
 title: "Mujahid Deluxe Foam"
 url: /karachi/mujahid-deluxe-foam/
-shop: Möbel
+shop: furniture
 ---

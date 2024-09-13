@@ -1,5 +1,5 @@
 ---
 title: "ONEVIO"
 url: /karachi/onevio/
-shop: Parfümerie
+shop: perfumery
 ---

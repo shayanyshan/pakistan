@@ -1,5 +1,5 @@
 ---
 title: "A to z communication"
 url: /karachi/a-to-z-communication/
-shop: Handy
+shop: mobile phone
 ---

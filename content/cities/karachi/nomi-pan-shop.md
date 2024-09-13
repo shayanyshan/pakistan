@@ -1,5 +1,5 @@
 ---
 title: "Nomi Pan Shop"
 url: /karachi/nomi-pan-shop/
-shop: Tabak
+shop: tobacco
 ---

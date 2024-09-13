@@ -1,5 +1,5 @@
 ---
 title: "Abeer ul haramain"
 url: /karachi/abeer-ul-haramain/
-shop: Parfümerie
+shop: perfumery
 ---

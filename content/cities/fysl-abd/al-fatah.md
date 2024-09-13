@@ -1,5 +1,5 @@
 ---
 title: "Al-Fatah"
 url: /fysl-abd/al-fatah/
-shop: Supermarkt
+shop: supermarket
 ---

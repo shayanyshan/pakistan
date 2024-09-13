@@ -1,5 +1,5 @@
 ---
 title: "Hussaini Cloth Market"
 url: /karachi/hussaini-cloth-market/
-shop: Kleidung
+shop: clothes
 ---

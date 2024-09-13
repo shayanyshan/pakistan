@@ -1,5 +1,5 @@
 ---
 title: "Toyota Point Motors"
 url: /hydrabd/toyota-point-motors/
-shop: Autohaus
+shop: car
 ---

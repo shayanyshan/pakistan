@@ -1,5 +1,5 @@
 ---
 title: "ALI HAJWERI INTERIORS"
 url: /karachi/ali-hajweri-interiors/
-shop: Möbel
+shop: furniture
 ---

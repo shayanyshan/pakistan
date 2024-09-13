@@ -1,5 +1,5 @@
 ---
 title: "A-One"
 url: /balochistan/a-one/
-shop: Eisenwaren
+shop: hardware
 ---

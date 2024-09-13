@@ -1,5 +1,5 @@
 ---
 title: "CarCat Automotive"
 url: /karachi/carcat-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mujtaba Center"
 url: /fysl-abd/mujtaba-center/
-shop: Einkaufszentrum
+shop: mall
 ---

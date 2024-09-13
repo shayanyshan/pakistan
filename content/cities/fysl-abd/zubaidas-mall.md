@@ -1,5 +1,5 @@
 ---
 title: "Zubaidas Mall"
 url: /fysl-abd/zubaidas-mall/
-shop: Kleidung
+shop: clothes
 ---

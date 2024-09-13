@@ -1,5 +1,5 @@
 ---
 title: "Service Shoes Outlet"
 url: /karachi/service-shoes-outlet/
-shop: Allgemein
+shop: shop
 ---

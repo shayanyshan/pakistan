@@ -1,5 +1,5 @@
 ---
 title: "Rubab's Collection"
 url: /fysl-abd/rubabs-collection/
-shop: Kleidung
+shop: clothes
 ---

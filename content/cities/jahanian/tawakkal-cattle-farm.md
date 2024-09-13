@@ -1,5 +1,5 @@
 ---
 title: "Tawakkal Cattle Farm"
 url: /jahanian/tawakkal-cattle-farm/
-shop: Milch
+shop: dairy
 ---

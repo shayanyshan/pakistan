@@ -1,5 +1,5 @@
 ---
 title: "LeathraVogue"
 url: /karachi/leathravogue/
-shop: Leder
+shop: leather
 ---

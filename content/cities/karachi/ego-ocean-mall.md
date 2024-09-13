@@ -1,5 +1,5 @@
 ---
 title: "EGO - Ocean Mall"
 url: /karachi/ego-ocean-mall/
-shop: Kleidung
+shop: clothes
 ---

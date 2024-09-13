@@ -1,5 +1,5 @@
 ---
 title: "Asif Sanitary"
 url: /karachi/asif-sanitary/
-shop: Eisenwaren
+shop: hardware
 ---

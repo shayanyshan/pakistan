@@ -1,5 +1,5 @@
 ---
 title: "Yousuf and Brothers"
 url: /karachi/yousuf-and-brothers/
-shop: Allgemein
+shop: shop
 ---

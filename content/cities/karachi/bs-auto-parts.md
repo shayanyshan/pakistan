@@ -1,5 +1,5 @@
 ---
 title: "B's Auto parts"
 url: /karachi/bs-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Machenic"
 url: /karachi/machenic/
-shop: Motorrad
+shop: motorcycle
 ---

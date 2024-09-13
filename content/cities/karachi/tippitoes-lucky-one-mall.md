@@ -1,5 +1,5 @@
 ---
 title: "Tippitoes - Lucky One Mall"
 url: /karachi/tippitoes-lucky-one-mall/
-shop: Kleidung
+shop: clothes
 ---

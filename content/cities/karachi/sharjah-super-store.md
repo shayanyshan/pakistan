@@ -1,5 +1,5 @@
 ---
 title: "Sharjah Super Store"
 url: /karachi/sharjah-super-store/
-shop: Supermarkt
+shop: supermarket
 ---

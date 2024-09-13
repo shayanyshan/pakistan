@@ -1,5 +1,5 @@
 ---
 title: "Travel agency"
 url: /karachi/travel-agency/
-shop: Reisebüro
+shop: travel agency
 ---

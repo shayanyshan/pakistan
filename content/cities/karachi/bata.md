@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /karachi/bata/
-shop: Schuhe
+shop: shoes
 ---

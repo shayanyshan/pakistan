@@ -1,5 +1,5 @@
 ---
 title: "Tanveer Autos"
 url: /karachi/tanveer-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

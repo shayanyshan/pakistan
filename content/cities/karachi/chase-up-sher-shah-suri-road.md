@@ -1,5 +1,5 @@
 ---
 title: "Chase Up"
 url: /karachi/chase-up-sher-shah-suri-road/
-shop: Warenhaus
+shop: department store
 ---

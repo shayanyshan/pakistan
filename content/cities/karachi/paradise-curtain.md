@@ -1,5 +1,5 @@
 ---
 title: "Paradise Curtain"
 url: /karachi/paradise-curtain/
-shop: Gardinen
+shop: curtain
 ---

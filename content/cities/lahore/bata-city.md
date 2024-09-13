@@ -1,5 +1,5 @@
 ---
 title: "Bata City"
 url: /lahore/bata-city/
-shop: Schuhe
+shop: shoes
 ---

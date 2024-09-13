@@ -1,5 +1,5 @@
 ---
 title: "Dera Syed Ijaz Hussain Shah"
 url: /wah/dera-syed-ijaz-hussain-shah/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Philips"
 url: /hydrabd/philips/
-shop: Elektronik
+shop: electronics
 ---

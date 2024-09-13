@@ -1,5 +1,5 @@
 ---
 title: "Fly Links Travels"
 url: /karachi/fly-links-travels/
-shop: Reisebüro
+shop: travel agency
 ---

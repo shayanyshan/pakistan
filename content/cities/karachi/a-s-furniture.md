@@ -1,5 +1,5 @@
 ---
 title: "A S Furniture"
 url: /karachi/a-s-furniture/
-shop: Möbel
+shop: furniture
 ---

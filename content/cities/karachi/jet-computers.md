@@ -1,5 +1,5 @@
 ---
 title: "JET Computers"
 url: /karachi/jet-computers/
-shop: Computer
+shop: computer
 ---

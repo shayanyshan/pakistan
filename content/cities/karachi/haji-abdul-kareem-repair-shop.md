@@ -1,5 +1,5 @@
 ---
 title: "Haji Abdul Kareem Repair Shop"
 url: /karachi/haji-abdul-kareem-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

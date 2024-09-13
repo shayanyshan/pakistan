@@ -1,5 +1,5 @@
 ---
 title: "NABEEL NIMCO CORNER"
 url: /karachi/nabeel-nimco-corner/
-shop: Allgemein
+shop: shop
 ---

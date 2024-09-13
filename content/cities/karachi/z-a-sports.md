@@ -1,5 +1,5 @@
 ---
 title: "Z A Sports"
 url: /karachi/z-a-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dhanak Handi Crafts"
 url: /karachi/dhanak-handi-crafts/
-shop: Basteln
+shop: craft
 ---

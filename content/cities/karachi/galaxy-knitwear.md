@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Knitwear"
 url: /karachi/galaxy-knitwear/
-shop: Kleidung
+shop: clothes
 ---

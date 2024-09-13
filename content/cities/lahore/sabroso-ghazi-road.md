@@ -1,5 +1,5 @@
 ---
 title: "Sabroso"
 url: /lahore/sabroso-ghazi-road/
-shop: Allgemein
+shop: shop
 ---

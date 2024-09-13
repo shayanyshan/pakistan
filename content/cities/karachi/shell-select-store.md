@@ -1,5 +1,5 @@
 ---
 title: "Shell Select Store"
 url: /karachi/shell-select-store/
-shop: Lebensmittel
+shop: convenience
 ---

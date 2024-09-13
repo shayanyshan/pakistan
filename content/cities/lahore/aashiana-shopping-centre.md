@@ -1,5 +1,5 @@
 ---
 title: "Aashiana Shopping Centre"
 url: /lahore/aashiana-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

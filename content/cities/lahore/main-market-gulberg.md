@@ -1,5 +1,5 @@
 ---
 title: "Main Market Gulberg"
 url: /lahore/main-market-gulberg/
-shop: Einkaufszentrum
+shop: mall
 ---

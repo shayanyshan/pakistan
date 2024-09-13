@@ -1,5 +1,5 @@
 ---
 title: "Tahir Book Centre"
 url: /karachi/tahir-book-centre/
-shop: Bücher
+shop: books
 ---

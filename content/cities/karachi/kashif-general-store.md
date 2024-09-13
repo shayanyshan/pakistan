@@ -1,5 +1,5 @@
 ---
-title: "KASHIF GENERAL STORE"
+title: "Kashif General Store"
 url: /karachi/kashif-general-store/
-shop: Dorfladen
+shop: general
 ---

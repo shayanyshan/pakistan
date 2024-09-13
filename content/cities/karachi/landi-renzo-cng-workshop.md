@@ -1,5 +1,5 @@
 ---
 title: "Landi Renzo CNG Workshop"
 url: /karachi/landi-renzo-cng-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

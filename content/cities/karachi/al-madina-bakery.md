@@ -1,5 +1,5 @@
 ---
 title: "Al Madina Bakery"
 url: /karachi/al-madina-bakery/
-shop: Bäckerei
+shop: bakery
 ---

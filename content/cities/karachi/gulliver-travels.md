@@ -1,5 +1,5 @@
 ---
 title: "Gulliver Travels"
 url: /karachi/gulliver-travels/
-shop: Reisebüro
+shop: travel agency
 ---

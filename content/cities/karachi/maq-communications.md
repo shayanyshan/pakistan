@@ -1,5 +1,5 @@
 ---
 title: "MAQ COMMUNICATIONS"
 url: /karachi/maq-communications/
-shop: Reisebüro
+shop: travel agency
 ---

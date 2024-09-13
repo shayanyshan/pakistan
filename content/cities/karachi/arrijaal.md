@@ -1,5 +1,5 @@
 ---
 title: "ARRIJAAL"
 url: /karachi/arrijaal/
-shop: Kleidung
+shop: clothes
 ---

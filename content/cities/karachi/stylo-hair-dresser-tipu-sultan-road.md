@@ -1,5 +1,5 @@
 ---
 title: "Stylo Hair Dresser"
 url: /karachi/stylo-hair-dresser-tipu-sultan-road/
-shop: Friseur
+shop: hairdresser
 ---

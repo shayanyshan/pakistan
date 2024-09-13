@@ -1,5 +1,5 @@
 ---
 title: "Auto Parts Wala Store"
 url: /karachi/auto-parts-wala-store/
-shop: Autoteile
+shop: car parts
 ---

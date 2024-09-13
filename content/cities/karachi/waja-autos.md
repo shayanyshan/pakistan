@@ -1,5 +1,5 @@
 ---
 title: "Waja autos"
 url: /karachi/waja-autos/
-shop: Allgemein
+shop: shop
 ---

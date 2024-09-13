@@ -1,5 +1,5 @@
 ---
 title: "hajveri jewellers"
 url: /rwlpnddy/hajveri-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

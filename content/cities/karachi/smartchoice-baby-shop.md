@@ -1,5 +1,5 @@
 ---
 title: "SmartChoice Baby Shop"
 url: /karachi/smartchoice-baby-shop/
-shop: Babysachen
+shop: baby goods
 ---

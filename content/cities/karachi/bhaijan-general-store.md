@@ -1,5 +1,5 @@
 ---
 title: "Bhaijan general store"
 url: /karachi/bhaijan-general-store/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naeem Autos"
 url: /karachi/naeem-autos/
-shop: Motorrad
+shop: motorcycle
 ---

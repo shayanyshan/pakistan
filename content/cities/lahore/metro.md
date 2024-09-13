@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /lahore/metro/
-shop: Großhandel
+shop: wholesale
 ---

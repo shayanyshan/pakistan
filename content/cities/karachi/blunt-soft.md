@@ -1,5 +1,5 @@
 ---
 title: "Blunt Soft"
 url: /karachi/blunt-soft/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amber Store"
 url: /karachi/amber-store/
-shop: Supermarkt
+shop: supermarket
 ---

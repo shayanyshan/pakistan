@@ -1,5 +1,5 @@
 ---
 title: "Bivesters"
 url: /karachi/bivesters/
-shop: Kleidung
+shop: clothes
 ---

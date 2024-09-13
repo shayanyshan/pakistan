@@ -1,5 +1,5 @@
 ---
 title: "Gull Hassan Autos"
 url: /karachi/gull-hassan-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samata Foot Wear"
 url: /karachi/samata-foot-wear/
-shop: Schuhe
+shop: shoes
 ---

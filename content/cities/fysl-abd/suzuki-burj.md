@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Burj"
 url: /fysl-abd/suzuki-burj/
-shop: Autowerkstatt
+shop: car repair
 ---

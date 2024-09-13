@@ -1,5 +1,5 @@
 ---
 title: "Prince Flower Shop"
 url: /karachi/prince-flower-shop/
-shop: Blumen
+shop: florist
 ---

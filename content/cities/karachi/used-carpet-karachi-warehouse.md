@@ -1,5 +1,5 @@
 ---
 title: "Used Carpet Karachi Warehouse"
 url: /karachi/used-carpet-karachi-warehouse/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaseup"
 url: /karachi/chaseup/
-shop: Einkaufszentrum
+shop: mall
 ---

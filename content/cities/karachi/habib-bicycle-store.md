@@ -1,5 +1,5 @@
 ---
 title: "Habib bicycle store"
 url: /karachi/habib-bicycle-store/
-shop: Autowerkstatt
+shop: car repair
 ---

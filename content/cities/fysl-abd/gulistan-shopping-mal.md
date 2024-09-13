@@ -1,5 +1,5 @@
 ---
 title: "Gulistan Shopping Mal"
 url: /fysl-abd/gulistan-shopping-mal/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CNG Kit Centre"
 url: /karachi/cng-kit-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

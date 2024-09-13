@@ -1,5 +1,5 @@
 ---
 title: "Qalandri Bakery"
 url: /naushahro-feroze/qalandri-bakery/
-shop: Bäckerei
+shop: bakery
 ---

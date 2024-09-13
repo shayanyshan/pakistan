@@ -1,5 +1,5 @@
 ---
 title: "Korangi"
 url: /karachi/korangi/
-shop: Kopieren
+shop: copyshop
 ---

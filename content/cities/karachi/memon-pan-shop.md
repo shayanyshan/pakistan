@@ -1,5 +1,5 @@
 ---
 title: "Memon pan shop"
 url: /karachi/memon-pan-shop/
-shop: Tabak
+shop: tobacco
 ---

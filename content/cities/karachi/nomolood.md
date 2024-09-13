@@ -1,5 +1,5 @@
 ---
 title: "Nomolood"
 url: /karachi/nomolood/
-shop: Babysachen
+shop: baby goods
 ---

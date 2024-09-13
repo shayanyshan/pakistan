@@ -1,5 +1,5 @@
 ---
 title: "Dubai Silk Centre"
 url: /fysl-abd/dubai-silk-centre/
-shop: Kleidung
+shop: clothes
 ---

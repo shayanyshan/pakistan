@@ -1,5 +1,5 @@
 ---
 title: "Shano Pan House"
 url: /karachi/shano-pan-house/
-shop: Tabak
+shop: tobacco
 ---

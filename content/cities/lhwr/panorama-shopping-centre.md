@@ -1,5 +1,5 @@
 ---
 title: "Panorama Shopping Centre"
 url: /lhwr/panorama-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

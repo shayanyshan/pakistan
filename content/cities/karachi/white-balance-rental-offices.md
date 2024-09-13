@@ -1,5 +1,5 @@
 ---
 title: "White balance rental offices"
 url: /karachi/white-balance-rental-offices/
-shop: Großhandel
+shop: wholesale
 ---

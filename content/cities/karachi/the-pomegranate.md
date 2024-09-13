@@ -1,5 +1,5 @@
 ---
 title: "The Pomegranate"
 url: /karachi/the-pomegranate/
-shop: Kleidung
+shop: clothes
 ---

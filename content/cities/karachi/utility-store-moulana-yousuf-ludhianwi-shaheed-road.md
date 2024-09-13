@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /karachi/utility-store-moulana-yousuf-ludhianwi-shaheed-road/
-shop: Allgemein
+shop: shop
 ---

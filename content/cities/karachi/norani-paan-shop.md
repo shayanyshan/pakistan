@@ -1,5 +1,5 @@
 ---
 title: "Norani Paan Shop"
 url: /karachi/norani-paan-shop/
-shop: Leiher
+shop: pawnbroker
 ---

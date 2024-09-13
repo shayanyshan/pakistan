@@ -1,5 +1,5 @@
 ---
 title: "Mehmood General Store"
 url: /karachi/mehmood-general-store/
-shop: Allgemein
+shop: shop
 ---

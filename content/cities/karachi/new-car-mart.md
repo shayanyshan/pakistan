@@ -1,5 +1,5 @@
 ---
 title: "New Car Mart"
 url: /karachi/new-car-mart/
-shop: Autoteile
+shop: car parts
 ---

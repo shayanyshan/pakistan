@@ -1,5 +1,5 @@
 ---
 title: "Ridez Zone"
 url: /lahore/ridez-zone/
-shop: Autohaus
+shop: car
 ---

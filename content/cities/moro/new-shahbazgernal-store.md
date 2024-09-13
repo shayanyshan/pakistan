@@ -1,5 +1,5 @@
 ---
 title: "New ShahbazGernal Store"
 url: /moro/new-shahbazgernal-store/
-shop: Allgemein
+shop: shop
 ---

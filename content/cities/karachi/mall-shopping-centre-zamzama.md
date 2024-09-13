@@ -1,5 +1,5 @@
 ---
 title: "Mall Shopping Centre - Zamzama"
 url: /karachi/mall-shopping-centre-zamzama/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zainab computer"
 url: /karachi/zainab-computer/
-shop: Computer
+shop: computer
 ---

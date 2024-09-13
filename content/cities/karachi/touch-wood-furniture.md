@@ -1,5 +1,5 @@
 ---
 title: "Touch Wood Furniture"
 url: /karachi/touch-wood-furniture/
-shop: Allgemein
+shop: shop
 ---

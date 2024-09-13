@@ -1,5 +1,5 @@
 ---
 title: "Qala bazar"
 url: /allai/qala-bazar/
-shop: Lebensmittel
+shop: convenience
 ---

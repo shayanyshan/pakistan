@@ -1,5 +1,5 @@
 ---
 title: "Woodmart- Tauheed Commercial"
 url: /karachi/woodmart-tauheed-commercial/
-shop: Möbel
+shop: furniture
 ---

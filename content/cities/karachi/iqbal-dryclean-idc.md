@@ -1,5 +1,5 @@
 ---
 title: "Iqbal Dryclean (IDC)"
 url: /karachi/iqbal-dryclean-idc/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Puncture shop"
+title: "Puncture Shop"
 url: /karachi/puncture-shop/
-shop: Motorrad
+shop: tyres
 ---

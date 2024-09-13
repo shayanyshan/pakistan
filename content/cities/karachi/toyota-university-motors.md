@@ -1,5 +1,5 @@
 ---
 title: "Toyota University Motors"
 url: /karachi/toyota-university-motors/
-shop: Autohaus
+shop: car
 ---

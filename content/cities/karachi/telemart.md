@@ -1,5 +1,5 @@
 ---
 title: "Telemart"
 url: /karachi/telemart/
-shop: Allgemein
+shop: shop
 ---

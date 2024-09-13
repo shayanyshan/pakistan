@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /rwlpnddy/bata/
-shop: Schuhe
+shop: shoes
 ---

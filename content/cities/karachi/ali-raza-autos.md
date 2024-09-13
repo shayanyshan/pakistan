@@ -1,5 +1,5 @@
 ---
 title: "Ali Raza Autos"
 url: /karachi/ali-raza-autos/
-shop: Autohaus
+shop: car
 ---

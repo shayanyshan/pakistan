@@ -1,5 +1,5 @@
 ---
 title: "Cool track"
 url: /karachi/cool-track/
-shop: Autowerkstatt
+shop: car repair
 ---

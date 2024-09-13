@@ -1,5 +1,5 @@
 ---
 title: "Khan Autos - Car Spare Parts"
 url: /karachi/khan-autos-car-spare-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ar- Rahim Jewellers"
 url: /rwlpnddy/ar-rahim-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

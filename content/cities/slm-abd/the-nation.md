@@ -1,5 +1,5 @@
 ---
 title: "The Nation"
 url: /slm-abd/the-nation/
-shop: Zeitungen
+shop: newsagent
 ---

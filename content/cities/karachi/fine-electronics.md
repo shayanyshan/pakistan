@@ -1,5 +1,5 @@
 ---
 title: "Fine Electronics"
 url: /karachi/fine-electronics/
-shop: Elektronik
+shop: electronics
 ---

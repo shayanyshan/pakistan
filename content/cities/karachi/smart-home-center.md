@@ -1,5 +1,5 @@
 ---
 title: "Smart Home Center"
 url: /karachi/smart-home-center/
-shop: Elektronik
+shop: electronics
 ---

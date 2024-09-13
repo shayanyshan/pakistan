@@ -1,5 +1,5 @@
 ---
 title: "Mianz Nightwear"
 url: /karachi/mianz-nightwear/
-shop: Kleidung
+shop: clothes
 ---

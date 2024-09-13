@@ -1,5 +1,5 @@
 ---
 title: "Carpool"
 url: /karachi/carpool/
-shop: Reisebüro
+shop: travel agency
 ---

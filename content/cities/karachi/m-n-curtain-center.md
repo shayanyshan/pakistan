@@ -1,5 +1,5 @@
 ---
 title: "M.N Curtain center"
 url: /karachi/m-n-curtain-center/
-shop: Gardinen
+shop: curtain
 ---

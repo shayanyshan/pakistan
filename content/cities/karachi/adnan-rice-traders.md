@@ -1,5 +1,5 @@
 ---
 title: "Adnan Rice Traders"
 url: /karachi/adnan-rice-traders/
-shop: Lebensmittel
+shop: convenience
 ---

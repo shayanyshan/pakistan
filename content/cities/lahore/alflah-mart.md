@@ -1,5 +1,5 @@
 ---
 title: "Alflah Mart"
 url: /lahore/alflah-mart/
-shop: Warenhaus
+shop: department store
 ---

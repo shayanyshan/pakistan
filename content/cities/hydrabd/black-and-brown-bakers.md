@@ -1,5 +1,5 @@
 ---
-title: "Black And Brown Bakers"
+title: "Black & Brown Bakers"
 url: /hydrabd/black-and-brown-bakers/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mardan naan shop"
 url: /bala-gujran/mardan-naan-shop/
-shop: Bäckerei
+shop: bakery
 ---

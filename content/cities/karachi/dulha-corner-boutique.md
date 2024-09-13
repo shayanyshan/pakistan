@@ -1,5 +1,5 @@
 ---
 title: "Dulha Corner Boutique"
 url: /karachi/dulha-corner-boutique/
-shop: Allgemein
+shop: shop
 ---

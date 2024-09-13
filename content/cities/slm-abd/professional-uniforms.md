@@ -1,5 +1,5 @@
 ---
 title: "Professional Uniforms"
 url: /slm-abd/professional-uniforms/
-shop: Kleidung
+shop: clothes
 ---

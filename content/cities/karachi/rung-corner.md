@@ -1,5 +1,5 @@
 ---
 title: "Rung Corner"
 url: /karachi/rung-corner/
-shop: Farben
+shop: paint
 ---

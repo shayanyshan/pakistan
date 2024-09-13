@@ -1,5 +1,5 @@
 ---
 title: "Bismillah oil trader"
 url: /karachi/bismillah-oil-trader/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golden Chamber"
 url: /karachi/golden-chamber/
-shop: Allgemein
+shop: shop
 ---

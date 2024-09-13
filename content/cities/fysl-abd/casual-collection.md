@@ -1,5 +1,5 @@
 ---
 title: "Casual Collection"
 url: /fysl-abd/casual-collection/
-shop: Kleidung
+shop: clothes
 ---

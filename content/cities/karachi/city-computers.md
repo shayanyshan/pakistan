@@ -1,5 +1,5 @@
 ---
 title: "CITY COMPUTERS"
 url: /karachi/city-computers/
-shop: Elektronik
+shop: electronics
 ---

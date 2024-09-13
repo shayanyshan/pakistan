@@ -1,5 +1,5 @@
 ---
 title: "Dubai Collection Jewellers"
 url: /karachi/dubai-collection-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /chitral-bumborate/shop/
-shop: Mieten
+shop: storage rental
 ---

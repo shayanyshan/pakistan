@@ -1,5 +1,5 @@
 ---
 title: "New Wood Comforts"
 url: /khrchy/new-wood-comforts/
-shop: Möbel
+shop: furniture
 ---

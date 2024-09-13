@@ -1,5 +1,5 @@
 ---
 title: "Grow Organic"
 url: /karachi/grow-organic/
-shop: Garten-Center
+shop: garden centre
 ---

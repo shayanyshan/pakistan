@@ -1,5 +1,5 @@
 ---
 title: "Suriya Tyre Shop"
 url: /karachi/suriya-tyre-shop/
-shop: Reifen
+shop: tyres
 ---

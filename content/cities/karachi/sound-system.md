@@ -1,5 +1,5 @@
 ---
 title: "Sound system"
 url: /karachi/sound-system/
-shop: Autoteile
+shop: car parts
 ---

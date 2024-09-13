@@ -1,5 +1,5 @@
 ---
 title: "Hafiz Sweets And Halwa Poori"
 url: /hydrabd/hafiz-sweets-and-halwa-poori/
-shop: Bäckerei
+shop: bakery
 ---

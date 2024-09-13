@@ -1,5 +1,5 @@
 ---
 title: "Medequips Office"
 url: /karachi/medequips-office/
-shop: Elektronik
+shop: electronics
 ---

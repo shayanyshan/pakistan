@@ -1,5 +1,5 @@
 ---
 title: "Arif Jewellers"
 url: /karachi/arif-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

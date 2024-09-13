@@ -1,5 +1,5 @@
 ---
 title: "ہائپر اسٹار"
 url: /lhwr/hy-pr-sttr/
-shop: Warenhaus
+shop: department store
 ---

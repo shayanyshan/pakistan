@@ -1,5 +1,5 @@
 ---
 title: "Aleena Shopping Mall"
 url: /gujranwala/aleena-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

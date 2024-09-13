@@ -1,5 +1,5 @@
 ---
 title: "MM computer"
 url: /karachi/mm-computer/
-shop: Computer
+shop: computer
 ---

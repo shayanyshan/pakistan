@@ -1,5 +1,5 @@
 ---
 title: "Utility Store"
 url: /bahawalpur/utility-store/
-shop: Supermarkt
+shop: supermarket
 ---

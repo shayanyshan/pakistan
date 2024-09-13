@@ -1,5 +1,5 @@
 ---
 title: "Hub Communication"
 url: /balochistan/hub-communication/
-shop: Handy
+shop: mobile phone
 ---

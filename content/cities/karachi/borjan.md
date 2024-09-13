@@ -1,5 +1,5 @@
 ---
 title: "Borjan"
 url: /karachi/borjan/
-shop: Schuhe
+shop: shoes
 ---

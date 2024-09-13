@@ -1,5 +1,5 @@
 ---
 title: "Al ghousia trader"
 url: /karachi/al-ghousia-trader/
-shop: Großhandel
+shop: wholesale
 ---

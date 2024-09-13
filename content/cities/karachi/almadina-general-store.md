@@ -1,5 +1,5 @@
 ---
 title: "Almadina general store"
 url: /karachi/almadina-general-store/
-shop: Dorfladen
+shop: general
 ---

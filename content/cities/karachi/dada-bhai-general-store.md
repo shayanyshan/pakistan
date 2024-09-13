@@ -1,5 +1,5 @@
 ---
 title: "Dada Bhai General Store"
 url: /karachi/dada-bhai-general-store/
-shop: Dorfladen
+shop: general
 ---

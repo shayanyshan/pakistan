@@ -1,5 +1,5 @@
 ---
 title: "Selection II"
 url: /karachi/selection-ii/
-shop: Textil
+shop: fabric
 ---

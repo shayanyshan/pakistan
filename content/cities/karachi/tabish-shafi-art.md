@@ -1,5 +1,5 @@
 ---
 title: "Tabish Shafi Art"
 url: /karachi/tabish-shafi-art/
-shop: Einkaufszentrum
+shop: mall
 ---

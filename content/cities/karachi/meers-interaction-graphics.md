@@ -1,5 +1,5 @@
 ---
 title: "Meers Interaction Graphics"
 url: /karachi/meers-interaction-graphics/
-shop: Kopieren
+shop: copyshop
 ---

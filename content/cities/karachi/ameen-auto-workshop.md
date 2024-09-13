@@ -1,5 +1,5 @@
 ---
 title: "Ameen Auto Workshop"
 url: /karachi/ameen-auto-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "گلوریا جینز"
 url: /fysl-abd/glwry-jynz/
-shop: Kaffee
+shop: coffee
 ---

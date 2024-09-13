@@ -1,5 +1,5 @@
 ---
 title: "شاہد اسٹوڈیو"
 url: /khrchy/shhd-sttwddyw/
-shop: Allgemein
+shop: shop
 ---

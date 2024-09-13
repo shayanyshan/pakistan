@@ -1,5 +1,5 @@
 ---
 title: "Bawa Auto Workshop"
 url: /lahore/bawa-auto-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

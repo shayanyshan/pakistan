@@ -1,5 +1,5 @@
 ---
 title: "Zunaira"
 url: /hydrabd/zunaira/
-shop: Kleidung
+shop: clothes
 ---

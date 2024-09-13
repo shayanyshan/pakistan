@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /karachi/bata-nazimabad-5/
-shop: Schuhe
+shop: shoes
 ---

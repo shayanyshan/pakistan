@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Waqar Autos"
 url: /karachi/suzuki-waqar-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

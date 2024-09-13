@@ -1,5 +1,5 @@
 ---
 title: "Gul Center"
 url: /hydrabd/gul-center/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALAM ENTERPRISES"
 url: /karachi/alam-enterprises/
-shop: Reisebüro
+shop: travel agency
 ---

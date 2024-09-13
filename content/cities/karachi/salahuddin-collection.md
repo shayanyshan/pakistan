@@ -1,5 +1,5 @@
 ---
 title: "Salahuddin Collection"
 url: /karachi/salahuddin-collection/
-shop: Kleidung
+shop: clothes
 ---

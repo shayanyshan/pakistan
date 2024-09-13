@@ -1,5 +1,5 @@
 ---
 title: "Bumbia Sanitary"
 url: /karachi/bumbia-sanitary/
-shop: Eisenwaren
+shop: hardware
 ---

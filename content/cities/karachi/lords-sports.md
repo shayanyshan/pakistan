@@ -1,5 +1,5 @@
 ---
 title: "Lords Sports"
 url: /karachi/lords-sports/
-shop: Sport
+shop: sports
 ---

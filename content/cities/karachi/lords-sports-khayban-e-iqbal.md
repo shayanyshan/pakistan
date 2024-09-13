@@ -1,5 +1,5 @@
 ---
 title: "Lords Sports"
 url: /karachi/lords-sports-khayban-e-iqbal/
-shop: Sport
+shop: sports
 ---

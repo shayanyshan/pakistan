@@ -1,5 +1,5 @@
 ---
 title: "Dhaani (Al-Karam)"
 url: /karachi/dhaani-al-karam/
-shop: Kleidung
+shop: clothes
 ---

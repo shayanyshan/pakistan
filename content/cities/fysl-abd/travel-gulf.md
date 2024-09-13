@@ -1,5 +1,5 @@
 ---
 title: "Travel Gulf"
 url: /fysl-abd/travel-gulf/
-shop: Reisebüro
+shop: travel agency
 ---

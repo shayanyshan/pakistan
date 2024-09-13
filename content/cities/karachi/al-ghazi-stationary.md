@@ -1,5 +1,5 @@
 ---
 title: "Al-ghazi stationary"
 url: /karachi/al-ghazi-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

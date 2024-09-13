@@ -1,5 +1,5 @@
 ---
 title: "The Centaurus Mall"
 url: /slm-abd/the-centaurus-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

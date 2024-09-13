@@ -1,5 +1,5 @@
 ---
 title: "Rasool Plaza"
 url: /fysl-abd/rasool-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

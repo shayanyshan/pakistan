@@ -1,5 +1,5 @@
 ---
 title: "PakWood furniture"
 url: /karachi/pakwood-furniture/
-shop: Möbel
+shop: furniture
 ---

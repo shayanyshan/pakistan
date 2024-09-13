@@ -1,5 +1,5 @@
 ---
 title: "D. Grocers"
 url: /islamabad-capital-territory/d-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

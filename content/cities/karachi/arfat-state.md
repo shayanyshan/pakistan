@@ -1,5 +1,5 @@
 ---
 title: "Arfat state"
 url: /karachi/arfat-state/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Al Faiz Optics"
 url: /karachi/al-faiz-optics/
-shop: Optiker
+shop: optician
 ---

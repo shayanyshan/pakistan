@@ -1,5 +1,5 @@
 ---
 title: "Awan Battery Centre"
 url: /karachi/awan-battery-centre/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edenrobe"
 url: /karachi/edenrobe/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shahid Sons"
 url: /karachi/shahid-sons/
-shop: Raumausstattung
+shop: interior decoration
 ---

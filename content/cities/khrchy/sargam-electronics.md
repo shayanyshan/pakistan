@@ -1,5 +1,5 @@
 ---
 title: "Sargam Electronics"
 url: /khrchy/sargam-electronics/
-shop: Allgemein
+shop: shop
 ---

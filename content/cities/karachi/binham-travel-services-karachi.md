@@ -1,5 +1,5 @@
 ---
 title: "Binham Travel Services (karachi)"
 url: /karachi/binham-travel-services-karachi/
-shop: Reisebüro
+shop: travel agency
 ---

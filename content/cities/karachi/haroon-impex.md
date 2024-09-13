@@ -1,5 +1,5 @@
 ---
 title: "Haroon Impex"
 url: /karachi/haroon-impex/
-shop: Allgemein
+shop: shop
 ---

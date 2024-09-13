@@ -1,5 +1,5 @@
 ---
 title: "Home N Style"
 url: /karachi/home-n-style/
-shop: Möbel
+shop: furniture
 ---

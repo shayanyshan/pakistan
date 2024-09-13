@@ -1,5 +1,5 @@
 ---
 title: "باٹا"
 url: /lahore/btt/
-shop: Schuhe
+shop: shoes
 ---

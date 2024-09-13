@@ -1,5 +1,5 @@
 ---
 title: "Waseem julab shop"
 url: /karachi/waseem-julab-shop/
-shop: Dorfladen
+shop: general
 ---

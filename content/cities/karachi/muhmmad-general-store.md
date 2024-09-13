@@ -1,5 +1,5 @@
 ---
 title: "Muhmmad General Store"
 url: /karachi/muhmmad-general-store/
-shop: Dorfladen
+shop: general
 ---

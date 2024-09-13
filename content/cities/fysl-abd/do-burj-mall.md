@@ -1,5 +1,5 @@
 ---
 title: "Do Burj Mall"
 url: /fysl-abd/do-burj-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

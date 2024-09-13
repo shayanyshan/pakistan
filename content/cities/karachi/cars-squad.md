@@ -1,5 +1,5 @@
 ---
 title: "Cars Squad"
 url: /karachi/cars-squad/
-shop: Autowerkstatt
+shop: car repair
 ---

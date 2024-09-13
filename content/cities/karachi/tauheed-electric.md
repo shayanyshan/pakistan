@@ -1,5 +1,5 @@
 ---
 title: "Tauheed Electric"
 url: /karachi/tauheed-electric/
-shop: Eisenwaren
+shop: hardware
 ---

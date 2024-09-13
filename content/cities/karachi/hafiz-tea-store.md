@@ -1,5 +1,5 @@
 ---
 title: "Hafiz Tea Store"
 url: /karachi/hafiz-tea-store/
-shop: Allgemein
+shop: shop
 ---

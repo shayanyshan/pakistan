@@ -1,5 +1,5 @@
 ---
 title: "Rozy Beauty parlour"
 url: /karachi/rozy-beauty-parlour/
-shop: Kosmetik
+shop: beauty
 ---

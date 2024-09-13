@@ -1,5 +1,5 @@
 ---
 title: "Salman Hair Studio"
 url: /karachi/salman-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

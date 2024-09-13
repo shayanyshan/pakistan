@@ -1,5 +1,5 @@
 ---
 title: "Siddique beef shop"
 url: /karachi/siddique-beef-shop/
-shop: Metzgerei
+shop: butcher
 ---

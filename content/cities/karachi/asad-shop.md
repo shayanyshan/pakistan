@@ -1,5 +1,5 @@
 ---
 title: "Asad Shop"
 url: /karachi/asad-shop/
-shop: Dorfladen
+shop: general
 ---

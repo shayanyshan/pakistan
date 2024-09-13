@@ -1,5 +1,5 @@
 ---
 title: "The grocery bag"
 url: /karachi/the-grocery-bag/
-shop: Allgemein
+shop: shop
 ---

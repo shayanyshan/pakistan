@@ -1,5 +1,5 @@
 ---
 title: "Shah Hardware"
 url: /gulmit-gojal-hunza/shah-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

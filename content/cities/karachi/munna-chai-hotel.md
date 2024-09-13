@@ -1,5 +1,5 @@
 ---
 title: "Munna chai hotel"
 url: /karachi/munna-chai-hotel/
-shop: Tee
+shop: tea
 ---

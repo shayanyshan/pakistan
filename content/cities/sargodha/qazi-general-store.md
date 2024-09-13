@@ -1,5 +1,5 @@
 ---
 title: "Qazi General Store"
 url: /sargodha/qazi-general-store/
-shop: Supermarkt
+shop: supermarket
 ---

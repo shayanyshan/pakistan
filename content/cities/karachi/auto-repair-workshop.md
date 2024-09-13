@@ -1,5 +1,5 @@
 ---
 title: "Auto Repair Workshop"
 url: /karachi/auto-repair-workshop/
-shop: Autoteile
+shop: car parts
 ---

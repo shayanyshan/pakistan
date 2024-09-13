@@ -1,5 +1,5 @@
 ---
 title: "Haier Store-Nazim Electronics"
 url: /raiwind/haier-store-nazim-electronics/
-shop: Elektronik
+shop: electronics
 ---

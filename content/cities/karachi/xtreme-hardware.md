@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Hardware"
 url: /karachi/xtreme-hardware/
-shop: Computer
+shop: computer
 ---

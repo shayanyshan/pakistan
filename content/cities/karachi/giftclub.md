@@ -1,5 +1,5 @@
 ---
 title: "GiftClub"
 url: /karachi/giftclub/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shariq General Store"
 url: /karachi/shariq-general-store/
-shop: Supermarkt
+shop: supermarket
 ---

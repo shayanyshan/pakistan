@@ -1,5 +1,5 @@
 ---
 title: "DevBrats"
 url: /karachi/devbrats/
-shop: Allgemein
+shop: shop
 ---

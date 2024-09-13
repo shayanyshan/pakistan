@@ -1,5 +1,5 @@
 ---
 title: "veezo verpali"
 url: /lahore/veezo-verpali/
-shop: Kleidung
+shop: clothes
 ---

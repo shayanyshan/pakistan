@@ -1,5 +1,5 @@
 ---
 title: "KPS Hatchery"
 url: /steel-town/kps-hatchery/
-shop: Milch
+shop: dairy
 ---

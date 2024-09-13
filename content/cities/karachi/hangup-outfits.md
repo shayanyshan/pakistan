@@ -1,5 +1,5 @@
 ---
 title: "Hangup Outfits"
 url: /karachi/hangup-outfits/
-shop: Warenhaus
+shop: department store
 ---

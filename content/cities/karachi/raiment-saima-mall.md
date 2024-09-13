@@ -1,5 +1,5 @@
 ---
 title: "Raiment - Saima Mall"
 url: /karachi/raiment-saima-mall/
-shop: Kleidung
+shop: clothes
 ---

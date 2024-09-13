@@ -1,5 +1,5 @@
 ---
 title: "Tak Speed"
 url: /karachi/tak-speed/
-shop: Autoteile
+shop: car parts
 ---

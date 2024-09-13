@@ -1,5 +1,5 @@
 ---
 title: "Solpro.us"
 url: /karachi/solpro-us/
-shop: Computer
+shop: computer
 ---

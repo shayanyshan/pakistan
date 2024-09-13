@@ -1,5 +1,5 @@
 ---
 title: "Attari Autos"
 url: /karachi/attari-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glow Lights"
 url: /karachi/glow-lights/
-shop: Raumausstattung
+shop: interior decoration
 ---

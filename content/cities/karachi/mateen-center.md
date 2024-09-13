@@ -1,5 +1,5 @@
 ---
 title: "Mateen Center"
 url: /karachi/mateen-center/
-shop: Kleidung
+shop: clothes
 ---

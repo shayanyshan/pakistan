@@ -1,5 +1,5 @@
 ---
 title: "iCare Optician"
 url: /karachi/icare-optician/
-shop: Optiker
+shop: optician
 ---

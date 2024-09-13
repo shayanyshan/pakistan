@@ -1,5 +1,5 @@
 ---
 title: "Madina Mall"
 url: /saddar-town/madina-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

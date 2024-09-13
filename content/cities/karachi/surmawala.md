@@ -1,5 +1,5 @@
 ---
 title: "Surmawala"
 url: /karachi/surmawala/
-shop: Haushaltsgeräte
+shop: appliance
 ---

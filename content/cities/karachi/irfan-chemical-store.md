@@ -1,5 +1,5 @@
 ---
 title: "Irfan Chemical Store"
 url: /karachi/irfan-chemical-store/
-shop: Großhandel
+shop: wholesale
 ---

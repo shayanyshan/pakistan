@@ -1,5 +1,5 @@
 ---
 title: "Paradise pets"
 url: /karachi/paradise-pets/
-shop: Tiere
+shop: pet
 ---

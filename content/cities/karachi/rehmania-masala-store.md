@@ -1,5 +1,5 @@
 ---
 title: "Rehmania Masala Store"
 url: /karachi/rehmania-masala-store/
-shop: Supermarkt
+shop: supermarket
 ---

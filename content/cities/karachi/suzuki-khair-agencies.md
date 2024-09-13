@@ -1,5 +1,5 @@
 ---
 title: "Suzuki Khair Agencies"
 url: /karachi/suzuki-khair-agencies/
-shop: Autohaus
+shop: car
 ---

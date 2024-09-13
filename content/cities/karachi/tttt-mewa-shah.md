@@ -1,5 +1,5 @@
 ---
 title: "TTTT Mewa shah."
 url: /karachi/tttt-mewa-shah/
-shop: Friseur
+shop: hairdresser
 ---

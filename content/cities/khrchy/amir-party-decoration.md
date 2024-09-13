@@ -1,5 +1,5 @@
 ---
 title: "Amir Party Decoration"
 url: /khrchy/amir-party-decoration/
-shop: Partyzubehör
+shop: party
 ---

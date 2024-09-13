@@ -1,5 +1,5 @@
 ---
 title: "Nike Flagship Store"
 url: /karachi/nike-flagship-store/
-shop: Schuhe
+shop: shoes
 ---

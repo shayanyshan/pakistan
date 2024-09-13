@@ -1,5 +1,5 @@
 ---
 title: "Soneri Gems - Ocean Mall"
 url: /karachi/soneri-gems-ocean-mall/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dua HM Ladies"
 url: /karachi/dua-hm-ladies/
-shop: Schneiderei
+shop: tailor
 ---

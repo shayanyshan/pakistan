@@ -1,5 +1,5 @@
 ---
 title: "Helmsmen Crewing"
 url: /karachi/helmsmen-crewing/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Akber Autos"
 url: /karachi/akber-autos/
-shop: Autoteile
+shop: car parts
 ---

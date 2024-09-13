@@ -1,5 +1,5 @@
 ---
 title: "Fine Fabric Trader"
 url: /karachi/fine-fabric-trader/
-shop: Kleidung
+shop: clothes
 ---

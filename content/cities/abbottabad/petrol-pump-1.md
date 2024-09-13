@@ -1,5 +1,5 @@
 ---
 title: "Petrol pump 1"
 url: /abbottabad/petrol-pump-1/
-shop: Allgemein
+shop: shop
 ---

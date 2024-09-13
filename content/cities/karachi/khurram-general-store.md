@@ -1,5 +1,5 @@
 ---
 title: "Khurram General Store"
 url: /karachi/khurram-general-store/
-shop: Dorfladen
+shop: general
 ---

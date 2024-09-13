@@ -1,5 +1,5 @@
 ---
 title: "Al Faisal Pan Shop"
 url: /karachi/al-faisal-pan-shop/
-shop: Tabak
+shop: tobacco
 ---

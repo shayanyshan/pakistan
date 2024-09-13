@@ -1,5 +1,5 @@
 ---
 title: "RAHEEL Designer"
 url: /karachi/raheel-designer/
-shop: Schneiderei
+shop: tailor
 ---

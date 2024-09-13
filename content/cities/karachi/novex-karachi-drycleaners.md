@@ -1,5 +1,5 @@
 ---
 title: "NOVEX karachi drycleaners"
 url: /karachi/novex-karachi-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

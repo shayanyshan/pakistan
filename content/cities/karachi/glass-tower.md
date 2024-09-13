@@ -1,5 +1,5 @@
 ---
 title: "Glass Tower"
 url: /karachi/glass-tower/
-shop: Einkaufszentrum
+shop: mall
 ---

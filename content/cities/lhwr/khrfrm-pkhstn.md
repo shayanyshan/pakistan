@@ -1,5 +1,5 @@
 ---
 title: "کارفرما.پاکستان"
 url: /lhwr/khrfrm-pkhstn/
-shop: Allgemein
+shop: shop
 ---

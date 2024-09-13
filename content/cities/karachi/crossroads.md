@@ -1,5 +1,5 @@
 ---
 title: "CrossRoads"
 url: /karachi/crossroads/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NK Hair Saloon"
 url: /lahore/nk-hair-saloon/
-shop: Friseur
+shop: hairdresser
 ---

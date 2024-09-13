@@ -1,5 +1,5 @@
 ---
 title: "VERSSTIL INTERIOR FUNITURE"
 url: /karachi/versstil-interior-funiture/
-shop: Möbel
+shop: furniture
 ---

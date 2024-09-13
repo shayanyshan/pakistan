@@ -1,5 +1,5 @@
 ---
 title: "Al Madina Ladies Tailor"
 url: /karachi/al-madina-ladies-tailor/
-shop: Schneiderei
+shop: tailor
 ---

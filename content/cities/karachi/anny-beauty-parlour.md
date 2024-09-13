@@ -1,5 +1,5 @@
 ---
 title: "Anny Beauty Parlour"
 url: /karachi/anny-beauty-parlour/
-shop: Kosmetik
+shop: beauty
 ---

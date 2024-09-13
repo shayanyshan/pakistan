@@ -1,5 +1,5 @@
 ---
 title: "Saleem diesel service"
 url: /karachi/saleem-diesel-service/
-shop: Motorrad
+shop: motorcycle
 ---

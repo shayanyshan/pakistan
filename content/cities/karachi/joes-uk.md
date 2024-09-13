@@ -1,5 +1,5 @@
 ---
 title: "Joes Uk"
 url: /karachi/joes-uk/
-shop: Allgemein
+shop: shop
 ---

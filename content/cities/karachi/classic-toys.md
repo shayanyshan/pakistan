@@ -1,5 +1,5 @@
 ---
 title: "Classic Toys"
 url: /karachi/classic-toys/
-shop: Spielzeug
+shop: toys
 ---

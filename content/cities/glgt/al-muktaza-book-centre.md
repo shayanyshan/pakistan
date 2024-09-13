@@ -1,5 +1,5 @@
 ---
 title: "Al Muktaza Book Centre"
 url: /glgt/al-muktaza-book-centre/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dhoraji Khidmat Committee"
 url: /karachi/dhoraji-khidmat-committee/
-shop: Optiker
+shop: optician
 ---

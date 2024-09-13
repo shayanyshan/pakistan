@@ -1,5 +1,5 @@
 ---
 title: "Tee Jays"
 url: /karachi/tee-jays/
-shop: Kleidung
+shop: clothes
 ---

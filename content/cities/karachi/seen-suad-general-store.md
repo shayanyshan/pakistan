@@ -1,5 +1,5 @@
 ---
 title: "Seen Suad General Store"
 url: /karachi/seen-suad-general-store/
-shop: Dorfladen
+shop: general
 ---

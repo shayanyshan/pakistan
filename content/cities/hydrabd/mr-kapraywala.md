@@ -1,5 +1,5 @@
 ---
 title: "MR Kapraywala"
 url: /hydrabd/mr-kapraywala/
-shop: Kleidung
+shop: clothes
 ---

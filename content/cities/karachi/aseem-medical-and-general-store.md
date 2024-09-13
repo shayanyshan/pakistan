@@ -1,5 +1,5 @@
 ---
 title: "Aseem Medical and General Store"
 url: /karachi/aseem-medical-and-general-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

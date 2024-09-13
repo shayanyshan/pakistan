@@ -1,5 +1,5 @@
 ---
 title: "Glamour Shopping Mall"
 url: /sukkur/glamour-shopping-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

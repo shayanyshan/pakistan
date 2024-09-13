@@ -1,5 +1,5 @@
 ---
 title: "Qadri Electronics"
 url: /karachi/qadri-electronics/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mian Autos, DHA"
 url: /karachi/mian-autos-dha/
-shop: Motorrad
+shop: motorcycle
 ---

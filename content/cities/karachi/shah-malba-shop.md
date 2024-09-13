@@ -1,5 +1,5 @@
 ---
 title: "shah malba shop"
 url: /karachi/shah-malba-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park Tower Mall"
 url: /karachi/park-tower-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

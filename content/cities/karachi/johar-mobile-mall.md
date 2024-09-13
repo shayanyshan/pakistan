@@ -1,5 +1,5 @@
 ---
 title: "Johar Mobile Mall"
 url: /karachi/johar-mobile-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

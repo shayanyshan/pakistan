@@ -1,5 +1,5 @@
 ---
 title: "Mr Darzi"
 url: /karachi/mr-darzi/
-shop: Schneiderei
+shop: tailor
 ---

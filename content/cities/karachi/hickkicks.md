@@ -1,5 +1,5 @@
 ---
 title: "Hickkicks"
 url: /karachi/hickkicks/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Your Choice Collection"
 url: /karachi/your-choice-collection/
-shop: Kleidung
+shop: clothes
 ---

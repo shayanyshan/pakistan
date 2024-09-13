@@ -1,5 +1,5 @@
 ---
 title: "Auto Zone Paint Booth"
 url: /karachi/auto-zone-paint-booth/
-shop: Autowerkstatt
+shop: car repair
 ---

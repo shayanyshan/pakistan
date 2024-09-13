@@ -1,5 +1,5 @@
 ---
 title: "Taimoor Autos"
 url: /fysl-abd/taimoor-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

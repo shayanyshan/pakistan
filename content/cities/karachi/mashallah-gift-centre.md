@@ -1,5 +1,5 @@
 ---
 title: "Mashallah Gift Centre"
 url: /karachi/mashallah-gift-centre/
-shop: Andenken
+shop: gift
 ---

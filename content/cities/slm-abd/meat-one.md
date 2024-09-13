@@ -1,5 +1,5 @@
 ---
 title: "Meat One"
 url: /slm-abd/meat-one/
-shop: Metzgerei
+shop: butcher
 ---

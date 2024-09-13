@@ -1,5 +1,5 @@
 ---
 title: "Ghosiya Market"
 url: /slm-abd/ghosiya-market/
-shop: Lebensmittel
+shop: convenience
 ---

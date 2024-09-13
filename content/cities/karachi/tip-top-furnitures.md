@@ -1,5 +1,5 @@
 ---
 title: "Tip Top Furnitures"
 url: /karachi/tip-top-furnitures/
-shop: Möbel
+shop: furniture
 ---

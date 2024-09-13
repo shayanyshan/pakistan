@@ -1,5 +1,5 @@
 ---
 title: "Asad Music Center"
 url: /fysl-abd/asad-music-center/
-shop: Musik
+shop: music
 ---

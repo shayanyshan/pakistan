@@ -1,5 +1,5 @@
 ---
 title: "Shakir Meat Shop"
 url: /karachi/shakir-meat-shop/
-shop: Metzgerei
+shop: butcher
 ---

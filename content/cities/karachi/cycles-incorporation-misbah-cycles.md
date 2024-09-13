@@ -1,5 +1,5 @@
 ---
 title: "Cycles incorporation (misbah cycle’s)"
 url: /karachi/cycles-incorporation-misbah-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

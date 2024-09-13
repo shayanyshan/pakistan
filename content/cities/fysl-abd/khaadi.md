@@ -1,5 +1,5 @@
 ---
 title: "Khaadi"
 url: /fysl-abd/khaadi/
-shop: Kleidung
+shop: clothes
 ---

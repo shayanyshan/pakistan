@@ -1,5 +1,5 @@
 ---
 title: "Rauf TV Centre"
 url: /zafar-chowk/rauf-tv-centre/
-shop: Elektronik
+shop: electronics
 ---

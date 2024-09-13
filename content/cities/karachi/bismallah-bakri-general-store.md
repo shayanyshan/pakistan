@@ -1,5 +1,5 @@
 ---
 title: "Bismallah Bakri General store"
 url: /karachi/bismallah-bakri-general-store/
-shop: Dorfladen
+shop: general
 ---

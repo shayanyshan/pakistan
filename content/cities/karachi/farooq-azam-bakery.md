@@ -1,5 +1,5 @@
 ---
 title: "Farooq Azam Bakery"
 url: /karachi/farooq-azam-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Masood khan kabin"
 url: /karachi/masood-khan-kabin/
-shop: Motorrad
+shop: motorcycle
 ---

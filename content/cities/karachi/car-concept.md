@@ -1,5 +1,5 @@
 ---
 title: "CAR CONCEPT"
 url: /karachi/car-concept/
-shop: Autoteile
+shop: car parts
 ---

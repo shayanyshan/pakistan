@@ -1,5 +1,5 @@
 ---
 title: "PANJWANI OPTICS"
 url: /karachi/panjwani-optics/
-shop: Optiker
+shop: optician
 ---

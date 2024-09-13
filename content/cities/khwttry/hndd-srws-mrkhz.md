@@ -1,5 +1,5 @@
 ---
 title: "ہنڈا سروس مرکز"
 url: /khwttry/hndd-srws-mrkhz/
-shop: Autohaus
+shop: car
 ---

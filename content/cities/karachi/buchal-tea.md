@@ -1,5 +1,5 @@
 ---
 title: "Buchal Tea"
 url: /karachi/buchal-tea/
-shop: Tee
+shop: tea
 ---

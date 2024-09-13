@@ -1,5 +1,5 @@
 ---
 title: "ٹویوٹا راول موٹرز"
 url: /rwlpnddy/ttwywtt-rwl-mwttrz/
-shop: Autohaus
+shop: car
 ---

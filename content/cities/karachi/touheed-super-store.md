@@ -1,5 +1,5 @@
 ---
 title: "Touheed Super Store"
 url: /karachi/touheed-super-store/
-shop: Supermarkt
+shop: supermarket
 ---

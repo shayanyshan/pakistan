@@ -1,5 +1,5 @@
 ---
 title: "International Photostat- Tauheed Commercial"
 url: /karachi/international-photostat-tauheed-commercial/
-shop: Schreibwaren
+shop: office supplies
 ---

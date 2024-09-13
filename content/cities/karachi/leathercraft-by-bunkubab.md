@@ -1,5 +1,5 @@
 ---
 title: "Leathercraft by Bunkubab"
 url: /karachi/leathercraft-by-bunkubab/
-shop: Leder
+shop: leather
 ---

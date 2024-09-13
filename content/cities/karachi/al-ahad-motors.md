@@ -1,5 +1,5 @@
 ---
 title: "Al Ahad Motors"
 url: /karachi/al-ahad-motors/
-shop: Autohaus
+shop: car
 ---

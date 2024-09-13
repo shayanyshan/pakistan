@@ -1,5 +1,5 @@
 ---
 title: "Smart Tailor(for Gent's)"
 url: /karachi/smart-tailor-for-gents/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Awan Brothers Store"
 url: /rwlpnddy/awan-brothers-store/
-shop: Textil
+shop: fabric
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heera Art Store"
 url: /karachi/heera-art-store/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mars Traders"
 url: /karachi/mars-traders/
-shop: Allgemein
+shop: shop
 ---

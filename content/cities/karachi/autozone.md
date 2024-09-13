@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /karachi/autozone/
-shop: Autoteile
+shop: car parts
 ---

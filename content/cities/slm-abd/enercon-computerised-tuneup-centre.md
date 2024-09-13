@@ -1,5 +1,5 @@
 ---
 title: "Enercon Computerised tuneup Centre"
 url: /slm-abd/enercon-computerised-tuneup-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

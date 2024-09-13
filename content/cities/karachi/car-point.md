@@ -1,5 +1,5 @@
 ---
 title: "Car Point"
 url: /karachi/car-point/
-shop: Autohaus
+shop: car
 ---

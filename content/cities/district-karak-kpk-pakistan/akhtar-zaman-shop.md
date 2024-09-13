@@ -1,5 +1,5 @@
 ---
 title: "Akhtar Zaman Shop"
 url: /district-karak-kpk-pakistan/akhtar-zaman-shop/
-shop: Warenhaus
+shop: department store
 ---

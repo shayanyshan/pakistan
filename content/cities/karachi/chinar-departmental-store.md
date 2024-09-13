@@ -1,5 +1,5 @@
 ---
 title: "Chinar Departmental Store"
 url: /karachi/chinar-departmental-store/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arrow Electric"
 url: /karachi/arrow-electric/
-shop: Elektrisch
+shop: electrical
 ---

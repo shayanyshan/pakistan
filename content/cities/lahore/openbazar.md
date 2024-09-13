@@ -1,5 +1,5 @@
 ---
 title: "OpenBazar"
 url: /lahore/openbazar/
-shop: Allgemein
+shop: shop
 ---

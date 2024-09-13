@@ -1,5 +1,5 @@
 ---
 title: "Bismillah Autos"
 url: /rwlpnddy/bismillah-autos/
-shop: Autoteile
+shop: car parts
 ---

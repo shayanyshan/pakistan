@@ -1,5 +1,5 @@
 ---
 title: "Clinix"
 url: /rwlpnddy/clinix/
-shop: Drogerie
+shop: chemist
 ---

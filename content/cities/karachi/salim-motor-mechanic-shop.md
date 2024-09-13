@@ -1,5 +1,5 @@
 ---
 title: "Salim Motor Mechanic Shop"
 url: /karachi/salim-motor-mechanic-shop/
-shop: Motorrad
+shop: motorcycle
 ---

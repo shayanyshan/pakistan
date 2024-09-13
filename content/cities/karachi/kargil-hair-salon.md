@@ -1,5 +1,5 @@
 ---
 title: "Kargil Hair Salon"
 url: /karachi/kargil-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

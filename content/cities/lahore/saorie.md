@@ -1,5 +1,5 @@
 ---
 title: "SAORIE"
 url: /lahore/saorie/
-shop: Textil
+shop: fabric
 ---

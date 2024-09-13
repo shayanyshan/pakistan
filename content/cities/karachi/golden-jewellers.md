@@ -1,5 +1,5 @@
 ---
 title: "GOLDEN JEWELLERS"
 url: /karachi/golden-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

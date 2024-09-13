@@ -1,5 +1,5 @@
 ---
 title: "Ayubi Paints Jotun"
 url: /karachi/ayubi-paints-jotun/
-shop: Farben
+shop: paint
 ---

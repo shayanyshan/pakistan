@@ -1,5 +1,5 @@
 ---
 title: "Kings Bakkery"
 url: /karachi/kings-bakkery/
-shop: Bäckerei
+shop: bakery
 ---

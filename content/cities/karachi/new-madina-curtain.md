@@ -1,5 +1,5 @@
 ---
 title: "New Madina Curtain"
 url: /karachi/new-madina-curtain/
-shop: Gardinen
+shop: curtain
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Al Shaheen Timber Mart"
 url: /karachi/al-shaheen-timber-mart/
-shop: Möbel
+shop: furniture
 ---

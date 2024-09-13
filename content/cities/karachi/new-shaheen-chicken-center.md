@@ -1,5 +1,5 @@
 ---
 title: "New Shaheen Chicken center"
 url: /karachi/new-shaheen-chicken-center/
-shop: Metzgerei
+shop: butcher
 ---

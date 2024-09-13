@@ -1,5 +1,5 @@
 ---
 title: "Iqra communication"
 url: /karachi/iqra-communication/
-shop: Handy
+shop: mobile phone
 ---

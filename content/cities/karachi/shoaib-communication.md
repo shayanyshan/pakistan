@@ -1,5 +1,5 @@
 ---
 title: "Shoaib Communication"
 url: /karachi/shoaib-communication/
-shop: Handy
+shop: mobile phone
 ---

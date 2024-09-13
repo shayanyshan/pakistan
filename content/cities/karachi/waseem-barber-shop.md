@@ -1,5 +1,5 @@
 ---
 title: "Waseem Barber Shop"
 url: /karachi/waseem-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homeage Customer Service Center"
 url: /karachi/homeage-customer-service-center/
-shop: Elektronik
+shop: electronics
 ---

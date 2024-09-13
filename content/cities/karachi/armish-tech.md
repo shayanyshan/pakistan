@@ -1,5 +1,5 @@
 ---
 title: "Armish tech"
 url: /karachi/armish-tech/
-shop: Reisebüro
+shop: travel agency
 ---

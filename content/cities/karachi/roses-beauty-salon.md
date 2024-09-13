@@ -1,5 +1,5 @@
 ---
 title: "Roses Beauty salon"
 url: /karachi/roses-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

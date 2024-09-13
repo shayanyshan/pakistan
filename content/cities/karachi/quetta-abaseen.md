@@ -1,5 +1,5 @@
 ---
 title: "Quetta Abaseen"
 url: /karachi/quetta-abaseen/
-shop: Tee
+shop: tea
 ---

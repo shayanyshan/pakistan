@@ -1,5 +1,5 @@
 ---
 title: "Dolphin Bakers"
 url: /karachi/dolphin-bakers/
-shop: Bäckerei
+shop: bakery
 ---

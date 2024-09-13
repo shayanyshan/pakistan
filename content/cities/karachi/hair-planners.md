@@ -1,5 +1,5 @@
 ---
 title: "Hair Planners"
 url: /karachi/hair-planners/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tee's Cakery"
 url: /slm-abd/tees-cakery/
-shop: Bäckerei
+shop: bakery
 ---

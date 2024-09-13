@@ -1,5 +1,5 @@
 ---
 title: "QMobile Customer Care Center"
 url: /karachi/qmobile-customer-care-center/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Amin Electric"
 url: /karachi/all-amin-electric/
-shop: Allgemein
+shop: shop
 ---

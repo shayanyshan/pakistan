@@ -1,5 +1,5 @@
 ---
 title: "afphotography"
 url: /karachi/afphotography/
-shop: Foto
+shop: photo
 ---
