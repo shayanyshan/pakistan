@@ -4,8 +4,8 @@ latitude: 31.52423
 longitude: 74.34611
 postcode: "54000"
 city: Lahore
-street: "Main Boulevard Gulberg"
-housenumber: 
+street: Main Boulevard Gulberg
+housenumber: ""
 phone: ""
-opening_hours: "9am : 11pm"
+opening_hours: '9am : 11pm'
 website: ""

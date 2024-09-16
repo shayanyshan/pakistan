@@ -1,11 +1,11 @@
 id: 692216270
-type: way
+type: node
 latitude: 34.86507
 longitude: 73.1472
 postcode: "21011"
 city: Allai
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

@@ -4,8 +4,9 @@ latitude: 24.88322
 longitude: 67.15563
 postcode: ""
 city: Karachi
-street: ", near Jamia Moti Masjid, Block 3 Shah Faisal Colony 3 Shah Faisal Colony, Karach"
-housenumber: House # 3، 10
+street: ', near Jamia Moti Masjid, Block 3 Shah Faisal Colony 3 Shah Faisal Colony,
+    Karach'
+housenumber: 'House # 3، 10'
 phone: ""
 opening_hours: ""
 website: ""

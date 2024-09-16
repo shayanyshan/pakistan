@@ -4,8 +4,8 @@ latitude: 33.64701
 longitude: 73.18161
 postcode: "44000"
 city: Alipur
-street: "Jagiot Road"
-housenumber: Shop # 10, Harooz Mehmood Plaza,
+street: Jagiot Road
+housenumber: 'Shop # 10, Harooz Mehmood Plaza,'
 phone: "+923350446688"
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 24.90717
 longitude: 67.06798
 postcode: ""
 city: Karachi
-street: "Shop # 1, Al-Faizan Corner, Block 13 E Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300, Pakistan"
-housenumber: Shop # 1, Al-Faizan Corner,
+street: 'Shop # 1, Al-Faizan Corner, Block 13 E Gulshan-e-Iqbal, Karachi, Karachi
+    City, Sindh 75300, Pakistan'
+housenumber: 'Shop # 1, Al-Faizan Corner,'
 phone: ""
 opening_hours: ""
-website: "https://royaldetergents.dukan.pk/"
+website: https://royaldetergents.dukan.pk/

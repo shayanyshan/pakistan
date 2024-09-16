@@ -4,8 +4,8 @@ latitude: 33.71291
 longitude: 73.06372
 postcode: "44000"
 city: اسلام آباد
-street: "G-D Arcade Plaza, Fazal-e-Haq Raod"
-housenumber: Office # B-7
-phone: "+92-51-2348321"
-opening_hours: "11:00-20:00"
-website: "https://www.facebook.com/siliconcommunications"
+street: G-D Arcade Plaza, Fazal-e-Haq Raod
+housenumber: 'Office # B-7'
+phone: +92-51-2348321
+opening_hours: 11:00-20:00
+website: https://www.facebook.com/siliconcommunications

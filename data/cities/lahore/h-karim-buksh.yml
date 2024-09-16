@@ -4,8 +4,8 @@ latitude: 31.56149
 longitude: 74.31934
 postcode: "54000"
 city: Lahore
-street: "Mall Road"
-housenumber: 65
+street: Mall Road
+housenumber: "65"
 phone: ""
-opening_hours: "10:00-23:00"
+opening_hours: 10:00-23:00
 website: ""

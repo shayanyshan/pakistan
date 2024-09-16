@@ -4,7 +4,8 @@ latitude: 24.94699
 longitude: 67.05628
 postcode: ""
 city: Karachi
-street: ", Shop No، Plot، 1 Street 6, Block N North Nazimabad Town, Karachi, Karachi City, Sindh 75400, Pakistan"
+street: ', Shop No، Plot، 1 Street 6, Block N North Nazimabad Town, Karachi, Karachi
+    City, Sindh 75400, Pakistan'
 housenumber: B-64
 phone: "03360002467"
 opening_hours: ""

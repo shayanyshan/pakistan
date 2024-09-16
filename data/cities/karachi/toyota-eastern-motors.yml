@@ -4,8 +4,8 @@ latitude: 24.90775
 longitude: 67.11037
 postcode: ""
 city: Karachi
-street: "Rashid Minhas Road"
-housenumber: 118
-phone: "UAN: +92-111 836 111 /  (021) 34614077, 34614177, 34614277, 34614377"
-opening_hours: "09:00-18:00"
-website: "http://www.toyotaeastern.com / www.toyota-indus.com"
+street: Rashid Minhas Road
+housenumber: "118"
+phone: 'UAN: +92-111 836 111 /  (021) 34614077, 34614177, 34614277, 34614377'
+opening_hours: 09:00-18:00
+website: http://www.toyotaeastern.com / www.toyota-indus.com

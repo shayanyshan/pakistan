@@ -1,11 +1,11 @@
 id: 769671496
-type: way
+type: node
 latitude: 32.25891
 longitude: 74.65368
 postcode: ""
 city: Pasrur
-street: "Bao Azam Street"
-housenumber: 1
+street: Bao Azam Street
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

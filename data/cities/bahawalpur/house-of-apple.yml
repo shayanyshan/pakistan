@@ -4,8 +4,8 @@ latitude: 29.39037
 longitude: 71.6749
 postcode: "63100"
 city: BAHAWALPUR
-street: "Haroon Mall, Circular Road"
-housenumber: Shop # 2
+street: Haroon Mall, Circular Road
+housenumber: 'Shop # 2'
 phone: "+923217574242"
-opening_hours: "Sa-Th 10:00-22:00"
+opening_hours: Sa-Th 10:00-22:00
 website: ""

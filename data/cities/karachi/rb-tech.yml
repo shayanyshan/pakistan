@@ -4,8 +4,9 @@ latitude: 24.88172
 longitude: 67.14538
 postcode: ""
 city: Karachi
-street: "st floor, chayell mobile mall, shahfaisal.2, near shama shopping centre, Shah Faisal Colony 1 Shah Faisal Colony,"
-housenumber: Shop # M-76, 1
+street: st floor, chayell mobile mall, shahfaisal.2, near shama shopping centre, Shah
+    Faisal Colony 1 Shah Faisal Colony,
+housenumber: 'Shop # M-76, 1'
 phone: ""
 opening_hours: ""
 website: ""

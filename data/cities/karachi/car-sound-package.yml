@@ -4,8 +4,9 @@ latitude: 24.92593
 longitude: 67.06525
 postcode: ""
 city: Karachi
-street: "Star Centre, Ayesha Manzil Pedestrian Crosssing, Federal B Area Block 7 Gulberg Town,"
-housenumber: Shop # 7,
+street: Star Centre, Ayesha Manzil Pedestrian Crosssing, Federal B Area Block 7 Gulberg
+    Town,
+housenumber: 'Shop # 7,'
 phone: ""
 opening_hours: ""
 website: ""

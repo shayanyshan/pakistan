@@ -4,8 +4,8 @@ latitude: 24.92636
 longitude: 67.09353
 postcode: "75300"
 city: Karachi
-street: "Allama Shabbir Ahmed Usmani Rd, K.D.A Market, Block-3, Gulshan-e-Iqbal"
-housenumber: Shop # A3/2, Maisam Plaza, K.D.A Market, Block-3, Gulshan-e-Iqbal
+street: Allama Shabbir Ahmed Usmani Rd, K.D.A Market, Block-3, Gulshan-e-Iqbal
+housenumber: 'Shop # A3/2, Maisam Plaza, K.D.A Market, Block-3, Gulshan-e-Iqbal'
 phone: ""
 opening_hours: ""
-website: "https://iqbaljee.com"
+website: https://iqbaljee.com

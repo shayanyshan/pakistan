@@ -4,8 +4,9 @@ latitude: 24.90811
 longitude: 67.05995
 postcode: ""
 city: Karachi
-street: "Shah Suleman Rd, Ishaqabad, Liaquatabad, Karachi, Sindh, Bundhani Colony, Pakistan"
-housenumber: 
+street: Shah Suleman Rd, Ishaqabad, Liaquatabad, Karachi, Sindh, Bundhani Colony,
+    Pakistan
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.diamondfoam.com/"
+website: https://www.diamondfoam.com/

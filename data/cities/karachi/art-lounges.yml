@@ -4,8 +4,9 @@ latitude: 24.9355
 longitude: 67.04743
 postcode: ""
 city: Karachi
-street: "2nd floor,Plot# B,|Al,Bata,Hyderi Market Unit No:S1, Block H North Nazimabad Town"
-housenumber: 
+street: 2nd floor,Plot# B,|Al,Bata,Hyderi Market Unit No:S1, Block H North Nazimabad
+    Town
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1293397195
-type: way
+type: node
 latitude: 33.55272
 longitude: 73.13961
 postcode: ""
 city: راولپنڈی
-street: "Central Avenue"
-housenumber: 263
+street: Central Avenue
+housenumber: "263"
 phone: ""
-opening_hours: "Mo-Su 08:00-02:00"
+opening_hours: Mo-Su 08:00-02:00
 website: ""

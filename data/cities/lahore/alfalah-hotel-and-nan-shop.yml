@@ -1,11 +1,11 @@
 id: 544987624
-type: way
+type: node
 latitude: 31.48184
 longitude: 74.41868
 postcode: "54000"
 city: Lahore
-street: "Street2"
-housenumber: 
+street: Street2
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

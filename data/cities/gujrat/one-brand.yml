@@ -1,5 +1,5 @@
 id: 1029937266
-type: way
+type: node
 latitude: 32.5935
 longitude: 74.0802
 postcode: ""
@@ -7,5 +7,5 @@ city: Gujrat
 street: ""
 housenumber: Bhimber road
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

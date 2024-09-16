@@ -1,11 +1,11 @@
 id: 1232448306
-type: way
+type: node
 latitude: 33.99063
 longitude: 71.47728
 postcode: "25000"
 city: Peshawar
-street: "chitral super store"
-housenumber: 
+street: chitral super store
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

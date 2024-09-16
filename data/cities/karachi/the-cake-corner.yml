@@ -4,7 +4,8 @@ latitude: 24.93188
 longitude: 67.07321
 postcode: ""
 city: Karachi
-street: ", Block 14 Naseerabad Block 14 Gulberg Town, Karachi, Karachi City, Sindh 75950, Pakistan"
+street: ', Block 14 Naseerabad Block 14 Gulberg Town, Karachi, Karachi City, Sindh
+    75950, Pakistan'
 housenumber: Plot R 410,
 phone: ""
 opening_hours: ""

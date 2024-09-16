@@ -1,11 +1,11 @@
 id: 1137309409
-type: way
+type: node
 latitude: 32.49272
 longitude: 73.39682
 postcode: ""
 city: bhikhi sharif
-street: "enowal road"
-housenumber: 222
+street: enowal road
+housenumber: "222"
 phone: "03177645484"
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

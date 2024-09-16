@@ -4,8 +4,10 @@ latitude: 24.90395
 longitude: 67.04575
 postcode: ""
 city: Karachi
-street: "Shop#133, street #3 (Tanki wali gali#3) khalid cloth market, liaquatabad, Near Super Market Liaquatabad, Block 2 Liaquatabad Town, Karachi, Karachi City, Sindh 75900, Pakistan"
-housenumber: 
+street: 'Shop#133, street #3 (Tanki wali gali#3) khalid cloth market, liaquatabad,
+    Near Super Market Liaquatabad, Block 2 Liaquatabad Town, Karachi, Karachi City,
+    Sindh 75900, Pakistan'
+housenumber: ""
 phone: "03343360436"
 opening_hours: ""
 website: ""

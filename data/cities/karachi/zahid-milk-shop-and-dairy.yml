@@ -4,7 +4,7 @@ latitude: 24.85563
 longitude: 67.01627
 postcode: ""
 city: Karachi
-street: "street # 1, Burns Road,"
+street: 'street # 1, Burns Road,'
 housenumber: V248+6F
 phone: "03333755805"
 opening_hours: ""

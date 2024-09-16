@@ -4,8 +4,9 @@ latitude: 24.9067
 longitude: 67.06948
 postcode: ""
 city: Karachi
-street: "55, 13D-3, 13D-3, Block 13D-3 Block 13 D 3 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan"
-housenumber: 
+street: 55, 13D-3, 13D-3, Block 13D-3 Block 13 D 3 Gulshan-e-Iqbal, Karachi, Karachi
+    City, Sindh, Pakistan
+housenumber: ""
 phone: "03213488300"
 opening_hours: ""
 website: ""

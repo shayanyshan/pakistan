@@ -1,11 +1,11 @@
 id: 536363965
-type: way
+type: node
 latitude: 24.91697
 longitude: 67.06034
 postcode: "74700"
 city: Karachi
-street: "Hussainabad Street"
-housenumber: 1112
+street: Hussainabad Street
+housenumber: "1112"
 phone: "+92331685944"
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

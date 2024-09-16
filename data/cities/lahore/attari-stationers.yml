@@ -1,11 +1,11 @@
 id: 544700214
-type: way
+type: node
 latitude: 31.48525
 longitude: 74.42124
 postcode: "54000"
 city: Lahore
-street: "Bedian Road"
-housenumber: 
+street: Bedian Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

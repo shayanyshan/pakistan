@@ -1,5 +1,5 @@
 ---
 title: "Delhi Rabbri House"
 url: /karachi/delhi-rabbri-house/
-shop: confectionery
+shop: bakery
 ---

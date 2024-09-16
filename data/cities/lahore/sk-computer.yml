@@ -1,11 +1,11 @@
 id: 544987151
-type: way
+type: node
 latitude: 31.47947
 longitude: 74.41408
 postcode: "54000"
 city: Lahore
-street: "Malikpur Road"
-housenumber: 
+street: Malikpur Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

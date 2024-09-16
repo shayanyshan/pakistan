@@ -3,9 +3,10 @@ type: node
 latitude: 24.90333
 longitude: 67.06982
 postcode: ""
-city: 03353773432
-street: "Gulshan E Iqbal, Showroom no, R55, Hasan Square Block 13 A Gulshan-e-Iqbal, Karachi,"
-housenumber: 
+city: "03353773432"
+street: Gulshan E Iqbal, Showroom no, R55, Hasan Square Block 13 A Gulshan-e-Iqbal,
+    Karachi,
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

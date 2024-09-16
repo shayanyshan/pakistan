@@ -4,8 +4,9 @@ latitude: 24.88466
 longitude: 67.14548
 postcode: ""
 city: Karachi
-street: ",shama shopping center,shah faisal colony #01, Shah Faisal Colony 1 Shah Faisal Colony, Karachi,"
-housenumber: Shop #45
+street: ',shama shopping center,shah faisal colony #01, Shah Faisal Colony 1 Shah
+    Faisal Colony, Karachi,'
+housenumber: 'Shop #45'
 phone: ""
 opening_hours: ""
 website: ""
