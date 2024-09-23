@@ -1,6 +1,6 @@
 ---
 title: Mandra
 url: /mandra/
-latitude: 33.367
-longitude: 73.239
+latitude: 33.366
+longitude: 73.24
 ---

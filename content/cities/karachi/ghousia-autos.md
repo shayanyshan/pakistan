@@ -1,5 +1,5 @@
 ---
 title: "Ghousia Autos"
 url: /karachi/ghousia-autos/
-shop: motorcycle
+shop: car parts
 ---

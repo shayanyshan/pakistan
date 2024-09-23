@@ -1,5 +1,5 @@
 ---
-title: "Bismillah Pan shop"
+title: "Bismillah Pan Shop"
 url: /karachi/bismillah-pan-shop/
-shop: shop
+shop: tobacco
 ---

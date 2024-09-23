@@ -1,5 +1,5 @@
 ---
-title: "Moiz Autos"
+title: "Moiz autos"
 url: /karachi/moiz-autos/
-shop: car repair
+shop: car
 ---

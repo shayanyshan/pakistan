@@ -1,5 +1,5 @@
 ---
-title: "Shakeel Autos"
+title: "SHAKEEL AUTOS"
 url: /karachi/shakeel-autos/
-shop: motorcycle
+shop: shop
 ---
