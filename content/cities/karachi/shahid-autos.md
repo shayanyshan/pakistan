@@ -1,5 +1,5 @@
 ---
 title: "Shahid Autos"
 url: /karachi/shahid-autos/
-shop: shop
+shop: car repair
 ---
